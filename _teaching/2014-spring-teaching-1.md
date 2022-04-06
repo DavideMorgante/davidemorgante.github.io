@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Tutorato Metodi Matematici della Fisica"
 collection: teaching
-type: "Undergraduate course"
+type: "Laurea Triennale"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Unimi, Fisica"
+date: 2022-04-01
+location: "Milano, Italia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

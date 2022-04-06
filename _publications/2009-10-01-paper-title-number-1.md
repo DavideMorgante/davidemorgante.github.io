@@ -1,9 +1,9 @@
 ---
 title: "Unfortunately, nothing to see here"
 collection: publications
-permalink: 
+permalink:
 excerpt: 'I just started the PhD, please have some misery'
-date: Never
+date: 2050-31-02
 venue: 'Nowere'
 paperurl: ''
 ---
