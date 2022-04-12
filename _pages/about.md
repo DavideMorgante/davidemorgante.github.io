@@ -23,5 +23,9 @@ CV in Short
 
 News
 =========
+|                  |                                                                                                                       |
+|------------------|-----------------------------------------------------------------------------------------------------------------------|
 | 23-25 March 2022 | Participating at the [Iberian Strings](https://www.unioviedo.es/hepth/activities/Iberian22/home.html) seminar school. |
-| 9-13 May 2022    | Participating at the [ICTP Spring School on Superstring Theory and Related Topics](https://indico.ictp.it/event/9784/overview) |
+|                  |                                                                                                                       |
+|                  |                                                                                                                       |
+|                  |                                                                                                                       |
