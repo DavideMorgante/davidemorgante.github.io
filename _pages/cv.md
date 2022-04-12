@@ -11,49 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, Sapienza University of Rome, 2019, 110 with Honours
+  * Thesis: Semiclassical Transition Amplitudes (original: Ampiezze Semiclassiche di Transizione)
+* M.Sc. in Theoretical High Energy Physics, Sapienza University of Rome, 2021, 110 with Honours
+  * Thesis: Unitarity Triangle Analysis and Recent Theoretical Advancements on $\epsilon^\prime/\epsilon$
+* Honorus Program, Sapienza University of Rome, 2020
+* Ph.D in Theoretical Physics, University of Milan, ongoing
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020: Student Collaboration Scholarship
+  * Sapienza University of Rome
+  * Duties included: Information desk for students and future students of the physics department
 
-* Fall 2015: Research Assistant
+* From 2015: Prive Tutor
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I am a bone marrow donor. I strongly advise to everybody to do the same. You can find all the information you need in [ADMO site](https://admo.it/).
+* I am a blood donor. Same as before: I strongly advise everybody to do it. Do not fear the needle, it does not hurt; the donation lasts five minutes. You can find all the information in one of the many blood donor associations like [AVIS](https://www.avis.it/it).

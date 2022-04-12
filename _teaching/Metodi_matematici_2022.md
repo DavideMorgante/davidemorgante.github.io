@@ -19,4 +19,6 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 **Please Note:** There is an error in the solution of the Cayley-Hamilton exercise. I want to thank the students for making me notice it. You can find the right solution from [this link](http://DavideMorgante.github.io/files/CH_corretto.pdf)
 
 ## Lecture 3: More Taylor and Laurent series
-The second method to do the series expansion of $f(z) = (z^2-5z+4)^{-1}$ using Cauchy product formula, can be found in the lesson 2 [notes](http://DavideMorgante.github.io/files/Lezione2.pdf)
+The second method to do the series expansion of $f(z) = (z^2-5z+4)^{-1}$ using Cauchy product formula, can be found in the lesson 2 [notes](http://DavideMorgante.github.io/files/Lezione2.pdf).
+
+The notes for the big exercise done during class can be found from [this link](http://DavideMorgante.github.io/files/Lezione3.pdf)
