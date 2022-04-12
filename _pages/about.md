@@ -13,7 +13,7 @@ I'm a Ph.D. student in Theoretical Physics at the University of Milan, where I w
 My research interests lie in the neighbourhood of string theory, supersymmetric field theories, supersymmetric dualities, geometric realisation of field theories, AdS/CFT correspondence and so on.
 At the moment I'm mainly focus on studying supersymmetric dualities from deconfining techniques.
 
-I started my research career in high energy physics, in particular working on Standard Model physics and Flavour physics. But I always had a keen interest in string theory and decided to change my path after starting my PhD.
+I started my research career in high energy physics, in particular working on Standard Model physics, Flavour physics and SM phenomenology. But I always had a keen interest in string theory and decided to change my path after starting my PhD.
 
 CV in Short
 =========
