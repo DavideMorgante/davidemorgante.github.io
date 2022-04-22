@@ -17,7 +17,7 @@ The lectures are held both online and in presence in the following days
 | Monday    | 16.30 - 17.30   | Aula C (usual Zoom link and password) |
 | Thursday  | 16.30 - 17.30   | Aula B (usual Zoom link and password) |
 
-I strongly recommend to follow the lectures in class so that you can ask me any question directly. For any other questions related to exercises, done and not done during the lecture, you can contact Me or Marco Marino ad the following e-mail addresses
+I strongly recommend to follow the lectures in class so that you can ask me any question directly. For any other questions related to exercises, done and not done during the lecture, you can contact Me or Marco Marino at the following e-mail addresses
 
 * Davide Morgante: davide.morgante@mi.infn.it
 * Marco Marino: marco.marino1@unimi.it
