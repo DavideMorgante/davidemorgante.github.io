@@ -24,7 +24,25 @@ I strongly recommend to follow the lectures in class so that you can ask me any 
 
 The number of my office is DC/T/37 and is located at the ground floor, at the end of the central corridor to the left, near the bathrooms (the office is two doors from prof. Molinari's office). For the location of Marco's office, write him an e-mail!
 
-## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions (04/04/21)
+Here is a list of my favorite books, the more mathematical one are highlighted in red  
+
+  * Complex Analysis:
+    * <span style="color:red">Functional Theory of One Complex Variable</span> - Greene, Krantz
+    * <span style="color:red">Complex Analysis</span> - Ahlfors
+    * Elementi di Analisi Complessa - Presilla (Con moltissimi esercizi svolti)
+    * <span style="color:red">Algebraic Curves and Riemann Surfaces</span> - Miranda
+  * General Mathematical Methods:
+    * Mathematics of Classical and Quantum Physics - Byron, Fuller
+    * Mathematical Methods for Students of Physics and Related Fields - Hassani
+    * Mathematical Methods for Physics and Engineering - Riley, Hobson, Bence
+    * [Appunti di Metodi Matematici della Fisica](https://www.ge.infn.it/~zanghi/metodi/ZUL.pdf) - Zanghì
+  * Differential Equations
+    * Ordinary Differential Equations - Arnol'd
+  * Operators, Distributions and Functional Analysis:
+    * [Rudimenti di Analisi Infinito Dimensionale](https://www.roma1.infn.it/~cesi/rudimenti/RAID-s-v03.pdf) - Cesi
+    * <span style="color:red">Distributions and Operators</span> - Grubb
+
+## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions, Möebius Transformaion (04/04/21)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione1.pdf)
 
 ## Lecture 2: Cauchy integral formula, Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (07/04/21)
