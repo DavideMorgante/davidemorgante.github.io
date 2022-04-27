@@ -58,3 +58,5 @@ The second method to do the series expansion of $f(z) = (z^2-5z+4)^{-1}$ using C
 The notes for the big exercise done during class can be found from [this link](http://DavideMorgante.github.io/files/Lezione3.pdf).
 
 ## Lecture 4: Residue Theorem, Cauchy Principal Value, Order $k$ poles and their residues, Integrals with branch cuts (28/04/21)
+
+## Lecture 5: More residue integrals (02/05/21 - Marco)
