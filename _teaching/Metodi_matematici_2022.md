@@ -38,19 +38,21 @@ Here is a list of my favorite books, the more mathematical one are highlighted i
     * [Appunti di Metodi Matematici della Fisica](https://www.ge.infn.it/~zanghi/metodi/ZUL.pdf) - Zanghì
   * Differential Equations
     * Ordinary Differential Equations - Arnol'd
+    * Differential Equations, Dynamical Systems, and an Introduction to Chaos - Hirsch, Smale, Devaney
   * Operators, Distributions and Functional Analysis:
     * [Rudimenti di Analisi Infinito Dimensionale](https://www.roma1.infn.it/~cesi/rudimenti/RAID-s-v03.pdf) - Cesi
     * <span style="color:red">Distributions and Operators</span> - Grubb
 
 ## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions, Möebius Transformaion (04/04/21)
-You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione1.pdf)
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione1.pdf).
 
 ## Lecture 2: Cauchy integral formula, Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (07/04/21)
-You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione2.pdf)
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione2.pdf).
+Here you can find some [notes on Cayley-Hamilton theorem](https://web.mit.edu/2.151/www/Handouts/CayleyHamilton.pdf).
 
-**Please Note:** There is an error in the solution of the Cayley-Hamilton exercise. I want to thank the students for making me notice it. You can find the right solution from [this link](http://DavideMorgante.github.io/files/CH_corretto.pdf)
+**Please Note:** There is an error in the solution of the Cayley-Hamilton exercise. I want to thank the students for making me notice it. You can find the right solution from [this link](http://DavideMorgante.github.io/files/CH_corretto.pdf).
 
 ## Lecture 3: More Taylor and Laurent series (11/04/21)
 The second method to do the series expansion of $f(z) = (z^2-5z+4)^{-1}$ using Cauchy product formula, can be found in the lesson 2 [notes](http://DavideMorgante.github.io/files/Lezione2.pdf).
 
-The notes for the big exercise done during class can be found from [this link](http://DavideMorgante.github.io/files/Lezione3.pdf)
+The notes for the big exercise done during class can be found from [this link](http://DavideMorgante.github.io/files/Lezione3.pdf).
