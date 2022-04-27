@@ -56,3 +56,5 @@ Here you can find some [notes on Cayley-Hamilton theorem](https://web.mit.edu/2.
 The second method to do the series expansion of $f(z) = (z^2-5z+4)^{-1}$ using Cauchy product formula, can be found in the lesson 2 [notes](http://DavideMorgante.github.io/files/Lezione2.pdf).
 
 The notes for the big exercise done during class can be found from [this link](http://DavideMorgante.github.io/files/Lezione3.pdf).
+
+## Lecture 4: Residue Theorem, Cauchy Principal Value, Order $k$ poles and their residues, Integrals with branch cuts (28/04/21)
