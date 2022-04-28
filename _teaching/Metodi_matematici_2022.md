@@ -36,6 +36,7 @@ Here is a list of my favorite books, the more mathematical one are highlighted i
     * Mathematical Methods for Students of Physics and Related Fields - Hassani
     * Mathematical Methods for Physics and Engineering - Riley, Hobson, Bence
     * [Appunti di Metodi Matematici della Fisica](https://www.ge.infn.it/~zanghi/metodi/ZUL.pdf) - Zanghì
+    * Metodi Matematici della Fisica - Cicogna
   * Differential Equations
     * Ordinary Differential Equations - Arnol'd
     * Differential Equations, Dynamical Systems, and an Introduction to Chaos - Hirsch, Smale, Devaney
