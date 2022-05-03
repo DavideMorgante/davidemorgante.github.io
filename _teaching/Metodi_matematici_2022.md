@@ -62,4 +62,13 @@ The notes for the big exercise done during class can be found from [this link](h
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione4.pdf). Check out the last exercise that we didn't have time to do. You are asked to integrate the function $$f(z) = \frac{e^\frac{z}{2}+|z|^2}{(z-i\pi)^2}$$ on the circular contour centred at $z=i\pi$ with radius $R=\pi$. Not only this function has a *second order* pole, but you cannot directly use the residue theorem on the whole function since is *not holomorphic*. This exercise is taken from an exam, so be careful! Moreover, in this exercise I give you two ways of evaluating a second order pole: the first with the generalised formula that we have seen for the first order pole and the second (the best one if you ask me) is through the Laurent expansion of the function. If you have any questions, just write me an e-mail.
 
 ## Lecture 5: More residue integrals (02/05/21 - Marco)
-You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/lezione5.pdf). There are more exercises on the pdf which Marco will probably do on Monday 09/05. 
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/lezione5.pdf). There are more exercises on the pdf which Marco will probably do on Monday 09/05.
+
+## Lecture 6: Guess what: more residue integrals (05/05/21)
+TBA
+
+## Lecture 7: Probably more integrals (09/05/21 - Marco)
+TBA
+
+## Lecture 8: Metric spaces, Hilbert & Banach spaces (13/05/21 - Marco)
+TBA
