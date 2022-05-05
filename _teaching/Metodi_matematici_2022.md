@@ -70,7 +70,7 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 ## Lecture 6: Guess what: more residue integrals (05/05/21)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione6.pdf).
 
-**Please Note:** When doing the integral on the small circle path around $z=0$ and taking the limit $r\rightarrow 0$ the limits of integration when we parametrize the curve are $[0,\pi]$ and not $[0,2\pi]$ as I did in class. Sorry for the inconvenience!
+**Please Note:** When doing the integral on the small circle path around $z=0$ and taking the limit $r\rightarrow 0$ the limits of integration when we parametrise the curve are $[0,\pi]$ and not $[0,2\pi]$ as I did in class. Sorry for the inconvenience!
 
 ## Lecture 7: Probably more integrals (09/05/21 - Marco)
 TBA
