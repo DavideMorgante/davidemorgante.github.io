@@ -17,6 +17,8 @@ The lectures are held both online and in presence in the following days
 | Monday    | 16.30 - 17.30   | Aula C (usual Zoom link and password) |
 | Thursday  | 16.30 - 17.30   | Aula B (usual Zoom link and password) |
 
+**Update:** as said in class 05/05/21, me and Marco where thinking about adding an hour more to the tutoring classes. This can be done in two ways: either we add half an hour to both lessons on Monday and Thursday or we could add another day of lesson. Probably is going to be the first one since it's difficult managing the classes. We'll let you know whenever we have news.
+
 I strongly recommend to follow the lectures in class so that you can ask me any question directly. For any other questions related to exercises, done and not done during the lecture, you can contact Me or Marco Marino at the following e-mail addresses
 
 * Davide Morgante: davide.morgante@mi.infn.it
@@ -37,6 +39,7 @@ Here is a list of my favorite books, the more mathematical one are highlighted i
     * Mathematical Methods for Physics and Engineering - Riley, Hobson, Bence
     * [Appunti di Metodi Matematici della Fisica](https://www.ge.infn.it/~zanghi/metodi/ZUL.pdf) - Zanghì
     * Metodi Matematici della Fisica - Cicogna
+    * A Guide to Mathematical Methods for Physicists - Petrini, Pradisi, Zaffaroni
   * Differential Equations
     * Ordinary Differential Equations - Arnol'd
     * Differential Equations, Dynamical Systems, and an Introduction to Chaos - Hirsch, Smale, Devaney
@@ -65,7 +68,9 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/lezione5.pdf). There are more exercises on the pdf which Marco will probably do on Monday 09/05.
 
 ## Lecture 6: Guess what: more residue integrals (05/05/21)
-TBA
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione6.pdf).
+
+**Please Note:** When doing the integral on the small circle path around $z=0$ and taking the limit $r\rightarrow 0$ the limits of integration when we parametrize the curve are $[0,\pi]$ and not $[0,2\pi]$ as I did in class. Sorry for the inconvenience!
 
 ## Lecture 7: Probably more integrals (09/05/21 - Marco)
 TBA
