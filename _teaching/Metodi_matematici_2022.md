@@ -47,33 +47,35 @@ Here is a list of my favorite books, the more mathematical one are highlighted i
     * [Rudimenti di Analisi Infinito Dimensionale](https://www.roma1.infn.it/~cesi/rudimenti/RAID-s-v03.pdf) - Cesi
     * <span style="color:red">Distributions and Operators</span> - Grubb
 
-## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions, Möebius Transformaion (04/04/21)
+## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions, Möebius Transformaion (04/04/22)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione1.pdf).
 
-## Lecture 2: Cauchy integral formula, Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (07/04/21)
+## Lecture 2: Cauchy integral formula, Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (07/04/22)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione2.pdf).
 Here you can find some [notes on Cayley-Hamilton theorem](https://web.mit.edu/2.151/www/Handouts/CayleyHamilton.pdf).
 
 **Please Note:** There is an error in the solution of the Cayley-Hamilton exercise. I want to thank the students for making me notice it. You can find the right solution from [this link](http://DavideMorgante.github.io/files/CH_corretto.pdf).
 
-## Lecture 3: More Taylor and Laurent series (11/04/21)
+## Lecture 3: More Taylor and Laurent series (11/04/22)
 The second method to do the series expansion of $f(z) = (z^2-5z+4)^{-1}$ using Cauchy product formula, can be found in the lesson 2 [notes](http://DavideMorgante.github.io/files/Lezione2.pdf).
 
 The notes for the big exercise done during class can be found from [this link](http://DavideMorgante.github.io/files/Lezione3.pdf).
 
-## Lecture 4: Residue Theorem, Cauchy Principal Value, Order $k$ poles and their residues, Integrals with branch cuts (28/04/21)
+## Lecture 4: Residue Theorem, Cauchy Principal Value, Order $k$ poles and their residues, Integrals with branch cuts (28/04/22)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione4.pdf). Check out the last exercise that we didn't have time to do. You are asked to integrate the function $$f(z) = \frac{e^\frac{z}{2}+|z|^2}{(z-i\pi)^2}$$ on the circular contour centred at $z=i\pi$ with radius $R=\pi$. Not only this function has a *second order* pole, but you cannot directly use the residue theorem on the whole function since is *not holomorphic*. This exercise is taken from an exam, so be careful! Moreover, in this exercise I give you two ways of evaluating a second order pole: the first with the generalised formula that we have seen for the first order pole and the second (the best one if you ask me) is through the Laurent expansion of the function. If you have any questions, just write me an e-mail.
 
-## Lecture 5: More residue integrals (02/05/21 - Marco)
+## Lecture 5: More residue integrals (02/05/22 - Marco)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/lezione5.pdf). There are more exercises on the pdf which Marco will probably do on Monday 09/05.
 
-## Lecture 6: Guess what: more residue integrals (05/05/21)
+## Lecture 6: Guess what: more residue integrals (05/05/22)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione6.pdf).
 
 **Please Note:** When doing the integral on the small circle path around $z=0$ and taking the limit $r\rightarrow 0$ the limits of integration when we parametrise the curve are $[0,\pi]$ and not $[0,2\pi]$ as I did in class. Sorry for the inconvenience!
 
-## Lecture 7: Probably more integrals (09/05/21 - Marco)
-TBA
+## Lecture 7: Probably more integrals (09/05/22 - Marco)
+You can find the pdf of the lessn from [this link](http://DavideMorgante.github.io/files/lezione5.pdf).
 
-## Lecture 8: Metric spaces, Hilbert & Banach spaces (13/05/21 - Marco)
-TBA
+## Lecture 8: Residue Integrals & Möbius transformations (13/05/22 - Marco)
+You can find the pdf of the lessn from [this link](http://DavideMorgante.github.io/files/lezione8.pdf).
+
+## Lecture 9: Finite dimensional Hilbert Spaces and Operators acting on such Hilbert spaces (16/05/22)
