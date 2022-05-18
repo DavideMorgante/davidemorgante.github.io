@@ -73,7 +73,7 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 **Please Note:** When doing the integral on the small circle path around $z=0$ and taking the limit $r\rightarrow 0$ the limits of integration when we parametrise the curve are $[0,\pi]$ and not $[0,2\pi]$ as I did in class. Sorry for the inconvenience!
 
 ## Lecture 7: Probably more integrals (09/05/22 - Marco)
-You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione5.pdf).
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/lezione5.pdf).
 
 ## Lecture 8: Residue Integrals & Möbius transformations (13/05/22 - Marco)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione8.pdf).
