@@ -80,3 +80,5 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 
 ## Lecture 9: Finite dimensional Hilbert Spaces and Operators acting on such Hilbert spaces (16/05/22)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione9.pdf)
+
+## Lecture 10: Operators on finite dimensional Hilbert spaces, Group theory and Lie Groups (19/05/22)
