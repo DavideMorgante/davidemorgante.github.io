@@ -82,3 +82,6 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione9.pdf)
 
 ## Lecture 10: Operators on finite dimensional Hilbert spaces, Group theory and Lie Groups (19/05/22)
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione10.pdf).
+
+If you want to see how to solve the exercise on the generator of the representation of $SO(1,1)$ without knowing anything about Lie groups and algebras, you can find the solution from Molinari's notes [here](http://wwwteor.mi.infn.it/~molinari/METODI/TEST/2017_6_27_scan.pdf).
