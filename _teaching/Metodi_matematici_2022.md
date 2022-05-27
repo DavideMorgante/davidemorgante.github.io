@@ -14,10 +14,8 @@ The lectures are held both online and in presence in the following days
 
 | Day       | Time            | Classroom                             |
 | --------  | --------------- | ------------------------------------- |
-| Monday    | 16.30 - 17.30   | Aula C (usual Zoom link and password) |
-| Thursday  | 16.30 - 17.30   | Aula B (usual Zoom link and password) |
-
-**Update:** as said in class 05/05/21, me and Marco where thinking about adding an hour more to the tutoring classes. This can be done in two ways: either we add half an hour to both lessons on Monday and Thursday or we could add another day of lesson. Probably is going to be the first one since it's difficult managing the classes. We'll let you know whenever we have news.
+| Monday    | 16.30 - 18.00   | Aula C (usual Zoom link and password) |
+| Thursday  | 16.30 - 18.00   | Aula B (usual Zoom link and password) |
 
 I strongly recommend to follow the lectures in class so that you can ask me any question directly. For any other questions related to exercises, done and not done during the lecture, you can contact Me or Marco Marino at the following e-mail addresses
 
