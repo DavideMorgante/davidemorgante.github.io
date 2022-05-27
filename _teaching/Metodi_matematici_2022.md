@@ -90,4 +90,4 @@ If you want to see how to solve the exercise on the generator of the representat
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione11.pdf).
 
 ## Lecture 12: Infinite dimensional Hilbert spaces, $L^2(X)$ spaces and separability (26/05/2022)
-We started the lesson with the last exercise of the [last pdf](http://DavideMorgante.github.io/files/Lezione11.pdf). The other exercises can be found from [TBA].
+We started the lesson with the last exercise of the [last pdf](http://DavideMorgante.github.io/files/Lezione11.pdf). The other exercises can be found from [this link](http://DavideMorgante.github.io/files/Lezione12.pdf).
