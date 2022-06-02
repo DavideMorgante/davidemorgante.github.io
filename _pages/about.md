@@ -27,6 +27,8 @@ CV in Short
 News
 =========
 
-| 23-25 March | 2022  | Participating at the [Iberian Strings](https://www.unioviedo.es/hepth/activities/Iberian22/home.html) seminar school.                         |
+| 12-15 June     | 2022   | Participating at the [Theories of fundamental Interactions 2022](https://agenda.infn.it/event/29115/timetable/#20220614) INFN meeting                        |
 | --------     | ------ | ------------------------------------------------------------ |
 | 9-13 May     | 2022   | Participating at the [ICTP Spring School on Superstring Theory and Related Topics](https://indico.ictp.it/event/9784/overview)                          |
+| --------     | ------ | ------------------------------------------------------------ |
+| 23-25 March | 2022  | Participating at the [Iberian Strings](https://www.unioviedo.es/hepth/activities/Iberian22/home.html) seminar school.                         |
