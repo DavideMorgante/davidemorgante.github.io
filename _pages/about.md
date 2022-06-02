@@ -22,7 +22,7 @@ CV in Short
 | --------  | ------ | -------------------------------|
 | 2019 - 2021 | M.Sc. in Theoretical Physics @ Sapienza |
 | --------  | ------ | -------------------------------|
-| 2016 - 2019 | B.Sc. in Physics @ Unimi                |
+| 2016 - 2019 | B.Sc. in Physics @ Sapienza                |
 
 News
 =========
