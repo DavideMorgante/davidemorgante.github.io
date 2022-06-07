@@ -90,4 +90,7 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 ## Lecture 12: Infinite dimensional Hilbert spaces, $L^2(X)$ spaces and separability (26/05/2022)
 We started the lesson with the last exercise of the [last pdf](http://DavideMorgante.github.io/files/Lezione11.pdf). The other exercises can be found from [this link](http://DavideMorgante.github.io/files/Lezione12.pdf).
 
-## Lecture 13: Fourier Series (30/05/2022 - Marco)
+## Lecture 13 & 14: Fourier Series & Fourier Transform (30/05/2022 - 06/06/2022 - Marco)
+You can find the pdf of the lessons from [this link](http://DavideMorgante.github.io/files/Lezione13-14.pdf)
+
+## Lecture 15: Tempered Distributions (09/06/2022)
