@@ -94,3 +94,13 @@ We started the lesson with the last exercise of the [last pdf](http://DavideMorg
 You can find the pdf of the lessons from [this link](http://DavideMorgante.github.io/files/Lezione13-14.pdf)
 
 ## Lecture 15: Tempered Distributions (09/06/2022)
+
+## What should we do in the next lessons?
+[![](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Holomorphic%20Functions)](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Holomorphic%20Functions/vote)
+[![](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Taylor%20%26%20Laurent%20Series)](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Taylor%20%26%20Laurent%20Series/vote)
+[![](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Residue%20Theorem)](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Residue%20Theorem/vote)
+[![](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Fourier%20Transform)](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Fourier%20Transform/vote)
+[![](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Fourier%20Series)](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Fourier%20Series/vote)
+[![](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Finite%20dimensional%20Hilbert%20spaces%20%26%20Operators)](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Finite%20dimensional%20Hilbert%20spaces%20%26%20Operators/vote)
+[![](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Infinite%20dimensional%20Hilbert%20spaces%20%26%20Operators)](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Infinite%20dimensional%20Hilbert%20spaces%20%26%20Operators/vote)
+[![](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Distributions)](https://api.gh-polls.com/poll/01G5203DQRQHCEBBDPQDXHFDX2/Distributions/vote)
