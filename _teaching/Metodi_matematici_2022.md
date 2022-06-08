@@ -94,3 +94,10 @@ We started the lesson with the last exercise of the [last pdf](http://DavideMorg
 You can find the pdf of the lessons from [this link](http://DavideMorgante.github.io/files/Lezione13-14.pdf)
 
 ## Lecture 15: Tempered Distributions (09/06/2022)
+
+## Next Lessons Poll: What exercises do you want us to do?
+[poll type=multiple min=1, max=3]
+- Option 1
+- Option 2
+- Option 3
+[/poll]
