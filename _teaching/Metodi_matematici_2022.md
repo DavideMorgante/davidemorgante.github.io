@@ -91,9 +91,10 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 We started the lesson with the last exercise of the [last pdf](http://DavideMorgante.github.io/files/Lezione11.pdf). The other exercises can be found from [this link](http://DavideMorgante.github.io/files/Lezione12.pdf).
 
 ## Lecture 13 & 14: Fourier Series & Fourier Transform (30/05/2022 - 06/06/2022 - Marco)
-You can find the pdf of the lessons from [this link](http://DavideMorgante.github.io/files/Lezione13-14.pdf)
+You can find the pdf of the lessons from [this link](http://DavideMorgante.github.io/files/Lezione13-14.pdf).
 
 ## Lecture 15: Tempered Distributions (09/06/2022)
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/filed/Lezione15.pdf).
 
 ## What should we do in the next lessons?
 [![](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Taylor%20%26%20Laurent%20Series)](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Taylor%20%26%20Laurent%20Series/vote)
