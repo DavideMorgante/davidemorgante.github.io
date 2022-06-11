@@ -23,6 +23,8 @@ Work experience
 * Spring 2020: Student Collaboration Scholarship
   * Sapienza University of Rome
   * Duties included: Information desk for students and future students of the physics department
+* February - September 2022: Tutoring for the Mathematical Methods for Physics course at Unimi
+  * Duties included: Lecturing exercise lessons, office hours for students and TA during exams
 
 Publications
 ======
