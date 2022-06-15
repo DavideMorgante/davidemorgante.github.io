@@ -104,3 +104,8 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 [![](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Finite%20Dimensional%20Hilbert%20Spaces%20%26%20Operators)](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Finite%20Dimensional%20Hilbert%20Spaces%20%26%20Operators/vote)
 [![](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Infinite%20Dimensional%20Hilbert%20Spaces%20%26%20Operators)](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Infinite%20Dimensional%20Hilbert%20Spaces%20%26%20Operators/vote)
 [![](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Distributions)](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Distributions/vote)
+
+## Lecture 16: Operators & Hilbert spaces (13/06/2022 - Marco)
+
+## Lecture 17: Fourier Transforms and Fourier Transform Equations (16/06/2022)
+ 
