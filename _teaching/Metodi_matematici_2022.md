@@ -24,6 +24,8 @@ I strongly recommend to follow the lectures in class so that you can ask me any 
 
 The number of my office is DC/T/37 and is located at the ground floor, at the end of the central corridor to the left, near the bathrooms (the office is two doors from prof. Molinari's office). For the location of Marco's office, write him an e-mail!
 
+<span style="color:red">Important announcement: last lesson was on 16/06/2022. If you need help before the exam just come to our offices. I recommend to write an e-mail some days before to know if we are available, but in my case you can come to my office without notice, most of the times I'm there!</span>
+
 Here is a list of my favorite books, the more mathematical one are highlighted in red  
 
   * Complex Analysis:
@@ -107,5 +109,5 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 
 ## Lecture 16: Operators & Hilbert spaces (13/06/2022 - Marco)
 
-## Lecture 17: Fourier Transforms and Fourier Transform Equations (16/06/2022)
- 
+## Lecture 17: Fourier Transforms and Fourier Transform Equations (16/06/2022) - Last lecture!
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/fourier_transform.pdf). Note that this pdf was written by me many years ago, while I was following this course so there are going to be many errors, be careful! 
