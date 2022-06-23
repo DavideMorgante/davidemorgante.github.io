@@ -24,7 +24,7 @@ I strongly recommend to follow the lectures in class so that you can ask me any 
 
 The number of my office is DC/T/37 and is located at the ground floor, at the end of the central corridor to the left, near the bathrooms (the office is two doors from prof. Molinari's office). For the location of Marco's office, write him an e-mail!
 
-<span style="color:red">Important announcement: last lesson was on 16/06/2022. If you need help before the exam just come to our offices. I recommend to write an e-mail some days before to know if we are available, but in my case you can come to my office without notice, most of the times I'm there!</span>
+<span style="color:red">Important announcement: last lesson was on 16/06/2022. If you need help before the exam just come to our offices. I recommend to write an e-mail some days before to know if we are available. In any case, you can knock on our doors, maybe you'll find us in the office!</span>
 
 Here is a list of my favorite books, the more mathematical one are highlighted in red  
 
