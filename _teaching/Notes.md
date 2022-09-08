@@ -3,7 +3,6 @@ title: "Dump for Various General Notes"
 collection: teaching
 type: "Notes"
 permalink: /teaching/Notes
-venue: ""
 date: 2022-04-01
 location: "Milano, Italia"
 ---
@@ -15,7 +14,7 @@ These are some general notes on the basics of the Standard Model: starting from 
 The second chapter deals with the perturbative dynamics of the strong sector of the SM where we evaluate the $1$-loop beta function, the renormalization group equations and asymptotic freedom.
 
 ## [Electroweak Interactions in the SM](http://DavideMorgante.github.io/files/EW_Notes.pdf)
-These are some notes I wrote for a course given in Sapienza University by prof. Guido Martinelli on Electroweak Interactions. There could be errors inside, I've never checked them back. 
+These are some notes I wrote for a course given in Sapienza University by prof. Guido Martinelli on Electroweak Interactions. There could be errors inside, I've never checked them back.
 
 ## Some Useful Results for Loop Integrals
 TBA
