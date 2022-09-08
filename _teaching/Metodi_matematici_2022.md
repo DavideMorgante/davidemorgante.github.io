@@ -111,4 +111,4 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione16.pdf).
 
 ## Lecture 17: Fourier Transforms and Fourier Transform Equations (16/06/2022) - Last lecture!
-You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/fourier_transform.pdf). Note that this pdf was written by me many years ago, while I was following this course so there are going to be many errors, be careful! 
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/fourier_transform.pdf). Note that this pdf was written by me many years ago, while I was following this course so there are going to be many errors, be careful!
