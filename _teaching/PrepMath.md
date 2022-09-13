@@ -41,6 +41,7 @@ Riporto qui qualche esempio di referenze, per questo corso e per il futuro
 ## Lezione 0: Introduzione
 
 Riporto qui un'ottima risposta del mio collega Alessandro Candido alla domanda "Perché la matematica?"
+
 Vorrei rispondere alla domanda: “a cosa mi servono tutte queste nozioni di matematica per affrontare dei corsi di fisica?“.
 Per molti studenti la risposta è già ovvia, anche perché fa parte dell’esperienza con i corsi di fisica del liceo, ma probabilmente non così approfondita.
 
