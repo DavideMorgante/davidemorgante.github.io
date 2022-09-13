@@ -10,7 +10,7 @@ location: "Milano, Italia"
 
 Il corso consiste in cinque lezioni nelle quali verranno richiamate le basi della teoria degli insiemi, dell'analisi matematica e dell'algebra lineare. Il corso s'intende come un'introduzione a quegli argomenti che saranno trattati successivamente nei primi corsi di matematica della laurea in fisica.
 
-L'obiettivo del corso non sarà quello di trattare i suddetti argomenti in maniera prettamente formale -- cosa che verrà fatta nei corsi del primo anno -- ma di introdurre gli studenti alle nozioni fondamentali.
+L'obiettivo del corso sarà quello di trattare i suddetti argomenti in maniera prettamente formale, introducendo gli studenti alle nozioni fondamentali.
 
 Le lezioni si terranno nei seguenti giorni con i seguenti orari
 
@@ -22,33 +22,19 @@ Le lezioni si terranno nei seguenti giorni con i seguenti orari
 | Giovedì 22   | 09.00 - 12.00   | Aula B |
 | Venerdì 23   | 09.00 - 12.00   | Aula B |
 
-Per qualsiasi dubbio o difficolà potete contattarmi alla seguente mail
+Per qualsiasi dubbio o difficoltà potete contattarmi alla seguente mail
 
 * Davide Morgante: davide.morgante@mi.infn.it
 
 Il mio ufficio è il DC/T/37 ubicato al piano terra. Venendo dall'aula B, proseguite sul corridoio principale fino alla fine di questo e andate a sinistra.
 
-Here is a list of my favorite books, the more mathematical one are highlighted in red  
+Non ci sono referenze specifiche per il corso. Essendo argomenti molto introduttivi potrete però trovare molto su internet. Essendo voi studenti al primo anno, mi sento di darvi un caldo consiglio: imparate sin da subito a trovare e selezionare autonomamente il materiale da cui studiare. Succederà spesso, nella vostra carriera, di imbattervi in corsi dove verranno proposti molti riferimenti (libri, dispense and so on) oppure nessun riferimento. Nel primo caso, cercate sempre di non impuntarvi su una sola referenza: spesso avere più punti di vista su un singolo argomento è fondamentale per averne una comprensione profonda. Il secondo caso è quello più drastico; sappiate che internet è il vostro amico ma fate sempre attenzione a scegliere oculatamente dove studiare.
+Ad ogni modo, i vostri colleghi, più grandi e non, ed i vostri professori saranno il vostro strumento migliore per comprendere ed approfondire i vari argomenti che tratterete durante la laurea.
 
-  * Complex Analysis:
-    * <span style="color:red">Functional Theory of One Complex Variable</span> - Greene, Krantz
-    * <span style="color:red">Complex Analysis</span> - Ahlfors
-    * Elementi di Analisi Complessa - Presilla (Con moltissimi esercizi svolti)
-    * <span style="color:red">Algebraic Curves and Riemann Surfaces</span> - Miranda
-  * General Mathematical Methods:
-    * Mathematics of Classical and Quantum Physics - Byron, Fuller
-    * Mathematical Methods for Students of Physics and Related Fields - Hassani
-    * Mathematical Methods for Physics and Engineering - Riley, Hobson, Bence
-    * [Appunti di Metodi Matematici della Fisica](https://www.ge.infn.it/~zanghi/metodi/ZUL.pdf) - Zanghì
-    * Metodi Matematici della Fisica - Cicogna
-    * A Guide to Mathematical Methods for Physicists - Petrini, Pradisi, Zaffaroni
-  * Differential Equations
-    * Ordinary Differential Equations - Arnol'd
-    * Differential Equations, Dynamical Systems, and an Introduction to Chaos - Hirsch, Smale, Devaney
-  * Operators, Distributions and Functional Analysis:
-    * [Rudimenti di Analisi Infinito Dimensionale](https://www.roma1.infn.it/~cesi/rudimenti/RAID-s-v03.pdf) - Cesi
-    * <span style="color:red">Distributions and Operators</span> - Grubb
-
+Riporto qui qualche esempio di referenze, per questo corso e per il futuro
+  * Ottima [repository su github](https://github.com/rossant/awesome-math). Qui troverete svariate referenze, tutte open-source, sui più disparati campi della matematica. Vi incoraggio anche a dare una sfogliata a quelle referenze su argomenti piuttosto avanzati. Non fatevi spaventare!
+  * [How to become a good theoretical physicist](https://www.goodtheorist.science/). Questo sito, organizzato da [Gerardus 't Hooft](https://en.wikipedia.org/wiki/Gerard_%27t_Hooft) (fate attenzione [all'apostrofo](https://webspace.science.uu.nl/~hooft101/ap.html)) uno dei più influenti fisici del 21esimo secolo, contiene una raccolta piuttosto esaustiva di referenze per i più svariati argomenti di fisica.
+  * [Simile al precedente](http://www.damtp.cam.ac.uk/user/tong/teaching.html), David Tong ha organizzato un sito con una raccolta di note da lui scritte su moltissimi argomenti di fisica, dai più banali ai più avanzati.
 ## Lezione 0: Introduzione & Materiali utili
 
 ## Lezione 1: Insiemi e Funzioni
