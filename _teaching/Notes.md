@@ -3,7 +3,7 @@ title: "Dump for Various General Notes"
 collection: teaching
 type: "Notes"
 permalink: /teaching/Notes
-date: 2022-04-01
+date: 2021-10-19
 location: "Milano, Italia"
 ---
 This is a local dump for notes that I've collected over the years. I don't promise that they are good or even useful, it's just a way for me to have the organized somewhere! Take everything with a grain of salt.
