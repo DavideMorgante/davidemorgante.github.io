@@ -6,7 +6,7 @@ permalink: /teaching/Notes
 date: 2022-04-01
 location: "Milano, Italia"
 ---
-This is a local dump for notes that I've collected over the years. I don't promise that they are good or even useful, it's just a way for me to have the organised somewhere! Take everything with a grain of salt.
+This is a local dump for notes that I've collected over the years. I don't promise that they are good or even useful, it's just a way for me to have the organized somewhere! Take everything with a grain of salt.
 
 ## [A General and Fast Introduction to the Standard Model](http://DavideMorgante.github.io/files/notes_SM.pdf)
 These are some general notes on the basics of the Standard Model: starting from the Electroweak sector and going into the dynamics of the Higgs mechanism and spontaneous symmetry breaking. We go into the details of the Flavour structure of the SM with the Cabibbo-Kobayashi-Maskawa matrix and the related CP-violation.
