@@ -35,13 +35,12 @@ Ad ogni modo, i vostri colleghi, più grandi e non, ed i vostri professori saran
 
 Riporto qui qualche esempio di referenze, per questo corso e per il futuro
   * Ottima [repository su github](https://github.com/rossant/awesome-math). Qui troverete svariate referenze, tutte open-source, sui più disparati campi della matematica. Vi incoraggio anche a dare una sfogliata a quelle referenze su argomenti piuttosto avanzati. Non fatevi spaventare!
-  * [How to become a good theoretical physicist](https://www.goodtheorist.science/). Questo sito, organizzato da [Gerardus `t Hooft](https://en.wikipedia.org/wiki/Gerard_%27t_Hooft) (fate attenzione [all'apostrofo](https://webspace.science.uu.nl/~hooft101/ap.html)) uno dei più influenti fisici del 21esimo secolo, contiene una raccolta piuttosto esaustiva di referenze per i più svariati argomenti di fisica. Per i più audaci [how to become a bad theoretical physicist](https://webspace.science.uu.nl/~hooft101/theoristbad.html).
+  * [How to become a good theoretical physicist](https://www.goodtheorist.science/). Questo sito, organizzato da [Gerardus ’t Hooft](https://en.wikipedia.org/wiki/Gerard_%27t_Hooft) (fate attenzione [all'apostrofo](https://webspace.science.uu.nl/~hooft101/ap.html)) uno dei più influenti fisici del 21esimo secolo, contiene una raccolta piuttosto esaustiva di referenze per i più svariati argomenti di fisica. Per i più audaci [how to become a bad theoretical physicist](https://webspace.science.uu.nl/~hooft101/theoristbad.html).
   * [Simile al precedente](http://www.damtp.cam.ac.uk/user/tong/teaching.html), David Tong ha organizzato un sito con una raccolta di note da lui scritte su moltissimi argomenti di fisica, dai più banali ai più avanzati.
 
 ## Lezione 0: Introduzione
 
 Riporto qui un'ottima risposta del mio collega Alessandro Candido alla domanda "Perché la matematica?"
-
 Vorrei rispondere alla domanda: “a cosa mi servono tutte queste nozioni di matematica per affrontare dei corsi di fisica?“.
 Per molti studenti la risposta è già ovvia, anche perché fa parte dell’esperienza con i corsi di fisica del liceo, ma probabilmente non così approfondita.
 
