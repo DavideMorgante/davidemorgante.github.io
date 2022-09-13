@@ -38,6 +38,11 @@ Riporto qui qualche esempio di referenze, per questo corso e per il futuro
   * [How to become a good theoretical physicist](https://www.goodtheorist.science/). Questo sito, organizzato da [Gerardus ’t Hooft](https://en.wikipedia.org/wiki/Gerard_%27t_Hooft) (fate attenzione [all'apostrofo](https://webspace.science.uu.nl/~hooft101/ap.html)) uno dei più influenti fisici del 21esimo secolo, contiene una raccolta piuttosto esaustiva di referenze per i più svariati argomenti di fisica. Per i più audaci [how to become a bad theoretical physicist](https://webspace.science.uu.nl/~hooft101/theoristbad.html).
   * [Simile al precedente](http://www.damtp.cam.ac.uk/user/tong/teaching.html), David Tong ha organizzato un sito con una raccolta di note da lui scritte su moltissimi argomenti di fisica, dai più banali ai più avanzati.
 
+Per qualche esercizio attinente al corso, potete utilizzare i seguenti libri open-source
+  * [Dal problema al modello matematico vol. 3](https://www.matematicamente.it/staticfiles/manuali-cc/DiStefano-Problema-modello-V3-2ed.pdf). Qui troverete svariati esercizi sulle funzioni reali di variabile reale.
+  * [Dal problema al modello matematico vol. 4](https://www.matematicamente.it/staticfiles/manuali-cc/DiStefano-problema_modello-v2-4e-A2016.pdf). Qui troverete svariati esercizi di semplificazione ed equazioni con esponenziali e logaritmi.
+
+
 ## Lezione 0: Introduzione
 
 Riporto qui un'ottima risposta del mio collega Alessandro Candido alla domanda "Perché la matematica?"
