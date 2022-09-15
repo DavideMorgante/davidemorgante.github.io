@@ -16,11 +16,11 @@ Le lezioni si terranno nei seguenti giorni con i seguenti orari
 
 | Giorno       | Ora             | Aula   |
 | -----------  | --------------- | ------ |
-| Lunedì 19    | 09.00 - 12.00   | Aula B |
-| Martedì 20   | 09.00 - 12.00   | Aula B |
-| Mercoledì 21 | 09.00 - 12.00   | Aula B |
-| Giovedì 22   | 09.00 - 12.00   | Aula B |
-| Venerdì 23   | 09.00 - 12.00   | Aula B |
+| Lunedì 19    | 09.00 - 12.00   | Aula A |
+| Martedì 20   | 09.00 - 12.00   | Aula A |
+| Mercoledì 21 | 09.00 - 12.00   | Aula A |
+| Giovedì 22   | 09.00 - 12.00   | Aula A |
+| Venerdì 23   | 09.00 - 12.00   | Aula A |
 
 Le lezioni saranno suddivise con i seguenti orari: 9.00-9.45, 10.00-10.45, 11.00-11.45. Faremo una pausa di 15 minuti ogni 45 minuti di lezione.
 
