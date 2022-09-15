@@ -66,7 +66,7 @@ Da questo ne segue un consiglio: godetevi tutti i corsi, perché sono tutti util
 *anche se a volte diventa chiaro solo in seguito…*
 
 ## Lezione 1: Insiemi e Funzioni
-In questa prima lezione abbiamo ripassato il concetto di insieme e considerato i vari insiemi numerici $$\mathbb{N},\mathbb{Z},\mathbb{Q},\mathbb{R},\mathbb{C}$$. Per i più curiosi: [numeri p-adici](https://en.wikipedia.org/wiki/P-adic_number), [quaternioni](https://en.wikipedia.org/wiki/Quaternion).
+In questa prima lezione abbiamo ripassato il concetto di insieme e considerato i vari insiemi numerici $$\mathbb{N},\mathbb{Z},\mathbb{Q},\mathbb{R},\mathbb{C}$$. Per i più curiosi: [numeri p-adici](https://en.wikipedia.org/wiki/P-adic_number)[,](https://ncatlab.org/nlab/show/p-adic+number) [quaternioni](https://en.wikipedia.org/wiki/Quaternion).
 
 Successivamente abbiamo rivisto la definizione di funzione come mappa tra due insiemi: il _dominio_ ed il _codominio_. Abbiamo visto come, a seconda di come la funzione mappa i due insiemi, possiamo avere tre possibilità
   * Funzioni suriettive
