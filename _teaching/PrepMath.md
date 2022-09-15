@@ -72,6 +72,7 @@ Successivamente abbiamo rivisto la definizione di funzione come mappa tra due in
   * Funzioni suriettive
   * Funzioni iniettive
   * Funzioni biunivoche (o invertibili)
+
 Abbiamo introdotto poi il concetto di monotonia e di punto stazionario globale e locale.
 
 Riporto qui alcuni esempi di classi di funzione con cui avrete più spesso a che fare
