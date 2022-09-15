@@ -98,15 +98,6 @@ You can find the pdf of the lessons from [this link](http://DavideMorgante.githu
 ## Lecture 15: Tempered Distributions (09/06/2022)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione15.pdf).
 
-## What should we do in the next lessons?
-[![](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Taylor%20%26%20Laurent%20Series)](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Taylor%20%26%20Laurent%20Series/vote)
-[![](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Residue%20Theorem)](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Residue%20Theorem/vote)
-[![](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Fourier%20Transform)](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Fourier%20Transform/vote)
-[![](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Fourier%20Series)](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Fourier%20Series/vote)
-[![](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Finite%20Dimensional%20Hilbert%20Spaces%20%26%20Operators)](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Finite%20Dimensional%20Hilbert%20Spaces%20%26%20Operators/vote)
-[![](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Infinite%20Dimensional%20Hilbert%20Spaces%20%26%20Operators)](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Infinite%20Dimensional%20Hilbert%20Spaces%20%26%20Operators/vote)
-[![](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Distributions)](https://api.gh-polls.com/poll/01G520GGW1MQN7Q0PV9TQBNQ5R/Distributions/vote)
-
 ## Lecture 16: Operators & Hilbert spaces (13/06/2022 - Marco)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione16.pdf).
 
