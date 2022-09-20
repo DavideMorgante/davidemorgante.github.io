@@ -96,7 +96,7 @@ Abbiamo mostrato come la derivata agisce sulle operazioni binarie di base, in pa
 
 Si è poi mostrato come caratterizzare, tramite la derivata, i punti stazionari di una funzione e come la derivata seconda ci permetta di discernere tra max, min e punto di flesso. Inoltre abbiamo visto come la derivata seconda descriva la concavità di una funzione.
 
-Per finire, abbiamo svolto qualche esercizio di ottimizzazione. In particolare vi invito a finire l'esercizio seguente iniziato a lezione <h1 style="border:"> Fra tutti i triangoli rettangoli di perimetro fissato $2p$, trovare quello con area maggiore </h1>
+Per finire, abbiamo svolto qualche esercizio di ottimizzazione. In particolare vi invito a finire l'esercizio seguente iniziato a lezione <h1 style="border:orange; border-width:5px; border-style:solid;"> Fra tutti i triangoli rettangoli di perimetro fissato $2p$, trovare quello con area maggiore </h1>
 
 Le note di questa lezione potete trovarle [qui](http://DavideMorgante.github.io/teaching/PrepMath/Lezione2.pdf).
 
