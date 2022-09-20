@@ -98,9 +98,7 @@ Si è poi mostrato come caratterizzare, tramite la derivata, i punti stazionari 
 
 Per finire, abbiamo svolto qualche esercizio di ottimizzazione. In particolare vi invito a finire l'esercizio seguente iniziato a lezione
 
-<div id='page'>
-  <h1><span style='border:2px black solid; font-size:18px;'>Fra tutti i triangoli rettangoli di perimetro fissato $2p$, trovare quello con area maggiore</span></h1>
-</div>
+> Fra tutti i triangoli rettangoli di perimetro fissato $2p$, trovare quello con area maggiore
 
 Le note di questa lezione potete trovarle [qui](http://DavideMorgante.github.io/files/PrepMath/Lezione2.pdf).
 
