@@ -90,7 +90,7 @@ Per chi ne avesse bisogno, riporto qui degli [appunti](http://DavideMorgante.git
 
 Abbiamo discusso l'interpretazione fisica della derivata con un esempio di meccanica classica dove la funzione $x(t)$ rapresenta la traiettoria di una particella puntiforme, e la sua derivata punto per punto $\dot{x}(t)$ rappresenta la velocità instantanea della suddetta particella.
 
-Si è introdotta poi la definizione formale di derivata come limite del rapporto incrementale e abbiamo discusso le derivate delle funzioni di base $x^\alpha, \sin x, \cos x, \tg x, \log_a x, a^x$ con annessa dimostrazione della derivata di $x^n$ con $n\in \mathbb{N}$.
+Si è introdotta poi la definizione formale di derivata come limite del rapporto incrementale e abbiamo discusso le derivate delle funzioni di base $x^\alpha, \sin x, \cos x, \tan x, \log_a x, a^x$ con annessa dimostrazione della derivata di $x^n$ con $n\in \mathbb{N}$.
 
 Abbiamo mostrato come la derivata agisce sulle operazioni binarie di base, in particolare come nel caso di somma tra due funzioni $f(x)+g(x)$ e prodotto per uno scalare $c f(x)$ questa agisca come un [operatore lineare](https://en.wikipedia.org/wiki/Linear_map) sullo [spazio vettoriale](https://en.wikipedia.org/wiki/Vector_space) delle funzioni. Abbiamo visto anche la regola di derivazione per le funzioni composte.
 
