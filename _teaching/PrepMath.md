@@ -100,7 +100,7 @@ Per finire, abbiamo svolto qualche esercizio di ottimizzazione. In particolare v
 
 <h1 style="border:orange; border-width:5px; border-style:solid;"> Fra tutti i triangoli rettangoli di perimetro fissato $2p$, trovare quello con area maggiore </h1>
 
-Le note di questa lezione potete trovarle [qui](http://DavideMorgante.github.io/teaching/PrepMath/Lezione2.pdf).
+Le note di questa lezione potete trovarle [qui](http://DavideMorgante.github.io/files/PrepMath/Lezione2.pdf).
 
 ## Lezione 3: Studi di Funzione
 
