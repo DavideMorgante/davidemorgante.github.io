@@ -126,7 +126,9 @@ Gli appunti della lezione sono [qui](http://DavideMorgante.github.io/files/PrepM
 ## Lezione 4: Integrali Definiti e Indefiniti
 In questa lezione abbiamo visto come il concetto di integrale fuoriesca naturalmente in fisica quando vogliamo calcolare il lavoro di una forza variabile. Abbiamo così introdotto l'integrale definito tramite il limite delle somme parziali e abbiamo visto che l'integrabilità di una funzione è legata all'esistenza del suddetto limite delle aree superiori ed inferiori (questa definizione è dovuta a [Bernhard Riemann](https://it.wikipedia.org/wiki/Bernhard_Riemann); chiamiamo infatti questo integrale come [integrale di Riemann](https://en.wikipedia.org/wiki/Riemann_integral). Vedrete poi in corsi più avanzati come questa definizione possa essere migliorata, in some sense, con il concetto di [integrazione di Lebesgue](https://en.wikipedia.org/wiki/Lebesgue_integration)).
 
-Successivamente, si è introdotto il concetto di integrale indefinito come "applicazione inversa" (in realtà l'integrale definisce delle [classi di equivalenza](https://en.wikipedia.org/wiki/Equivalence_class) sullo spazio delle funzioni) alla derivata e ne abbiamo studiate le proprietà. Alcune derivano dal fatto che l'integrale indefinito è un operatore lineare $$\int (f+g)(x)\,\mathrm{d}x = \int f \,\mathrm{d}x+\int g\,\mathrm{d}x,\qquad \int cf(x)\,\mathrm{d}x=c\int f(x)\,\mathrm{d}x$$.
+Successivamente, si è introdotto il concetto di integrale indefinito come "applicazione inversa" (in realtà l'integrale definisce delle [classi di equivalenza](https://en.wikipedia.org/wiki/Equivalence_class) sullo spazio delle funzioni) alla derivata e ne abbiamo studiate le proprietà. Alcune derivano dal fatto che l'integrale indefinito è un operatore lineare
+
+$$\int (f+g)(x)\,\mathrm{d}x = \int f \,\mathrm{d}x+\int g\,\mathrm{d}x,\qquad \int cf(x)\,\mathrm{d}x=c\int f(x)\,\mathrm{d}x$$.
 
 Si sono poi relazionati l'integrale indefinito con quello definito tramite il [teorema fondamentale del calcolo integrale](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus#Second_part).
 
