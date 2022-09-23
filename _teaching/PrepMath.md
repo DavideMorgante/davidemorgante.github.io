@@ -113,7 +113,9 @@ In questa lezione abbiamo visto come svolgere uno studio di funzione. Abbiamo in
   * Derivata prima per il calcolo dei punti stazionari (max, min, flessi) e della monotonia della funzione
   * Derivata seconda per il calcolo dei flessi e della concavità
 
-In particolare abbiamo studiato le seguenti funzioni $$f(x)=x^4-3x^2+4,\quad f(x)=x\sqrt{1-x^2},quad f(x)=x^2\log x$$
+In particolare abbiamo studiato le seguenti funzioni
+
+ $$f(x)=x^4-3x^2+4,\quad f(x)=x\sqrt{1-x^2},\quad f(x)=x^2\log x$$
 
 Se volete, potete provare a svolgere il seguente esercizio
 
