@@ -171,7 +171,9 @@ Questa operazione ci permette di capire quando due vettori sono paralleli, i.e.
 
 $$v,w\in V\quad v\times w=0\iff v//w$$
 
+Gli appunti della lezione sono [qui](http://DavideMorgante.github.io/files/PrepMath/Lezione5.pdf)
+
 ## Valutazione del Precorso
-Per chi volesse, [potete riempire questo form](- https://forms.gle/E3V5KNQwVjhHN64q9) e valutare il corso così che potrò migliorarlo negli anni a venire. Le risposte sono completamente anonime e la compilazione è libera!
+Per chi volesse, [potete riempire questo form](https://forms.gle/E3V5KNQwVjhHN64q9) e valutare il corso così che potrò migliorarlo negli anni a venire. Le risposte sono completamente anonime e la compilazione è libera!
 
 Grazie mille e in bocca al lupo per la vostra carriera universitaria!
