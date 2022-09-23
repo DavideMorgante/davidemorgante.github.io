@@ -128,7 +128,7 @@ In questa lezione abbiamo visto come il concetto di integrale fuoriesca naturalm
 
 Successivamente, si è introdotto il concetto di integrale indefinito come "applicazione inversa" (in realtà l'integrale definisce delle [classi di equivalenza](https://en.wikipedia.org/wiki/Equivalence_class) sullo spazio delle funzioni) alla derivata e ne abbiamo studiate le proprietà. Alcune derivano dal fatto che l'integrale indefinito è un operatore lineare
 
-$$\int (f+g)(x)\,\mathrm{d}x = \int f \,\mathrm{d}x+\int g\,\mathrm{d}x,\qquad \int cf(x)\,\mathrm{d}x=c\int f(x)\,\mathrm{d}x$$.
+$$\int (f+g)(x)\,\mathrm{d}x = \int f \,\mathrm{d}x+\int g\,\mathrm{d}x,\qquad \int cf(x)\,\mathrm{d}x=c\int f(x)\,\mathrm{d}x$$
 
 Si sono poi relazionati l'integrale indefinito con quello definito tramite il [teorema fondamentale del calcolo integrale](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus#Second_part).
 
@@ -147,13 +147,13 @@ Gli appunti di questa lezione li trovate [qui](http://DavideMorgante.github.io/f
 ## Lezione 5: Algebra Lineare e Vettori
 In questa lezione abbiamo visto le basi dell'algebra dei vettori. Partendo dalla costruzione geometrica di vettore, con la definizione naïve di vettore come freccia, abbiamo poi studiato le operazioni sui vettori tramite la loro rappresentazione cartesiana e polare.
 
-Abbiamo introdotto poi le operazioni naturali sui vettori quali prodotto per scalare e somma tra vettori e come queste definiscano il concetto di [spazio vettoriale](https://en.wikipedia.org/wiki/Vector_space), dove le due operazioni sono così definite: presi due elementi dell'insieme $V$ che chiamiamo vettori, la somma $+$ agisce comment
+Abbiamo introdotto poi le operazioni naturali sui vettori quali prodotto per scalare e somma tra vettori e come queste definiscano il concetto di [spazio vettoriale](https://en.wikipedia.org/wiki/Vector_space), dove le due operazioni sono così definite: presi due elementi dell'insieme $V$ che chiamiamo vettori, la somma $+$ agisce comme
 
 $$+:V\times V\rightarrow V$$
 
 mentre il prodotto per uno scalare $c\in\mathbb{K}$ dove $\mathbb{K}$ è il campo su cui stiamo lavorando (nel nostro caso i reali $\mathbb{R}$), agisce come
 
-$$\cdot: \mathbb{K}\times V \rightarrow V.$
+$$\cdot: \mathbb{K}\times V \rightarrow V.$$
 
 Nel dettaglio abbiamo studiato le proprietà dei vettori in $\mathbb{R}^2$ e come su questi si possa definire anche un prodotto aggiuntivo detto [prodotto scalare](https://en.wikipedia.org/wiki/Dot_product), ossia un'operazione
 
