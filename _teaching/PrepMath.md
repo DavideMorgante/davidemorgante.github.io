@@ -24,6 +24,8 @@ Le lezioni si terranno nei seguenti giorni con i seguenti orari
 
 Le lezioni saranno suddivise con i seguenti orari: 9.00-9.45, 10.00-10.45, 11.00-11.45. Faremo una pausa di 15 minuti ogni 45 minuti di lezione.
 
+Per chi volesse, [potete riempire questo form](https://forms.gle/E3V5KNQwVjhHN64q9) e valutare il corso così che potrò migliorarlo negli anni a venire. Le risposte sono completamente anonime e la compilazione è libera!
+
 Per qualsiasi dubbio o difficoltà potete contattarmi alla seguente mail
 
 * Davide Morgante: davide.morgante@mi.infn.it
