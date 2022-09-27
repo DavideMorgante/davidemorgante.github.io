@@ -88,7 +88,7 @@ author:
   pubmed           :
   googlescholar    :
   email            : "davide.morgante@mi.infn.it"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20d%20morgante&ui-citation-summary=true&ui-exclude-self-citations=true"
   uri              :
   bitbucket        :
   codepen          :
