@@ -27,6 +27,7 @@ CV in Short
 News
 =========
 
+| 27 September     | 2022   | Preprint "Chiral dualities for SQCD$_{3}$ with D-type superpotential" |
 | 21-27 August     | 2022   | Participating at the [CERN School on Supergravity, Strings and Gauge Theory 2022](https://indico.cern.ch/event/1092089/)                         |
 | --------     | ------ | ------------------------------------------------------------ |
 | 12-15 June     | 2022   | Participating at the [Theories of fundamental Interactions 2022](https://agenda.infn.it/event/29115/timetable/#20220614) INFN meeting                        |
