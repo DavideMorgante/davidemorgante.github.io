@@ -26,7 +26,7 @@ Le lezioni saranno suddivise con i seguenti orari: 9.00-9.45, 10.00-10.45, 11.00
 
 Per chi volesse, [potete riempire questo form](https://forms.gle/E3V5KNQwVjhHN64q9) e valutare il corso così che potrò migliorarlo negli anni a venire. Le risposte sono completamente anonime e la compilazione è libera!
 
-Per qualsiasi dubbio o difficoltà potete contattarmi alla seguente mail
+Anche dopo la fine del corso non esitate a contattarmi per dubbi e difficoltà
 
 * Davide Morgante: davide.morgante@mi.infn.it
 
