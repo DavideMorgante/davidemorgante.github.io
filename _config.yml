@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "I'm a Ph.D. student in String Theory at the University of Milan, where I work under the supervision of Professor Antonio Amariti."
   location         : "Milan"
-  employer         : "INFN Sezione di Milano"
+  employer         : "INFN Sezione di Milano, University degl studi di Milano Statale"
   pubmed           :
   googlescholar    :
   email            : "davide.morgante@mi.infn.it"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/davide-morgante/"
   orcid            : "http://orcid.org/0000-0002-9916-8297"
   pinterest        :
   soundcloud       :
