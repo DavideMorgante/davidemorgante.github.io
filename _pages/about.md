@@ -27,6 +27,10 @@ CV in Short
 News
 =========
 
+| 7 December     | 2022   | Preprint "New UTfit Analysis of the Unitarity Triangle in the Cabibbo-Kobayashi-Maskawa scheme" |
+|------------------|--------|-----------------------------------------------------------------------|
+| 16 Nov - 26 Dec     | 2022   | Participating at the [LACES 2022 doctoral school](https://www.ggi.infn.it/laces/LACES22/index22.html) |
+|------------------|--------|-----------------------------------------------------------------------|
 | 27 September     | 2022   | Preprint "Chiral dualities for SQCD$_{3}$ with D-type superpotential" |
 |------------------|--------|-----------------------------------------------------------------------|
 | 21-27 August     | 2022   | Participating at the [CERN School on Supergravity, Strings and Gauge Theory 2022](https://indico.cern.ch/event/1092089/)                         |

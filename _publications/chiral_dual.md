@@ -2,7 +2,7 @@
 title: "Chiral dualities for SQCD$_{3}$ with D-type superpotential"
 collection: publications
 permalink: /publication/chiral_dual
-excerpt: 'In this paper we study $3d$ $\mathcal{N}=2$ $\text{SU}/\text{U}(N_c)_k$ chiral dualities and check them by matching the partition functions of the dual theories. A particular care is taken in evaluating the complex phase needed for the matching that can be recovered in field theory by studying the contact terms of 2-point functions for the abelian symmetries'
+excerpt: 'In this paper we study $3d$ $\mathcal{N}=2$ $\text{(S)U}(N_c)_k$ chiral dualities and check them by matching the partition functions of the dual theories. A particular care is taken in evaluating the complex phase needed for the matching that can be recovered in field theory by studying the contact terms of 2-point functions for the abelian symmetries'
 date: 2022-09-27
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/2209.12673'
