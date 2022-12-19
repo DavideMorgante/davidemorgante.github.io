@@ -27,6 +27,7 @@ CV in Short
 News
 =========
 
+| 20-22 December     | 2022   | Participating at the [XVIII Avogadro meeting on Strings, Supergravity and Gauge Theories](https://agenda.infn.it/event/32934/) |
 | 7 December     | 2022   | Preprint "New UTfit Analysis of the Unitarity Triangle in the Cabibbo-Kobayashi-Maskawa scheme" |
 |------------------|--------|-----------------------------------------------------------------------|
 | 16 Nov - 26 Dec     | 2022   | Participating at the [LACES 2022 doctoral school](https://www.ggi.infn.it/laces/LACES22/index22.html) |
