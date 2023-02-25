@@ -24,7 +24,9 @@ I strongly recommend to follow the lectures in class so that you can ask me any 
 
 We are going to organise some days for *office hours*, where the students can come and ask us questions. To have an appointment outside the office hours, just send us an e-mail!
 
-The number of my office is DC/T/37 and is located at the ground floor, at the end of the central corridor to the left, near the bathrooms (the office is two doors from prof. Molinari's office). For the location of Massimo's office, write him an e-mail!
+The number of my office is DC/T/37 and is located at the ground floor, at the end of the central corridor to the left, near the bathrooms (the office is two doors from prof. Molinari's office).
+
+Massimo's office is number BO.DO 06, located at the 5th floor of the LITA building.
 
 Here is a list of my favorite books, the more mathematical one are highlighted in red  
 
