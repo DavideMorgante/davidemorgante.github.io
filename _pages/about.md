@@ -22,10 +22,11 @@ CV in Short
 | --------  | ------ | -------------------------------|
 | 2019 - 2021 | M.Sc. in Theoretical Physics @ Sapienza |
 | --------  | ------ | -------------------------------|
-| 2016 - 2019 | B.Sc. in Physics @ Sapienza                |
+| 2016 - 2019 | B.Sc. in Physics @ Sapienza           |
 
 News
 =========
+
 | 10-13 January     | 2023   | Participating at the [Iberian Strings 2023](https://indico.cern.ch/event/1186409/) seminar school. |
 |------------------|--------|-----------------------------------------------------------------------|
 | 20-22 December     | 2022   | Participating at the [XVIII Avogadro meeting on Strings, Supergravity and Gauge Theories](https://agenda.infn.it/event/32934/) |
