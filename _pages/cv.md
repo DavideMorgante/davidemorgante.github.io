@@ -42,10 +42,11 @@ Teaching
 
 Schools
 ======
-* 20-22 December: Participating at the [XVIII Avogadro meeting on Strings, Supergravity and Gauge Theories](https://agenda.infn.it/event/32934/).
+* 11-13 January 2023: Participating at the [Iberian Strings 2023](https://indico.cern.ch/event/1186409/) seminar school.
+* 20-22 December 2022: Participating at the [XVIII Avogadro meeting on Strings, Supergravity and Gauge Theories](https://agenda.infn.it/event/32934/).
 * 16 Novembre - 26 December 2022: Participating at the [LACES 2022 doctoral school](https://www.ggi.infn.it/laces/LACES22/index22.html).
 * 21-27 August 2022: Participating at the [CERN School on Supergravity, Strings and Gauge Theory 2022](https://indico.cern.ch/event/1092089/).
-* 23-25 March 2022: Participating at the [Iberian Strings](https://www.unioviedo.es/hepth/activities/Iberian22/home.html) seminar school.
+* 23-25 March 2022: Participating at the [Iberian Strings 2022](https://www.unioviedo.es/hepth/activities/Iberian22/home.html) seminar school.
 * 9-13 May 2022: Participating at the [ICTP Spring School on Superstring Theory and Related Topics](https://indico.ictp.it/event/9784/overview).
 * 12-15 June 2022: Partecipating at the [Theories of Fundamental Interactions 2022](https://agenda.infn.it/event/29115/timetable/#20220614) INFN meeting
 

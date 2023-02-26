@@ -26,7 +26,8 @@ CV in Short
 
 News
 =========
-
+| 10-13 January     | 2023   | Participating at the [Iberian Strings 2023](https://indico.cern.ch/event/1186409/) seminar school. |
+|------------------|--------|-----------------------------------------------------------------------|
 | 20-22 December     | 2022   | Participating at the [XVIII Avogadro meeting on Strings, Supergravity and Gauge Theories](https://agenda.infn.it/event/32934/) |
 |------------------|--------|-----------------------------------------------------------------------|
 | 7 December     | 2022   | Preprint *"New UTfit Analysis of the Unitarity Triangle in the Cabibbo-Kobayashi-Maskawa scheme"* |
@@ -41,4 +42,4 @@ News
 | --------     | ------ | ------------------------------------------------------------ |
 | 9-13 May     | 2022   | Participating at the [ICTP Spring School on Superstring Theory and Related Topics](https://indico.ictp.it/event/9784/overview)                          |
 | --------     | ------ | ------------------------------------------------------------ |
-| 23-25 March | 2022  | Participating at the [Iberian Strings](https://www.unioviedo.es/hepth/activities/Iberian22/home.html) seminar school.                         |
+| 23-25 March | 2022  | Participating at the [Iberian Strings 2022](https://www.unioviedo.es/hepth/activities/Iberian22/home.html) seminar school.                         |

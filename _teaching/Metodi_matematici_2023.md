@@ -17,12 +17,12 @@ The lectures are held both online and in presence in the following days
 | TBA       |    |  |
 | TBA       |    |  |
 
-I strongly recommend to follow the lectures in class so that you can ask me any question directly. For any other questions related to exercises, done and not done during the lecture, you can contact Me or Marco Marino at the following e-mail addresses
+I strongly recommend to follow the lectures in class so that you can ask me any question directly. For any other questions related to exercises, done and not done during the lecture, you can contact Me or Massimo Frigerio at the following e-mail addresses
 
 * Davide Morgante: davide.morgante@mi.infn.it
 * Massimo Frigerio: massimo.frigerio@unimi.it
 
-We are going to organise some days for *office hours*, where the students can come and ask us questions. To have an appointment outside the office hours, just send us an e-mail!
+We are going to organize some days for *office hours*, where the students can come and ask us questions. To have an appointment outside the office hours, just send us an e-mail!
 
 The number of my office is DC/T/37 and is located at the ground floor, at the end of the central corridor to the left, near the bathrooms (the office is two doors from prof. Molinari's office).
 
