@@ -2,7 +2,7 @@
 title: "Tutorato Metodi Matematici della Fisica A.A. 2022/23"
 collection: teaching
 type: "Laurea Triennale"
-permalink: /teaching/Metodi_matematici_2022
+permalink: /teaching/Metodi_matematici_2023
 venue: "Unimi, Fisica"
 date: 2023-02-01
 location: "Milano, Italia"
