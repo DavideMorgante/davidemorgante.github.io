@@ -2,7 +2,7 @@
 title: "Tutorato Metodi Matematici della Fisica A.A. 2022/23"
 collection: teaching
 type: "Laurea Triennale"
-permalink: /teaching/Metodi_matematici_2023
+permalink: /teaching/MM23
 venue: "Unimi, Fisica"
 date: 2023-02-01
 location: "Milano, Italia"
@@ -10,7 +10,7 @@ location: "Milano, Italia"
 
 Here you can find the various notes of the lectures with the exercises presented during the lessons plus some other exercises that I didn't have time to do in class. Most of the notes come with some basic theory behind the exercises themselves.
 
-The lectures are held both online and in presence in the following days
+The lectures are held in presence in the following days
 
 | Day       | Time            | Classroom                             |
 | --------  | --------------- | ------------------------------------- |
@@ -22,11 +22,19 @@ I strongly recommend to follow the lectures in class so that you can ask me any 
 * Davide Morgante: davide.morgante@mi.infn.it
 * Massimo Frigerio: massimo.frigerio@unimi.it
 
-We are going to organize some days for *office hours*, where the students can come and ask us questions. To have an appointment outside the office hours, just send us an e-mail!
+We organized also the following *office hours*, where the students can come and ask us questions
 
-The number of my office is DC/T/37 and is located at the ground floor, at the end of the central corridor to the left, near the bathrooms (the office is two doors from prof. Molinari's office).
+| Day       | Time            | Office                                |
+| --------  | --------------- | ------------------------------------- |
+| Monday    |  14.30-15.30    | Davide - DC/T/37                      |
+| Wednesday |  10.30-11.30    | Massimo - BO.DO 06                    |      
 
-Massimo's office is number BO.DO 06, located at the 5th floor of the LITA building.
+
+To have an appointment outside the office hours, just send us an e-mail!
+
+My office, DC/T/37, is located at the ground floor, at the end of the central corridor to the left, near the bathrooms (the office is two doors from prof. Molinari's office).
+
+Massimo's office, BO.DO 06, is located at the 5th floor of the LITA building.
 
 Here is a list of my favorite books, the more mathematical one are highlighted in red  
 
@@ -48,3 +56,5 @@ Here is a list of my favorite books, the more mathematical one are highlighted i
   * Operators, Distributions and Functional Analysis:
     * [Rudimenti di Analisi Infinito Dimensionale](https://www.roma1.infn.it/~cesi/rudimenti/RAID-s-v03.pdf) - Cesi
     * <span style="color:red">Distributions and Operators</span> - Grubb
+
+## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions, Möebius Transformaion (17/03/23)
