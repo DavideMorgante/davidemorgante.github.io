@@ -57,7 +57,7 @@ Here is a list of my favorite books, the more mathematical one are highlighted i
     * [Rudimenti di Analisi Infinito Dimensionale](https://www.roma1.infn.it/~cesi/rudimenti/RAID-s-v03.pdf) - Cesi
     * <span style="color:red">Distributions and Operators</span> - Grubb
 
-## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions, Möebius Transformaion (17/03/23)
+## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions, Möebius Transformaion (27/03/23)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione1.pdf).
 Next lecture we are going to do similar exercises for the students that couldn't follow this lesson due to the laboratory course.
 
