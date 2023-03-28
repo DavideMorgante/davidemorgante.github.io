@@ -14,8 +14,8 @@ The lectures are held in presence in the following days
 
 | Day       | Time            | Classroom                             |
 | --------  | --------------- | ------------------------------------- |
-| TBA       |    |  |
-| TBA       |    |  |
+| Monday    |  17-18          | Aula C                                |
+| Wednesday |  17-18          | Aula C                                |
 
 I strongly recommend to follow the lectures in class so that you can ask me any question directly. For any other questions related to exercises, done and not done during the lecture, you can contact Me or Massimo Frigerio at the following e-mail addresses
 
@@ -58,3 +58,7 @@ Here is a list of my favorite books, the more mathematical one are highlighted i
     * <span style="color:red">Distributions and Operators</span> - Grubb
 
 ## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions, Möebius Transformaion (17/03/23)
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione1.pdf).
+Next lecture we are going to do similar exercises for the students that couldn't follow this lesson due to the laboratory course.
+
+The second exercise solved by using differential equation techniques is [here](http://DavideMorgante.github.io/files/Lezione1_2.pdf).
