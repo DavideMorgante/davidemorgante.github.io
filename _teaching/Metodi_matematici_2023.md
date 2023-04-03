@@ -67,3 +67,4 @@ The second exercise solved by using differential equation techniques is [here](h
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione1_3.pdf). The first exercise is in the pdf of the first lesson.
 
 ## Lecture 3: Line integrals in the complex plane (03/04/23)
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Integrali_1.pdf). The last exercise we didn't do in class.
