@@ -68,3 +68,6 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 
 ## Lecture 3: Line integrals in the complex plane (03/04/23)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Integrali_1.pdf). The last exercise we didn't do in class.
+
+## Lecture 4: Line integrals in the complex plane (05/04/23) - Massimo
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/es_METODI_5_04_23_Frigerio.pdf).
