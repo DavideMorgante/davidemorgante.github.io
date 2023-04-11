@@ -66,8 +66,8 @@ The second exercise solved by using differential equation techniques is [here](h
 ## Lecture 2: Complex differentiability, Holomorphic functions, Harmonic functions pt. 2 (29/03/23)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione1_3.pdf). The first exercise is in the pdf of the first lesson.
 
-## Lecture 3: Line integrals in the complex plane (03/04/23)
+## Lecture 3: Line integrals in the complex plane pt.1 (03/04/23)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Integrali_1.pdf). The last exercise we didn't do in class.
 
-## Lecture 4: Line integrals in the complex plane (05/04/23) - Massimo
+## Lecture 4: Line integrals in the complex plane pt.2 (05/04/23)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/es_METODI_5_04_23_Frigerio.pdf).
