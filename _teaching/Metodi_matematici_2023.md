@@ -36,6 +36,9 @@ My office, DC/T/37, is located at the ground floor, at the end of the central co
 
 Massimo's office, BO.DO 06, is located at the 5th floor of the LITA building.
 
+<span style="color:red">N.B. I'm not going to be in Unimi up to the 15th June, so if you need to meet me or ask me question, you can send me an e-mail and we can orginese a zoom meeting. The rest of the lessons are going to be given by Massimo! If needed, we'll organise more tutoring classes when I'm back.</span>
+
+
 Here is a list of my favorite books, the more mathematical one are highlighted in red  
 
   * Complex Analysis:
