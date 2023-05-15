@@ -29,6 +29,8 @@ News
 
 | 10-13 January     | 2023   | Participating at the [Iberian Strings 2023](https://indico.cern.ch/event/1186409/) seminar school. |
 |------------------|--------|-----------------------------------------------------------------------|
+| 13 March     | 2023   | Preprint *"One-form symmetries in $\mathcal{N}=3$ $S$-folds"*  |
+|------------------|--------|-----------------------------------------------------------------------|
 | 20-22 December     | 2022   | Participating at the [XVIII Avogadro meeting on Strings, Supergravity and Gauge Theories](https://agenda.infn.it/event/32934/) |
 |------------------|--------|-----------------------------------------------------------------------|
 | 7 December     | 2022   | Preprint *"New UTfit Analysis of the Unitarity Triangle in the Cabibbo-Kobayashi-Maskawa scheme"* |
