@@ -73,10 +73,24 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Integrali_1.pdf). The last exercise we didn't do in class.
 
 ## Lecture 4: Line integrals in the complex plane pt.2 (05/04/23)
-You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/es_METODI_5_04_23_Frigerio.pdf).
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Metodi23/5-04-23_Frigerio.pdf).
 
 ## Lecture 5/6: Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (17-19/05/2023)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione2.pdf).
 Here you can find some [notes on Cayley-Hamilton theorem](https://web.mit.edu/2.151/www/Handouts/CayleyHamilton.pdf).
+
+## Lectures 6 to 12: Various subjects
+Here you can find all the lessons given by Massimo
+  - 03/05/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/3-05-23_Frigerio.pdf)
+  - 10/05/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/10-05-23_Frigerio.pdf)
+  - 15/05/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/15-05-23_Frigerio.pdf)
+  - 17/05/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/17-05-23_Frigerio.pdf)
+  - 22/05/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/22-05-23_Frigerio.pdf)
+  - 29/05/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/29-05-23_Frigerio.pdf)
+  - 31/05/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/31-05-23_Frigerio.pdf)
+  - 05/06/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/5-06-23_Frigerio.pdf)
+  - 07/06/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/7-06-23_Frigerio.pdf)
+  - 12/06/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/12-06-23_Frigerio.pdf)
+  - 14/06/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/14-06-23_Frigerio.pdf)
 
 **Please Note:** There is an error in the solution of the Cayley-Hamilton exercise. I want to thank the students for making me notice it. You can find the right solution from [this link](http://DavideMorgante.github.io/files/CH_corretto.pdf).
