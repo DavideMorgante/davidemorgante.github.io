@@ -79,7 +79,7 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione2.pdf).
 Here you can find some [notes on Cayley-Hamilton theorem](https://web.mit.edu/2.151/www/Handouts/CayleyHamilton.pdf).
 
-## Lectures 6 to 12: Various subjects
+## Lectures 7 to 17: Various subjects
 Here you can find all the lessons given by Massimo
   - 03/05/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/3-05-23_Frigerio.pdf)
   - 10/05/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/10-05-23_Frigerio.pdf)
