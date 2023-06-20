@@ -94,3 +94,8 @@ Here you can find all the lessons given by Massimo
   - 07/06/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/7-06-23_Frigerio.pdf)
   - 12/06/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/12-06-23_Frigerio.pdf)
   - 14/06/2023 [Link](http://DavideMorgante.github.io/files/Metodi23/14-06-23_Frigerio.pdf)
+
+## Lecture 18: Tempered Distributions (19/06/2023)
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione15.pdf).
+
+## Lecture 19: Infinite dimensional, separable, Hilbert spaces and Operators on them (21/06/2023)
