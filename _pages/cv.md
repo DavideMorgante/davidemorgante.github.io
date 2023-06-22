@@ -42,6 +42,8 @@ Teaching
 
 Schools
 ======
+* 12-15 June 2023: Participating at the [New Pathways in Exploration of Quantum Field Theory and Quantum Gravity beyond Supersymmetry III](https://indico.ictp.it/event/10193) seminar school.
+* 1 May-16 June 2023: Visiting at SISSA, Trieste.
 * 11-13 January 2023: Participating at the [Iberian Strings 2023](https://indico.cern.ch/event/1186409/) seminar school.
 * 20-22 December 2022: Participating at the [XVIII Avogadro meeting on Strings, Supergravity and Gauge Theories](https://agenda.infn.it/event/32934/).
 * 16 Novembre - 26 December 2022: Participating at the [LACES 2022 doctoral school](https://www.ggi.infn.it/laces/LACES22/index22.html).
