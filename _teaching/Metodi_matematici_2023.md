@@ -98,4 +98,8 @@ Here you can find all the lessons given by Massimo
 ## Lecture 18: Tempered Distributions (19/06/2023)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione15.pdf).
 
-## Lecture 19: Infinite dimensional, separable, Hilbert spaces and Operators on them (21/06/2023)
+## Lecture 19: Infinite dimensional Hilbert spaces, $L^2(X)$ spaces and separability (26/05/2022)
+You can find the pdf of the lecture from [this link](http://DavideMorgante.github.io/files/Lezione11.pdf).
+
+## Lecture 20: Solutions to first exam 22/06/2023
+I'll be in Aula C at the usual time (16-18) on **Monday 26/06** to give you the solutions to the first exam of this session.
