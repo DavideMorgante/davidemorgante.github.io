@@ -26,6 +26,7 @@ CV in Short
 
 News
 =========
+|------------------|--------|-----------------------------------------------------------------------|
 | 1 May-16 June     | 2023   | Visiting at SISSA, Trieste |
 |------------------|--------|-----------------------------------------------------------------------|
 | 12-15 June     | 2023   | Participating at the [New Pathways in Exploration of Quantum Field Theory and Quantum Gravity beyond Supersymmetry III](https://indico.ictp.it/event/10193) seminar school. |
