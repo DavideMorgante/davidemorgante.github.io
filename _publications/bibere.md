@@ -1,1 +1,0 @@
-{% include bibere/byyear.html %}
