@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Davide Morgante"
+title                    : "Davide Morgante Website"
 title_separator          : "-"
 name                     : &name "Davide Morgante"
 description              : &description "PhD Student at University of Milan"
-url                      : https://DavideMorgante.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://davidemorgante.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DavideMorgante/DavideMorgante.github.io"
+repository               : "DavideMorgante/davidemorgante.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Davide Morgante"
   avatar           : "profile.jpeg"
-  bio              : "I'm a Ph.D. student in String Theory at the University of Milan, where I work under the supervision of Professor Antonio Amariti."
+  bio              : "I'm a Ph.D. student in String Theory at the University of Milan, where I work under the supervision of Dr. Antonio Amariti."
   location         : "Milan"
   employer         : "INFN Sezione di Milano"
   pubmed           :
   googlescholar    :
   email            : "davide.morgante@mi.infn.it"
-  researchgate     :  "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20d%20morgante&ui-citation-summary=true&ui-exclude-self-citations=true"
+  researchgate     :  "https://www.researchgate.net/profile/Davide-Morgante"
   uri              :
   bitbucket        :
   codepen          :
