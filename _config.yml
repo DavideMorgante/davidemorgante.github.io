@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Davide Morgante Website"
+title                    : "Davide Morgante"
 title_separator          : "-"
 name                     : &name "Davide Morgante"
 description              : &description "PhD Student at University of Milan"
