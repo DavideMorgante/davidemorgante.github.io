@@ -86,9 +86,9 @@ author:
   location         : "Milan"
   employer         : "INFN Sezione di Milano"
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=iX00_VgAAAAJ&hl=en"
   email            : "davide.morgante@mi.infn.it"
-  researchgate     :  "https://www.researchgate.net/profile/Davide-Morgante"
+  researchgate     : "https://www.researchgate.net/profile/Davide-Morgante"
   uri              :
   bitbucket        :
   codepen          :

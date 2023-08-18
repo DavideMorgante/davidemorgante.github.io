@@ -1,9 +1,9 @@
 thumbs:emnlp02:
   title: Thumbs up? Sentiment Classification using Machine Learning Techniques
-  venue: Empirical Methods in Natural Language Processing (EMNLP)
-  authors:
-    - Bo Pang
-    - Lillian Lee
-    - Shivakumar Vaithyanathan
+  venue: emnlp
   type: Conference
+  authors:
+    - bo
+    - lillian
+    - shivakumar
   year: 2002
