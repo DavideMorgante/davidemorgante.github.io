@@ -1,9 +1,12 @@
-thumbs:emnlp02:
-  title: Thumbs up? Sentiment Classification using Machine Learning Techniques
-  venue: emnlp
+learning:acl11:
+  title: Learning Word Vectors for Sentiment Analysis
+  venue: acl
   type: Conference
+  year: 2011
   authors:
-    - bo
-    - lillian
-    - shivakumar
-  year: 2002
+    - Andrew L. Maas
+    - Raymond E. Daly
+    - Peter T. Pham
+    - Dan Huang
+    - ang
+    - cpotts

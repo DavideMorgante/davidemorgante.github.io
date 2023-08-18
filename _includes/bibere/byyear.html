@@ -1,33 +1,46 @@
-{%- assign paper = site.data.bibere.papers[include.pid] -%}
-{%- if paper -%}
-@{%- include bibere/bibtex-entry-type.html type=paper.type -%} { {{-include.pid-}},
-  author = {
-    {%- for a in paper.authors -%}
-        {%- assign author = site.data.bibere.authors[a] -%}
-        {%- if author -%}
-          {%- if a == include.mainAuthor -%}
-            {\\textbf{ {{-author.name.first-}}}} {\\textbf{ {{-author.name.last-}} }}
-          {%- else -%}
-            {{ author.name.first }} {{ author.name.last }}
-          {%- endif -%}
+{% assign minYear = include.minYear |  to_integer %}
+<!-- Create a list of papers filtered by flags -->
+{% assign filtered = '' | split: '' %}
+{%- for p in site.data.bibere.papers -%}
+    {%- assign numyear = p[1].year | to_integer -%}
+    {%- if numyear >= minYear -%}
+        {%- if include.filterAuthor %}
+            {%- if p[1].authors contains include.filterAuthor -%}
+                {% assign filtered = filtered | push: p %}
+            {%- endif -%}
         {%- else -%}
-            {{ a }}
+            {% assign filtered = filtered | push: p %}
         {%- endif -%}
-        {% unless forloop.last == true %} and {% endunless %}
-    {%- endfor -%}
-  },
-  title = { { {{- paper.title | strip_newlines -}} } },
-  {% include bibere/bibtex-venue-title.html type=paper.type %} = {
-        {%- assign venue = site.data.bibere.venues[paper.venue] -%}
-        {%- if venue -%}
-          {{ venue.name }}
-        {%- else -%}
-            {{ paper.venue }}
-        {%- endif -%}
-    },{% for field in paper.bibtex_fields %}
-  {{ field[0] }} = { {{- field[1] -}} },{% endfor %}{% if paper.doi %}
-  doi = { {{- paper.doi -}} },{% endif %}{% if paper.pages %}
-  pages = { {{- paper.pages -}} },{% endif %}
-  year = { {{- paper.year -}} }
-}
-{%- endif -%}
+    {%- endif -%}
+{%- endfor -%}
+<!-- Group filtered ones by year, sorted -->
+{% assign years = filtered | group_by_exp: "p",
+"p[1].year" | sort: "name" | reverse %}
+
+<div>
+Publications (grouped by year): 
+{%- for year in years -%}
+    {%- if forloop.first == false -%}
+    , 
+    {% endif %}
+    <a href="#{{ year.name }}">{{ year.name }}</a>
+{%- endfor -%}
+.
+<hr>
+</div>
+<!-- For each year, sorted by type (alphabetical), then sort_weight -->
+{% for year in years %}
+    <span id="{{ year.name }}" class="yearGroup">{{ year.name }}</span>
+    <ul class="papers">
+    {% assign types = year.items | group_by_exp: "p", "p[1].type" | sort: "name" %}
+    {% for type in types %}
+        {% assign weights = type.items | group_by_exp: "p", "p[1].sort_weight" | sort: "name" | reverse %}
+        {% for weight in weights %}
+            {% for p in weight.items %}
+                {%- assign pid = p[0] -%}
+                {% include bibere/paper.html pid=pid mainAuthor=include.mainAuthor %}
+            {% endfor %}
+        {% endfor %}
+    {% endfor %}
+    </ul>
+{% endfor %}
