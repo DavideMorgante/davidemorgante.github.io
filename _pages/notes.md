@@ -1,11 +1,10 @@
 ---
-title: "Dump for Various General Notes"
-collection: teaching
-type: "Notes"
-permalink: /teaching/Notes
-date: 2021-10-19
-location: "Milano, Italia"
+layout: archive
+title: "Notes"
+permalink: /notes/
+author_profile: true
 ---
+
 This is a local dump for notes that I've collected over the years. I don't promise that they are good or even useful, it's just a way for me to have the organized somewhere! Take everything with a grain of salt.
 
 ## [A General and Fast Introduction to the Standard Model](http://DavideMorgante.github.io/files/notes_SM.pdf)
@@ -15,9 +14,6 @@ The second chapter deals with the perturbative dynamics of the strong sector of 
 
 ## [Electroweak Interactions in the SM](http://DavideMorgante.github.io/files/EW_Notes.pdf)
 These are some notes I wrote for a course given in Sapienza University by prof. Guido Martinelli on Electroweak Interactions. There could be errors inside, I've never checked them back.
-
-## Some Useful Results for Loop Integrals
-TBA
 
 ## [Notes on Equivariant Localization](http://DavideMorgante.github.io/files/equiv_loc.pdf)
 These are notes of the IHES school on "Supersymmetric Localization and Exact Results" given by F. Benini

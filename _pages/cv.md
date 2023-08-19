@@ -29,14 +29,54 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
+<div style = "position:relative; left:30px;" >
+    {% include base_path %}
+    {% assign minYear = include.minYear |  to_integer %}
+    <!-- Create a list of papers filtered by flags -->
+    {% assign filtered = '' | split: '' %}
+    {%- for p in site.data.bibere.papers -%}
+        {%- assign numyear = p[1].year | to_integer -%}
+        {%- if numyear >= minYear -%}
+            {%- if include.filterAuthor %}
+                {%- if p[1].authors contains include.filterAuthor -%}
+                    {% assign filtered = filtered | push: p %}
+                {%- endif -%}
+            {%- else -%}
+                {% assign filtered = filtered | push: p %}
+            {%- endif -%}
+        {%- endif -%}
+    {%- endfor -%}
+    <!-- Group filtered ones by year, sorted -->
+    {% assign years = filtered | group_by_exp: "p",
+    "p[1].year" | sort: "name" | reverse %}
+
+    <!-- For each year, sorted by type (alphabetical), then sort_weight -->
+    {% for year in years %}
+        <ul class="papers">
+        {% assign types = year.items | group_by_exp: "p", "p[1].type" | sort: "name" %}
+        {% for type in types %}
+            {% assign weights = type.items | group_by_exp: "p", "p[1].sort_weight" | sort: "name" | reverse %}
+            {% for weight in weights %}
+                {% for p in weight.items %}
+                    {%- assign pid = p[0] -%}
+                    {% include bibere/paper.html pid=pid mainAuthor=include.mainAuthor %}
+                {% endfor %}
+            {% endfor %}
+        {% endfor %}
+        </ul>
+    {% endfor %}
+</div>
 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks and presentations
+======
+  <ul>{% for post in site.talks %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 

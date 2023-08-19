@@ -1,3 +1,4 @@
+{% include base_path %}
 {%- assign paper = site.data.bibere.papers[include.pid] -%}
 {%- if paper -%}
     {%- capture clean_id -%}
@@ -41,7 +42,13 @@
                 {{ venue.name }}
             {%- else -%}
                 {{ paper.venue }}
-            {%- endif -%}.
+            {%- endif -%},
+        </span>
+        <!-- DOI -->
+        <span class="doi">
+            {%- if paper.doi -%}
+                <em>{{ paper.doi }}</em>,
+            {%- endif -%}
         </span>
         <!-- Year -->
         <span class="year">{{ paper.year }}</span>

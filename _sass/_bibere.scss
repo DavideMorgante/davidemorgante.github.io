@@ -1,5 +1,6 @@
 
 
+$paper:       #A40064;
 $primary:       #0064a4;
 $link:          #666666;
 $link-hover:    #999999;
@@ -15,11 +16,6 @@ $black:         #000000;
   padding-left: 5px;
   margin: 5px;
 }
-
-// .papers li {
-//   margin: 10px;
-//   padding-left: 0px;
-// }
 
 .mainAuthor {
   color:$primary;
@@ -65,9 +61,12 @@ $black:         #000000;
     display: none;
 }
 
+
 .details-panel {
+  border-radius: 15px;
+  background-color: rgba($color: #C1BFE8, $alpha: 0.4);
   margin: 2px;
-  padding: 2px;
+  padding: 10px;
   font-size: 12px;
 }
 
@@ -76,8 +75,8 @@ $black:         #000000;
   color: $white;
 }
 
-.tag_Journal {
-  background-color: $primary;
+.tag_Paper {
+  background-color: $paper;
   color: $white;
 }
 
@@ -95,24 +94,3 @@ $black:         #000000;
   background-color: $link-hover;
   color: $black;
 }
-
-
-/* .link a {
-  display: inline-block;
-} */
-
-
-/* .details-panel-body {
-  margin: 0px;
-  border: 0px;
-  padding: 10px;
-  font-size: 12px;
-}
-
-.details-panel-body:before {
-  content: "";
-}
-
-.details-panel-body:after {
-  content: "";
-} */

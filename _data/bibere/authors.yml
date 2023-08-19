@@ -1,0 +1,29 @@
+morgante:
+  name:
+    first: Davide
+    last: Morgante
+  website: "https://davidemorgante.github.io"
+
+amariti:
+  name:
+    first: Antonio
+    last: Amariti
+  website: "https://www0.mi.infn.it/~strings/memberhome.php?member=amariti"
+
+rota:
+  name:
+    first: Simone
+    last: Rota
+  website: "https://www0.mi.infn.it/~strings/memberhome.php?member=rota"
+
+segati:
+  name:
+    first: Alessia
+    last: Segati
+  website: "https://www0.mi.infn.it/~strings/memberhome.php?member=segati"
+
+pasternak:
+  name:
+    first: Antoine
+    last: Pasternak
+  website: "https://www0.mi.infn.it/~strings/memberhome.php?member=pasternak"

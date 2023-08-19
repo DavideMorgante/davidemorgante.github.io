@@ -1,12 +1,65 @@
-learning:acl11:
-  title: Learning Word Vectors for Sentiment Analysis
-  venue: acl
-  type: Conference
-  year: 2011
+chiraldual:22:
+  title: "Chiral dualities for SQCD$_3$ with D-type superpotential"
+  type: Paper
+  venue: JHEP
+  doi: 10.1007/JHEP02(2023)032
+  year: 2022
   authors:
-    - Andrew L. Maas
-    - Raymond E. Daly
-    - Peter T. Pham
-    - Dan Huang
-    - ang
-    - cpotts
+    - morgante
+    - amariti
+  abstract: >
+    We study dualities for $\scriptsize{3d}$ $\scriptsize{\text{U}(N_{c})_k}$  <em>chiral</em> SQCD with $\scriptsize{D_{n+2}}$-type superpotential, with $\scriptsize{n}$ odd. 
+    We give a complete classification of such dualities in terms of  the number of fundamentals and anti-fundamentals and the Chern-Simons level. The classification is obtained by real mass and Higgs flows from non-chiral dualities and we check the consistency of the new non-chiral  dualities at the level of the partition function. We we also check that the complex phases appearing in the integral identities between the partition functions are consistent with the contact terms computed as quantum corrections to the effective Chern-Simons level. The $\scriptsize{\text{SU}(N_{c})_k}$ cases are recovered by gauging the topological symmetry from the $\scriptsize{\text{U}(N_{c})}$ dualities. Finally, we consider the case of $\scriptsize{\text{USp}(2N_{c})_{2k}}$  with two antisymmetric tensors and $\scriptsize{D_{n+2}}$-type superpotential.
+  links:
+    - name: PDF
+      link: https://link.springer.com/article/10.1007/JHEP02(2023)032
+
+UTfit:22:
+  title: "New UTfit Analysis of the Unitarity Triangle in the Cabibbo-Kobayashi-Maskawa scheme"
+  type: Paper
+  venue: Rend.Lincei Sci.Fis.Nat. 34 (2023) 37-57
+  doi: 10.1007/s12210-023-01137-5
+  year: 2022
+  authors:
+    - UTfit collaboration
+    - morgante
+  abstract: >
+    Flavour mixing and CP violation as measured in weak decays and mixing of neutral mesons are a fundamental tool to test the Standard Model (SM) and to search for new physics. New analyses performed at the LHC experiment open an unprecedented insight into the Cabibbo-Kobayashi-Maskawa (CKM) metrology and new evidence for rare decays. Important progress has also been achieved in theoretical calculations of several hadronic quantities with a remarkable reduction of the uncertainties. This improvement is essential since previous studies of the Unitarity Triangle did show that possible contributions from new physics, if any, must be tiny and could easily be hidden by theoretical and experimental errors. Thanks to the experimental and theoretical advances, the CKM picture provides very precise SM predictions through global analyses. We present here the results of the latest global SM analysis performed by the UTfit collaboration including all the most updated inputs from experiments, lattice QCD and phenomenological calculations.
+  links:
+    - name: PDF
+      link: https://link.springer.com/article/10.1007/s12210-023-01137-5
+
+N3oneform:23:
+  title: One-form symmetries in &#x1D4A9;$\,=3$ $S$-folds
+  type: Paper
+  venue: preprint
+  year: 2023
+  authors: 
+    - amariti
+    - morgante
+    - pasternak
+    - rota
+  abstract: >
+    We classify the global one-form symmetries for non-Lagrangian $\scriptsize{\mathcal{N}=3}$ SCFTs that arise by the action of $\scriptsize{S}$-fold projections on D3-branes.  Such a classification is dictated, on a generic point of the Coulomb branch, by probing the charge spectrum of $\scriptsize{(p, q)}$-strings in the brane setup. The charge lattice of lines is then obtained by finding the ones that are genuine modulo screening by dynamical particles. The one-form symmetries are then extracted from the maximal sub-lattices of mutually local lines. We further comment on the existence of non-invertible symmetries for some of these $\scriptsize{\mathcal{N}=3}$ SCFTs.
+  links:
+    - name: PDF
+      link: https://arxiv.org/abs/2303.07299
+    
+sporadic:23:
+  title: Sporadic dualities from tensor deconfinement
+  type: Paper
+  venue: preprint
+  year: 2023
+  authors: 
+    - amariti
+    - Fabio Mantegazza
+    - morgante
+  abstract: >
+    In this paper we give a field theory explanation of  two confining dualities that have been proposed in the literature based on exact  results from supersymmetric localization.
+    The first confining model under investigation is 4d $\scriptsize{\text{SU}(N_c+1)}$ SQCD with a conjugate rank-$\scriptsize{2}$ anti-symmetric tensor,  $\scriptsize{N_c+3}$ anti-fundamentals, $\scriptsize{2N_c}$ fundamentals and a superpotential that couples the anti-symmetric tensor and the fundamentals.  
+    The second confining model studied here is  $\scriptsize{3d}$ $\scriptsize{\mathcal{N}=2}$ $\scriptsize{\text{USp}(4)}$ gauge SQCD with two fundamentals, two rank-$\scriptsize{2}$ anti-symmetric tensors and vanishing superpotential. 
+    Here we prove that these models are confining by  using the technique of deconfining the anti-symmetric tensors and then by flowing to the IR description by sequential dualities. 
+    As a bonus the analysis provides (alternative) proofs of the identities obtained from supersymmetric localization.
+  links: 
+    - name: PDF
+      link: https://arxiv.org/abs/2307.14146

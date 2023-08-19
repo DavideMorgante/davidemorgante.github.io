@@ -1,3 +1,4 @@
+{% include base_path %}
 {% assign minYear = include.minYear |  to_integer %}
 <!-- Create a list of papers filtered by flags -->
 {% assign filtered = '' | split: '' %}
@@ -18,7 +19,7 @@
 "p[1].year" | sort: "name" | reverse %}
 
 <div>
-Publications (grouped by year): 
+<h3 style="display: inline-block">Publication year:</h3> 
 {%- for year in years -%}
     {%- if forloop.first == false -%}
     , 
@@ -28,6 +29,8 @@ Publications (grouped by year):
 .
 <hr>
 </div>
+
+<div>
 <!-- For each year, sorted by type (alphabetical), then sort_weight -->
 {% for year in years %}
     <span id="{{ year.name }}" class="yearGroup">{{ year.name }}</span>
@@ -44,3 +47,4 @@ Publications (grouped by year):
     {% endfor %}
     </ul>
 {% endfor %}
+</div>
