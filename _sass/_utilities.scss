@@ -204,6 +204,11 @@ body:hover .visually-hidden button {
     color: $flickr-color;
   }
 
+  .ai-orcid,
+  .ai-orcid-square {
+    color: $orcid-color;
+  }
+  
   .fa-foursquare {
     color: $foursquare-color;
   }
@@ -281,6 +286,11 @@ body:hover .visually-hidden button {
   .fa-xing,
   .fa-xing-square {
     color: $xing-color;
+  }
+
+  .ai-arxiv,
+  .ai-arxiv-square {
+    color: #b31b1b;
   }
 }
 
