@@ -9,10 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in Theoretical Physics at the University of Milan, where I work under the supervision of Professor Antonio Amariti.
+I am a Ph.D. student in Theoretical Physics at the University of Milan, where I work under the supervision of Dr. Antonio Amariti.
 
-My research interests lie in the neighbourhood of string theory, supersymmetric field theories, supersymmetric dualities, localization techniques, geometric realisation of field theories, AdS/CFT correspondence and so on. Recentrly I've been very interested in the topic of higher categorical symmetries.
-At the moment I'm mainly focus on studying supersymmetric dualities.
+My research interests lie in the neighbourhood of string theory, supersymmetric field theories, supersymmetric dualities, localization techniques, geometric realisation of field theories, AdS/CFT correspondence and so on. Recently I've been very interested in the topic of higher categorical symmetries.
+At the moment I am mainly focus on studying supersymmetric dualities.
 
 I started my research career in high energy physics, in particular working on Standard Model physics, Flavour physics and SM phenomenology. But I always had a keen interest in string theory and decided to change my path after starting my PhD.
 
