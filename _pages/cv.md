@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find the complete curriculum vitae [here](http://DavideMorgante.github.io/files/cv.pdf).
+You can find the complete curriculum vitae [here](http://DavideMorgante.github.io/CV/main.pdf).
 
 Education
 ======
