@@ -28,6 +28,10 @@ News
 =========
 
 |------------------|--------|-----------------------------------------------------------------------|
+| 3-8 September     | 2023   | Partecipating at the [Categorical symmetries in Quantum Field Theory](https://indico.cern.ch/event/1131193/) school |
+|------------------|--------|-----------------------------------------------------------------------|
+| 24-29 July     | 2023   | Partecipating at the [Strings 2023](https://events.perimeterinstitute.ca/event/29/) conference |
+|------------------|--------|-----------------------------------------------------------------------|
 | 1 May-16 June     | 2023   | Visiting at SISSA, Trieste |
 |------------------|--------|-----------------------------------------------------------------------|
 | 12-15 June     | 2023   | Participating at the [New Pathways in Exploration of Quantum Field Theory and Quantum Gravity beyond Supersymmetry III](https://indico.ictp.it/event/10193) seminar school. |
