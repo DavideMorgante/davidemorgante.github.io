@@ -1,5 +1,5 @@
 ---
-title: "Precorso Matricole 2022/2023"
+title: "Precorso Matricole 2023/2024"
 collection: teaching
 type: "Laurea Triennale"
 permalink: /teaching/PrepMath
