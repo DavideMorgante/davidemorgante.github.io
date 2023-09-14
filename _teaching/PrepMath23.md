@@ -42,3 +42,4 @@ Per qualche esercizio attinente al corso, potete utilizzare i seguenti libri ope
   * [Dal problema al modello matematico vol. 3](https://www.matematicamente.it/staticfiles/manuali-cc/DiStefano-Problema-modello-V3-2ed.pdf). Qui troverete svariati esercizi sulle funzioni reali di variabile reale.
   * [Dal problema al modello matematico vol. 4](https://www.matematicamente.it/staticfiles/manuali-cc/DiStefano-problema_modello-v2-4e-A2016.pdf). Qui troverete svariati esercizi di semplificazione ed equazioni con esponenziali e logaritmi.
 
+**Disclamer:** Molte delle referenze che darò durante il corso saranno in inglese. Lo scorso anno mi è stato fatto notare che molti di voi potrebbero non avere una padronanza adatta della lingua. Vi consiglio allora, come feci lo scorso anno, di cominciare a prender mano con lo studiare referenze in inglese perché saranno un ingrediente fondamentale della vostra carriera, universitaria ed oltre! 
