@@ -43,3 +43,25 @@ Per qualche esercizio attinente al corso, potete utilizzare i seguenti libri ope
   * [Dal problema al modello matematico vol. 4](https://www.matematicamente.it/staticfiles/manuali-cc/DiStefano-problema_modello-v2-4e-A2016.pdf). Qui troverete svariati esercizi di semplificazione ed equazioni con esponenziali e logaritmi.
 
 **Disclamer:** Molte delle referenze che darò durante il corso saranno in inglese. Lo scorso anno mi è stato fatto notare che molti di voi potrebbero non avere una padronanza adatta della lingua. Vi consiglio allora, come feci lo scorso anno, di cominciare a prender mano con lo studiare referenze in inglese perché saranno un ingrediente fondamentale della vostra carriera, universitaria ed oltre! 
+
+## Lezione 0: Introduzione
+
+Riporto qui un'ottima risposta del mio collega Alessandro Candido alla domanda "Perché la matematica?"
+
+Vorrei rispondere alla domanda: “a cosa mi servono tutte queste nozioni di matematica per affrontare dei corsi di fisica?“.
+Per molti studenti la risposta è già ovvia, anche perché fa parte dell’esperienza con i corsi di fisica del liceo, ma probabilmente non così approfondita.
+
+Storicamente la studio della fisica ha spinto lo sviluppo di interi settori della matematica (si pensi all’origine dell’analisi, nel XVII secolo con Newton e Leibniz).
+
+L’idea di fisica che uno studente del primo anno può avere a volte non combacia con quello che scopre successivamente. Questo è anche uno dei motivi per cui è bello e interessante continuare a studiarla: non basta leggere un libro per “sapere la fisica”, neanche in modo superficiale. Più si scende più appaiono concetti originali e connessioni inattese.
+
+Per quanto riguarda la matematica:
+  * la fisica sperimentale deve molto alla statistica, sia a quella elementare che avanzata: più complicata è una misura più raffinata deve essere l’analisi che porta ad essa, e una trattazione naïve può dare risultati completamente inconsistenti (una “misura” è inteso in senso lato: non è solo quello che si misura direttamente, ma in particolare quei risultati che possono solo essere derivati dalla composizione ed elaborazione di misure dirette)
+  * la fisica teorica (a tratti) è difficilmente distinguibile dalla matematica, quindi la domanda è quasi oziosa
+
+Uno studente di fisica per definizione studia fisica, e quindi è chiaro che i corsi che più probabilmente preferirà sono quelli che hanno *fisica* nel nome.
+
+Ciononostante non ci sarebbe la fisica che conosciamo se non ci fosse la matematica, e tanti risultati (teorici e sperimentali) sarebbero impossibili senza l’elettronica e l’informatica.
+
+Da questo ne segue un consiglio: godetevi tutti i corsi, perché sono tutti utili e importanti!
+*anche se a volte diventa chiaro solo in seguito…*
