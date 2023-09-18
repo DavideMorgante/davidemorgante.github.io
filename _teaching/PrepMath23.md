@@ -65,3 +65,25 @@ Ciononostante non ci sarebbe la fisica che conosciamo se non ci fosse la matemat
 
 Da questo ne segue un consiglio: godetevi tutti i corsi, perché sono tutti utili e importanti!
 *anche se a volte diventa chiaro solo in seguito…*
+
+## Lezione 1: Insiemi e Funzioni
+In questa prima lezione abbiamo ripassato il concetto di insieme e considerato i vari insiemi numerici $$\mathbb{N},\mathbb{Z},\mathbb{Q},\mathbb{R},\mathbb{C}$$. Per i più curiosi: [numeri p-adici](https://en.wikipedia.org/wiki/P-adic_number)[,](https://ncatlab.org/nlab/show/p-adic+number) [quaternioni](https://en.wikipedia.org/wiki/Quaternion).
+
+Per chi fosse interessato riporto qui le pagine Wikipedia relative alle varie strutture matematiche di interesse fisico citate a lezione: [Anello](https://en.wikipedia.org/wiki/Ring_(mathematics)) (un esempio è $\mathbb{Z}$ con somma e prodotto), [Campo](https://en.wikipedia.org/wiki/Field_(mathematics)) (un esempio è $\mathbb{R}$ con somma e prodotto), [Gruppo](https://en.wikipedia.org/wiki/Group_(mathematics)) (un esempio è $\mathbb{Z}$ con la somma. I gruppi sono un ingrediente fondamentale della [fisica moderna](https://en.wikipedia.org/wiki/Group_theory#Physics)).
+
+Successivamente abbiamo rivisto la definizione di funzione come mappa tra due insiemi: il _dominio_ ed il _codominio_. Abbiamo visto come, a seconda di come la funzione mappa i due insiemi, possiamo avere tre possibilità
+  * Funzioni suriettive
+  * Funzioni iniettive
+  * Funzioni biunivoche (o invertibili)
+
+Abbiamo introdotto poi il concetto di monotonia e di punto stazionario globale e locale.
+
+Riporto qui alcuni esempi di classi di funzione con cui avrete più spesso a che fare
+  * [Funzioni polinomiali](https://en.wikipedia.org/wiki/Polynomial#Polynomial_functions): sono le funzioni definite sulla base dei polinomi, sommando potenze della variabile moltiplicate per coefficienti reali
+  * [Funzioni razionali](https://en.wikipedia.org/wiki/Rational_function): sono quelle funzione che si ottengono come rapporti di funzioni polinomiali
+  * [Funzioni trigonometriche](https://en.wikipedia.org/wiki/Trigonometric_functions): sono quelle funzioni legate agli angoli, fra cui il seno, il coseno e la tangente
+  * Funzioni [esponenziali](https://en.wikipedia.org/wiki/Exponential_function) e [logaritmiche](https://en.wikipedia.org/wiki/Logarithm)
+
+Le ultime due classi di funzioni sono in realtà relazionate tra loro nel campo dei complessi tramite la [formula di Eulero](https://en.wikipedia.org/wiki/Euler%27s_formula).
+
+Per chi ne avesse bisogno, riporto qui degli [appunti](http://DavideMorgante.github.io/files/PrepMath/Lezione1.pdf) dell'ex tutor del corso Vittorio Erba riguardanti questa lezione.
