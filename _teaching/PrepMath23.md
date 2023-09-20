@@ -107,3 +107,26 @@ Per finire, abbiamo svolto qualche esercizio di ottimizzazione. In particolare v
 > Fra tutti i triangoli rettangoli di perimetro fissato $2p$, trovare quello con area maggiore
 
 Le note di questa lezione potete trovarle [qui](http://DavideMorgante.github.io/files/PrepMath/Lezione2.pdf).
+
+## Lezione 3: Studi di Funzione
+In questa lezione abbiamo visto come svolgere uno studio di funzione. Abbiamo individuato i seguenti passaggi fondamentali
+
+  * Calcolo del dominio
+  * Simmetrie della funzione (pari/dispari)
+  * Intersezioni con gli assi ($x=0$ per l'asse $y$, $y=0$ per l'asse $x$)
+  * Segno della funzione (dal quale possiamo inferire il codominio)
+  * Limiti ai bordi del dominio e alle eventuali singolarità
+  * Derivata prima per il calcolo dei punti stazionari (max, min, flessi) e della monotonia della funzione
+  * Derivata seconda per il calcolo dei flessi e della concavità
+
+In particolare abbiamo studiato le seguenti funzioni
+
+ $$f(x)=x^4-3x^2+4,\quad f(x)=x\sqrt{1-x^2},\quad f(x)=x^2\log x$$
+
+Se volete, potete provare a svolgere il seguente esercizio
+
+> Data la funzione $$f(x)=\frac{ax^3}{bx^2+c}$$ con $a\neq 0$, trovare $a,b,c\in\mathbb{R}$ in modo tale che la funzione abbia un minimo in $(3,\log(9/2))$ ed un asintoto verticale in $x=3$. Una volta determinata la funzione, rappresentarne il grafico.
+
+Altri esercizi potete trovarli nel libro "Dal problema al modello matematico vol. 3" che trovate al link sopra.
+
+Gli appunti della lezione sono [qui](http://DavideMorgante.github.io/files/PrepMath/Lezione3.pdf).
