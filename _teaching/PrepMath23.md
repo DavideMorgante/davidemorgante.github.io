@@ -142,11 +142,9 @@ Si sono poi relazionati l'integrale indefinito con quello definito tramite il [t
 
 Dopo aver introdotto gli integrali indefiniti delle funzioni fondamentali, abbiamo poi svolto alcuni esercizi a riguardo.
 
-Vi ho lasciato i seguenti esercizi da svolgere per allenarvi, ma potete trovarne moltissimi altri nel vol.3 del libro riportato a inizio pagina
+Vi lascio i seguenti esercizi da svolgere per allenarvi, ma potete trovarne moltissimi altri nel vol.3 del libro riportato a inizio pagina
 
 $$\int \left(\sqrt[3]{x^5}-\frac{7}{x^2}+\frac{9}{\sqrt[5]{2x^3}}\right),\,\mathrm{d}x\quad \int \left(x^e-e^x+\frac{\pi}{\sqrt[3]{4x}}\right)\,\mathrm{d}x,\quad \int (x+1)^2\,\mathrm{d}x$$
-
-L'ultimo integrale che vi ho lasciato si può semplicemente svolgere col metodo dei [fratti semplici](https://en.wikipedia.org/wiki/Partial_fraction_decomposition)
 
 $$\int\frac{1}{x^2-3x+2}\,\mathrm{d}x$$
 
