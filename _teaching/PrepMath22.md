@@ -121,7 +121,7 @@ In particolare abbiamo studiato le seguenti funzioni
 
 Se volete, potete provare a svolgere il seguente esercizio
 
-> Data la funzione $$f(x)=\frac{ax^3}{bx^2+c}$$ con $a\neq 0$, trovare $a,b,c\in\mathbb{R}$ in modo tale che la funzione abbia un minimo in $(3,\log(9/2))$ ed un asintoto verticale in $x=3$. Una volta determinata la funzione, rappresentarne il grafico.
+> Data la funzione $$f(x)=\frac{ax^3}{bx^2+c}$$ con $a\neq 0$, trovare $a,b,c\in\mathbb{R}$ in modo tale che la funzione abbia un minimo in $(3,\log(9/2))$ ed un asintoto verticale in $x=\sqrt{3}$. Una volta determinata la funzione, rappresentarne il grafico.
 
 Altri esercizi potete trovarli nel libro "Dal problema al modello matematico vol. 3" che trovate al link sopra.
 
