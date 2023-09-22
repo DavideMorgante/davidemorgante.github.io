@@ -12,6 +12,8 @@ Il corso consiste in cinque lezioni nelle quali verranno richiamate le basi dell
 
 L'obiettivo del corso sarà quello di trattare i suddetti argomenti in maniera prettamente formale, introducendo gli studenti alle nozioni fondamentali.
 
+**Valutazione corso:** per chi volesse, potete compilare questo [form di valutazione del corso](https://forms.gle/aicvJCNdNNtzHekb9). La compilazione è completamente anonima e non è obbligatoria. Grazie mille a tutti coloro che lo compileranno. In bocca al lupo per la vostra carriera universitaria!
+
 Le lezioni si terranno nei seguenti giorni con i seguenti orari
 
 | Giorno       | Ora             | Aula   |
@@ -149,3 +151,37 @@ $$\int \left(\sqrt[3]{x^5}-\frac{7}{x^2}+\frac{9}{\sqrt[5]{2x^3}}\right),\,\math
 $$\int\frac{1}{x^2-3x+2}\,\mathrm{d}x$$
 
 Gli appunti di questa lezione li trovate [qui](http://DavideMorgante.github.io/files/PrepMath/Lezione4.pdf)
+
+## Lezione 5: Algebra Lineare e Vettori
+In questa lezione abbiamo visto le basi dell'algebra dei vettori. Partendo dalla costruzione geometrica di vettore, con la definizione naïve di vettore come freccia, abbiamo poi studiato le operazioni sui vettori tramite la loro rappresentazione cartesiana e polare.
+
+Abbiamo introdotto poi le operazioni naturali sui vettori quali prodotto per scalare e somma tra vettori e come queste definiscano il concetto di [spazio vettoriale](https://en.wikipedia.org/wiki/Vector_space), dove le due operazioni sono così definite: presi due elementi dell'insieme $V$ che chiamiamo vettori, la somma $+$ agisce comme
+
+$$+:V\times V\rightarrow V$$
+
+mentre il prodotto per uno scalare $c\in\mathbb{K}$ dove $\mathbb{K}$ è il campo su cui stiamo lavorando (nel nostro caso i reali $\mathbb{R}$), agisce come
+
+$$\cdot: \mathbb{K}\times V \rightarrow V.$$
+
+Nel dettaglio abbiamo studiato le proprietà dei vettori in $\mathbb{R}^2$ e come su questi si possa definire anche un prodotto aggiuntivo detto [prodotto scalare](https://en.wikipedia.org/wiki/Dot_product), ossia un'operazione
+
+$$(\cdot,\cdot):V\times V\rightarrow\mathbb{R}$$
+
+Questa operazione ci permette di capire quando due vettori sono perpendicolari, i.e.
+
+$$v,w\in V\quad v\perp w \iff (v,w)=0$$
+
+Siamo passati poi in $\mathbb{R}^3$ dove tutte le strutture menzionate per $\mathbb{R}^2$ sono ancora valide ma abbiamo un'ulteriore prodotto, detto [prodotto vettoriale](https://en.wikipedia.org/wiki/Cross_product) ossia un prodotto
+
+$$\times: V\times V\rightarrow V$$
+
+Questa operazione ci permette di capire quando due vettori sono paralleli, i.e.
+
+$$v,w\in V\quad v\times w=0\iff v//w$$
+
+Gli appunti della lezione sono [qui](http://DavideMorgante.github.io/files/PrepMath/Lezione5.pdf)
+
+## Valutazione del Precorso
+Per chi volesse, [potete riempire questo form](https://forms.gle/aicvJCNdNNtzHekb9) e valutare il corso. Le risposte sono completamente anonime e la compilazione è libera!
+
+Grazie mille e in bocca al lupo per la vostra carriera universitaria!
