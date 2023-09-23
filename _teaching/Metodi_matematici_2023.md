@@ -75,7 +75,7 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 ## Lecture 4: Line integrals in the complex plane pt.2 (05/04/23)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Metodi23/5-04-23_Frigerio.pdf).
 
-## Lecture 5/6: Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (17-19/05/2023)
+## Lecture 5/6: Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (17-19/04/2023)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione2.pdf).
 Here you can find some [notes on Cayley-Hamilton theorem](https://web.mit.edu/2.151/www/Handouts/CayleyHamilton.pdf).
 
