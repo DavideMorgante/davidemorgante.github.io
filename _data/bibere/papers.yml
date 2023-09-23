@@ -64,3 +64,20 @@ sporadic:23:
   links: 
     - name: PDF
       link: https://arxiv.org/abs/2307.14146
+
+BBBWSpindle:23:
+  title: BBBW on the spindle
+  type: Paper
+  venue: preprint
+  year: 2023
+  authors: 
+    - amariti
+    - Salvo Mancani
+    - morgante
+    - Nicolò Petri
+    - segati
+  abstract: >
+    We study the spindle compactification of families of AdS$_5$  consistent truncations corresponding to M5 branes wrapped on complex curves in Calabi-Yau three-folds. From the AdS/CFT correspondence these models are dual to $N=1$ SCFTs obtained by gluing of $T_N$ blocks. The truncations considered here have both vector and hyper multiplets and the analysis of the BPS equations on the spindle allows to extract the central charges. Such analysis gives also consistency conditions for the existence of the solutions. The solutions are then found both analytically and numerically for opportune choices of the charges for some sub-families of truncations. We then compare our results with the one expected from the field theory side, by integrating the anomaly polynomial.
+  links: 
+    - name: PDF
+      link: https://arxiv.org/abs/2309.11362
