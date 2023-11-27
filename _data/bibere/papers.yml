@@ -28,24 +28,24 @@ UTfit:22:
   links:
     - name: PDF
       link: https://link.springer.com/article/10.1007/s12210-023-01137-5
-
-N3oneform:23:
-  title: One-form symmetries in &#x1D4A9;$\,=3$ $S$-folds
+    
+BBBWSpindle:23:
+  title: BBBW on the spindle
   type: Paper
   venue: preprint
   year: 2023
   authors: 
     - amariti
+    - Salvo Mancani
     - morgante
-    - pasternak
-    - rota
-    - Valdo Tatitscheff
+    - Nicolò Petri
+    - segati
   abstract: >
-    We classify the global one-form symmetries for non-Lagrangian $\scriptsize{\mathcal{N}=3}$ SCFTs that arise by the action of $\scriptsize{S}$-fold projections on D3-branes.  Such a classification is dictated, on a generic point of the Coulomb branch, by probing the charge spectrum of $\scriptsize{(p, q)}$-strings in the brane setup. The charge lattice of lines is then obtained by finding the ones that are genuine modulo screening by dynamical particles. The one-form symmetries are then extracted from the maximal sub-lattices of mutually local lines. We further comment on the existence of non-invertible symmetries for some of these $\scriptsize{\mathcal{N}=3}$ SCFTs.
-  links:
+    We study the spindle compactification of families of AdS$\scriptsize{_5}$  consistent truncations corresponding to M5 branes wrapped on complex curves in Calabi-Yau three-folds. From the AdS/CFT correspondence these models are dual to $\scriptsize{\mathcal{N}=1}$ SCFTs obtained by gluing of $\scriptsize{T_N}$ blocks. The truncations considered here have both vector and hyper multiplets and the analysis of the BPS equations on the spindle allows to extract the central charges. Such analysis gives also consistency conditions for the existence of the solutions. The solutions are then found both analytically and numerically for opportune choices of the charges for some sub-families of truncations. We then compare our results with the one expected from the field theory side, by integrating the anomaly polynomial.
+  links: 
     - name: PDF
-      link: https://arxiv.org/abs/2303.07299
-    
+      link: https://arxiv.org/abs/2309.11362
+      
 sporadic:23:
   title: Sporadic dualities from tensor deconfinement
   type: Paper
@@ -65,19 +65,20 @@ sporadic:23:
     - name: PDF
       link: https://arxiv.org/abs/2307.14146
 
-BBBWSpindle:23:
-  title: BBBW on the spindle
+N3oneform:23:
+  title: One-form symmetries in &#x1D4A9;$\,=3$ $S$-folds
   type: Paper
-  venue: preprint
+  venue: SciPost Phys.
+  doi: 10.21468/SciPostPhys.15.4.132
   year: 2023
   authors: 
     - amariti
-    - Salvo Mancani
     - morgante
-    - Nicolò Petri
-    - segati
+    - pasternak
+    - rota
+    - Valdo Tatitscheff
   abstract: >
-    We study the spindle compactification of families of AdS$\scriptsize{_5}$  consistent truncations corresponding to M5 branes wrapped on complex curves in Calabi-Yau three-folds. From the AdS/CFT correspondence these models are dual to $\scriptsize{\mathcal{N}=1}$ SCFTs obtained by gluing of $\scriptsize{T_N}$ blocks. The truncations considered here have both vector and hyper multiplets and the analysis of the BPS equations on the spindle allows to extract the central charges. Such analysis gives also consistency conditions for the existence of the solutions. The solutions are then found both analytically and numerically for opportune choices of the charges for some sub-families of truncations. We then compare our results with the one expected from the field theory side, by integrating the anomaly polynomial.
-  links: 
+    We classify the global one-form symmetries for non-Lagrangian $\scriptsize{\mathcal{N}=3}$ SCFTs that arise by the action of $\scriptsize{S}$-fold projections on D3-branes.  Such a classification is dictated, on a generic point of the Coulomb branch, by probing the charge spectrum of $\scriptsize{(p, q)}$-strings in the brane setup. The charge lattice of lines is then obtained by finding the ones that are genuine modulo screening by dynamical particles. The one-form symmetries are then extracted from the maximal sub-lattices of mutually local lines. We further comment on the existence of non-invertible symmetries for some of these $\scriptsize{\mathcal{N}=3}$ SCFTs.
+  links:
     - name: PDF
-      link: https://arxiv.org/abs/2309.11362
+      link: https://arxiv.org/abs/2303.07299
