@@ -4,6 +4,6 @@ title: Places
 support: [jquery, gallery]
 ---
 
-Here I have a collection of analog pictures made with my ...
+Here I have a collection of pictures made with my Fujifilm X-S10, usually followed by some Lightroom/Capture One editing.
 
 {% include gallery-layout.html gallery=site.data.galleries.places %}
