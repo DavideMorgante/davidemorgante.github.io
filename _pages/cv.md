@@ -26,6 +26,12 @@ Work experience
   * Duties included: Information desk for students and future students of the physics department
 * February - September 2022: Tutoring for the Mathematical Methods for Physics course at Unimi
   * Duties included: Exercise lessons, office hours for students and assisting during exams
+* September 2022: Teaching a pre-course of general Mathematics for freshmen at Unimi
+  * Duties included: Theory lessons, office hours for students 
+* February - September 2023: Tutoring for the Mathematical Methods for Physics course at Unimi
+  * Duties included: Exercise lessons, office hours for students and assisting during exams
+* September 2023: Teaching a pre-course of general Mathematics for freshmen at Unimi
+  * Duties included: Theory lessons, office hours for students 
 
 Publications
 ======

@@ -1,0 +1,10 @@
+---
+layout: gallery
+title: Photography
+permalink: /photography/
+author_profile: true
+---
+
+{% for post in site.photography %}
+  {% include gallery-layout.html %}
+{% endfor %}
