@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: gallery
 title: Photography
 permalink: /photography/
 support: [jquery, gallery]
@@ -27,5 +27,4 @@ support: [jquery, gallery]
 {% endfor %}
 
 {% if count != 1 %}
-</div>
 {% endif %}

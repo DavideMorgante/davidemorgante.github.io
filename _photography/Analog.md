@@ -1,6 +1,8 @@
 ---
-layout: gallery
+layout: archive
 title: Analog Pictures
+collection: photography
+permalink: /photography/Analog
 support: [jquery, gallery]
 ---
 
