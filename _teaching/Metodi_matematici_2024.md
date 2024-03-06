@@ -34,6 +34,8 @@ My office, DC/T/37, is located at the ground floor, at the end of the central co
 
 Andrea's office, BO.DO 06, is located at the 2th floor of the LITA building same corridor of Aula Polvani.
 
+<span style="color:red">First lecture is going to be on the 18th of March</span> 
+
 
 Here is a list of my favorite books, the more mathematical one are highlighted in red  
 
@@ -56,3 +58,4 @@ Here is a list of my favorite books, the more mathematical one are highlighted i
     * [Rudimenti di Analisi Infinito Dimensionale](https://www.roma1.infn.it/~cesi/rudimenti/RAID-s-v03.pdf) - Cesi
     * <span style="color:red">Distributions and Operators</span> - Grubb
 
+## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions pt. 1 (18/03/23)
