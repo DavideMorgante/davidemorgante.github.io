@@ -44,3 +44,79 @@ html {
   position: static;
   color: #AAA;
 }
+
+// Add transitions
+.lightGallery-captions {
+  h4,
+  p {
+      transition: transform 0.4s ease-in-out, opacity 0.4s ease-in;
+  }
+}
+.lg-current {
+  .lightGallery-captions {
+      h4,
+      p {
+          transition-delay: 500ms;
+      }
+  }
+  &.lg-slide-progress {
+      .lightGallery-captions {
+          h4,
+          p {
+              transition-delay: 0ms;
+          }
+      }
+  }
+}
+
+// Disappear
+.lightGallery-captions {
+  h4 {
+      transform: translate3d(60px, 0, 0px);
+  }
+  p {
+      transform: translate3d(-60px, 0, 0px);
+  }
+  h4,
+  p {
+      opacity: 0;
+  }
+}
+
+// Active
+.lg-current {
+  .lightGallery-captions {
+      h4,
+      p {
+          transform: translate3d(0, 0, 0px);
+      }
+      h4,
+      p {
+          opacity: 1;
+      }
+  }
+}
+
+// Disappear
+.lg-slide-progress {
+  .lightGallery-captions {
+      h4 {
+          transform: translate3d(-60px, 0, 0px);
+      }
+      p {
+          transform: translate3d(60px, 0, 0px);
+      }
+      h4,
+      p {
+          opacity: 0;
+      }
+  }
+}
+
+.inline-gallery-container {
+  width: 100%;
+
+  // set 60% height
+  height: 0;
+  padding-bottom: 65%;
+}
