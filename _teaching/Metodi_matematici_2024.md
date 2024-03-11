@@ -58,4 +58,4 @@ Here is a list of my favorite books, the more mathematical one are highlighted i
     * [Rudimenti di Analisi Infinito Dimensionale](https://www.roma1.infn.it/~cesi/rudimenti/RAID-s-v03.pdf) - Cesi
     * <span style="color:red">Distributions and Operators</span> - Grubb
 
-## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions pt. 1 (18/03/23)
+## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions pt. 1 (18/03/24)
