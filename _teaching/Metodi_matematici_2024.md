@@ -28,7 +28,7 @@ We organized also the following *office hours*, where the students can come and 
 | --------  | --------------- | ------------------------------------- |
 | Wednesday |  10.30-11.30    | LITA - BO.DO 06                       |      
 
-Before coming to the office hours, please send us an e-mail to know.
+Before coming to the office hours, please send us an e-mail to know. If you need to come outside office hours, send me (Davide) and e-mail and we can organize something 
 
 My office, DC/T/37, is located at the ground floor, at the end of the central corridor to the left, near the bathrooms (the office is two doors from prof. Molinari's office).
 
