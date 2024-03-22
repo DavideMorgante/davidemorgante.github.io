@@ -62,5 +62,5 @@ Here is a list of my favorite books, the more mathematical one are highlighted i
 You can find the pdf of the lesson by Andrea from [this link](http://DavideMorgante.github.io/files/Lezione1.pdf).
 Next lecture we are going to do similar exercises for the students that couldn't follow this lesson due to the laboratory course.
 
-
+You can find the pdf of the lesson by Me at [this link](http://DavideMorgante.github.io/files/Lezione1_3.pdf). The exercise of the differential equation can be found [here](http://DavideMorgante.github.io/files/Lezione1_2.pdf).
 
