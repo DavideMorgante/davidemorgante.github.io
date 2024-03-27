@@ -8,22 +8,34 @@ amariti:
   name:
     first: Antonio
     last: Amariti
-  website: "https://www0.mi.infn.it/~strings/memberhome.php?member=amariti"
+  website: "https://inspirehep.net/authors/1039451"
 
 rota:
   name:
     first: Simone
     last: Rota
-  website: "https://www0.mi.infn.it/~strings/memberhome.php?member=rota"
+  website: "https://inspirehep.net/authors/1904059"
 
 segati:
   name:
     first: Alessia
     last: Segati
-  website: "https://www0.mi.infn.it/~strings/memberhome.php?member=segati"
+  website: "https://inspirehep.net/authors/1890643"
 
 pasternak:
   name:
     first: Antoine
     last: Pasternak
-  website: "https://www0.mi.infn.it/~strings/memberhome.php?member=pasternak"
+  website: "https://inspirehep.net/authors/1727157"
+
+glorioso:
+  name:
+    first: Pietro
+    last: Glorioso
+  website: "https://inspirehep.net/authors/2771598"
+
+zanetti:
+  name:
+    first: Andrea
+    last: Zanetti
+  website: "https://inspirehep.net/authors/2685896"

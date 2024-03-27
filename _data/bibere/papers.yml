@@ -82,3 +82,19 @@ N3oneform:23:
   links:
     - name: PDF
       link: https://arxiv.org/abs/2303.07299
+
+BHGW:
+  title: "Cardy matches Bethe on the Surface: a Tale of a Brane and a Black Hole"
+  type: Paper
+  venue: preprint
+  year: 2024
+  authors: 
+    - amariti
+    - glorioso
+    - morgante
+    - zanetti
+  abstract: >
+    We consider the insertion of a Gukov-Witten surface defect in $\scriptsize{\mathrm{SU}(N)}$ $\scriptsize{\mathcal{N}=4}$ SYM corresponding to a probe D3-brane in the holographic dual setup. The defect gives rise to a $\scriptsize{4d}$-$\scriptsize{2d}$ coupled system encoding the entropy of the dual perturbed black hole, which can be extracted from the corresponding Superconformal Index. Elaborating on previous studies, we refine the results using both a saddle-point and a Bethe-Ansatz approach. The consistency of our computation is corroborated by the complete agreement between the two results in the appropriate regime of fugacities. Eventually, the sub-leading structure, emerging from our analysis, provides a suggestive EFT interpretation for the addition of the defect to the $\scriptsize{4d}$ system, mirroring the behavior of the probe D3-brane in the gravity dual. 
+  links:
+    - name: PDF
+      link: https://arxiv.org/abs/2403.17190
