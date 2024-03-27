@@ -64,3 +64,5 @@ Next lecture we are going to do similar exercises for the students that couldn't
 
 You can find the pdf of my lesson at [this link](http://DavideMorgante.github.io/files/Lezione1_3.pdf). The exercise of the differential equation can be found [here](http://DavideMorgante.github.io/files/Lezione1_2.pdf).
 
+## Lecture 3: Line integrals in the complex plane pt.1 (25/03/24)
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Integrali_1.pdf). The last exercise we didn't do in class.
