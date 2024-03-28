@@ -39,3 +39,21 @@ zanetti:
     first: Andrea
     last: Zanetti
   website: "https://inspirehep.net/authors/2685896"
+
+mantegazza:
+  name:
+    first: Fabio
+    last: Mantegazza
+  website: "https://inspirehep.net/authors/2527685"
+
+petri:
+  name: 
+    first: Nicolò
+    last: Petri
+  website: "https://inspirehep.net/authors/1364822"
+
+tatitscheff:
+  name:
+    first: Valdo
+    last: Tatitscheff
+  website: "https://inspirehep.net/authors/1804711"
