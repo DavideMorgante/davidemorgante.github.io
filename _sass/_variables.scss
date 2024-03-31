@@ -52,13 +52,31 @@ $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$lighter-gray               : var(--border-color)/*mix(#fff, $gray, 90%)*/;
+
+html { 
+	--light-text-color: rgb(72, 72, 74);
+  	--link-color: rgb(0, 112, 201);
+  	--main-background-color: rgb(255, 255, 255);
+  	--main-text-color: rgb(51, 51, 51);
+   --border-color: #a2a8ac2c;
+}
+
+@media (prefers-color-scheme: dark) {
+	html {
+		--light-text-color: rgb(199, 199, 204);
+  		--link-color: rgb(100, 167, 255);
+  		--main-background-color: rgb(28, 28, 30);
+  		--main-text-color: rgb(229, 229, 234);
+      --border-color: rgba(156, 142, 142, 0.2);
+	}
+}
 
 $body-color                 : #fff;
-$background-color           : #fff;
+$background-color           : var(--main-background-color)/*#fff*/;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
+$text-color                 : var(--light-text-color)/*$dark-gray*/;
 $border-color               : $lighter-gray;
 
 $primary-color              : #7a8288;
@@ -92,9 +110,9 @@ $orcid-color                : #a6ce39;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+$link-color                 : var(--link-color)/*$info-color*/;
+$link-color-hover           : mix(#000, $info-color, 25%);
+$link-color-visited         : mix(#fff, $info-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
@@ -122,9 +140,9 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 0px;
-$right-sidebar-width        : 0px;
-$right-sidebar-width-wide   : 0px;
+   $right-sidebar-width-narrow : 200px !default;
+   $right-sidebar-width        : 300px !default;
+   $right-sidebar-width-wide   : 400px !default;
 
 $susy: (
   columns: 12,
