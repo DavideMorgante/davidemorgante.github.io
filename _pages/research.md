@@ -43,9 +43,9 @@ $$ \tau\rightarrow \tau+1,\qquad \tau\rightarrow -\frac{1}{\tau}$$
 
 and this action generates a group known as $\mathrm{SL}(2,\mathbb{Z})$, the *modular group of the torus*. This is no coincidence, in fact $\mathcal{N}=4$ SYM can be engineered from M-theory by wrapping a solitonic object known as M5-brane, around a torus $T^2$. EM-duality in M-theory is a pure geometrical concept related to the compact internal manifold $T^2\simeq S^1\times S^1$ and on how one wraps the M5 around the two circles. Not only that, but from String Theory $\mathcal{N}=4$ SYM is engineered by stacking D3-branes on each other and EM-duality is inherited by the $\mathrm{PSL}(2,\mathbb{Z})$ subgroup of $\mathrm{SL}(2,\mathbb{C})$ symmetry of the string worldsheet, acting on the axo-dilaton which sets the coupling of the low energy theory. Of course, the string theory interpretation and the M-theory one are related to each other.
 
-<div class="image-wrapper-opt" style="--width: 95%;">
+<div class="image-wrapper-opt" style="--width: 95%;--float:center">
   <a class="image">
-    <img src="../images/lefoch.png" hspace="20" vspace="20">
+    <img src="../images/lefoch.png" hspace="20" vspace="20" class="invertImg">
   </a>
 </div>
 
