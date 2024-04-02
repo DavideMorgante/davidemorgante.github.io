@@ -1,37 +1,101 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <div id="image-gallery" class="image-gallery">
   <div id="gallery-sizer" class="gallery-sizer"></div>
-  {% for picture in include.gallery.pictures %}
-    <div class="image-wrapper">
-      <a href="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.original }}"
-         data-responsive="{% for size in picture.sizes %} {{ site.url}}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}" 
-         class="image"
-         {% if picture.title %} data-sub-html="<div class='lightGallery-captions'><h4>{{ picture.title | escape }}</h4>{% if picture.caption %}<p>{{ picture.caption | escape }}</p>{% endif %}</div>"{% endif %}>
-        <img alt="{{ picture.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" />
-      </a>
+  <div class="container">
+    <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+    <img id="expandedImg" style="width:100%">
+    <div id="imgtext"></div>
+  </div>
+
+  <div class="row">
+    {% for picture in include.gallery.pictures %}
+  
+    <div class="column">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.original }}" alt="{{ picture.title | escape}}" style="width:100%" onclick="myFunction(this);">
+      <figcaption>
+        {{picture.caption || escape}}
+      </figcaption>
     </div>
 
-    <script>
-      $(document).ready(function() {
-        // Initialize LightGallery for each image link
-        $(".image-wrapper a").lightGallery({
-          thumbnail: true,
-        });
-      });
-    </script>
-  {% endfor %}
+    {% endfor %}
+  </div>
 </div>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+/* The grid: Four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+/* Style the images inside the grid */
+.column img {
+  opacity: 0.8; 
+  cursor: pointer; 
+}
+
+.column img:hover {
+  opacity: 1;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* The expanding image container */
+.container {
+  position: relative;
+  display: none;
+}
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+
+figcaption {
+  background-color: var(--main-background-color);
+  color: var(--main-text-color);
+  opacity: .5;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+</style>
+
 
 <script>
-  // init isotope
-  var $grid = $('#image-gallery').isotope({
-    percentPosition: true,
-    columnWidth: '#gallery-sizer',
-    itemSelector: '.image-wrapper',
-    layoutMode: "masonry"
-  });
-
-  // layout Isotope after each image loads
-  $grid.imagesLoaded().progress(function() {
-    $grid.masonry();
-  });
+function myFunction(imgs) {
+  var expandImg = document.getElementById("expandedImg");
+  var imgText = document.getElementById("imgtext");
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = "block";
+}
 </script>

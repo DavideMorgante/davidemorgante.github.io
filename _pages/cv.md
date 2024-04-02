@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,100 +8,26 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find the complete curriculum vitae [here](http://DavideMorgante.github.io/files/main.pdf).
 
-Education
-======
-* B.Sc. in Physics, Sapienza University of Rome, 2019, 110 with Honours
-  * Thesis: Semiclassical Transition Amplitudes (original: Ampiezze Semiclassiche di Transizione)
+## Education
+
+* Ph.D in Theoretical Physics, University of Milan, ongoing
+* Honorus Program, Sapienza University of Rome, 2020
 * M.Sc. in Theoretical High Energy Physics, Sapienza University of Rome, 2021, 110 with Honours
   * Thesis: Unitarity Triangle Analysis and Recent Theoretical Advancements on $\epsilon^\prime/\epsilon$
-* Honorus Program, Sapienza University of Rome, 2020
-* Ph.D in Theoretical Physics, University of Milan, ongoing
+* B.Sc. in Physics, Sapienza University of Rome, 2019, 110 with Honours
+  * Thesis: Semiclassical Transition Amplitudes (original: Ampiezze Semiclassiche di Transizione)
 
-Work experience
-======
-* Spring 2020: Student Collaboration Scholarship
-  * Sapienza University of Rome
-  * Duties included: Information desk for students and future students of the physics department
-* February - September 2022: Tutoring for the Mathematical Methods for Physics course at Unimi
-  * Duties included: Exercise lessons, office hours for students and assisting during exams
-* September 2022: Teaching a pre-course of general Mathematics for freshmen at Unimi
-  * Duties included: Theory lessons, office hours for students 
-* February - September 2023: Tutoring for the Mathematical Methods for Physics course at Unimi
-  * Duties included: Exercise lessons, office hours for students and assisting during exams
-* September 2023: Teaching a pre-course of general Mathematics for freshmen at Unimi
-  * Duties included: Theory lessons, office hours for students 
+## Here you can find the complete Curriculum Vitae
 
-Publications
-======
+<iframe id="inlineFrameExample" 
+    title="Curriculum Vitae di Davide Morgante" 
+    width="100%" 
+    height="500" 
+    src="../files/main.pdf"> 
+</iframe> 
 
-<div style = "position:relative; left:30px;" >
-    {% include base_path %}
-    {% assign minYear = include.minYear |  to_integer %}
-    <!-- Create a list of papers filtered by flags -->
-    {% assign filtered = '' | split: '' %}
-    {%- for p in site.data.bibere.papers -%}
-        {%- assign numyear = p[1].year | to_integer -%}
-        {%- if numyear >= minYear -%}
-            {%- if include.filterAuthor %}
-                {%- if p[1].authors contains include.filterAuthor -%}
-                    {% assign filtered = filtered | push: p %}
-                {%- endif -%}
-            {%- else -%}
-                {% assign filtered = filtered | push: p %}
-            {%- endif -%}
-        {%- endif -%}
-    {%- endfor -%}
-    <!-- Group filtered ones by year, sorted -->
-    {% assign years = filtered | group_by_exp: "p",
-    "p[1].year" | sort: "name" | reverse %}
+## Service
 
-    <!-- For each year, sorted by type (alphabetical), then sort_weight -->
-    {% for year in years %}
-        <ul class="papers">
-        {% assign types = year.items | group_by_exp: "p", "p[1].type" | sort: "name" %}
-        {% for type in types %}
-            {% assign weights = type.items | group_by_exp: "p", "p[1].sort_weight" | sort: "name" | reverse %}
-            {% for weight in weights %}
-                {% for p in weight.items %}
-                    {%- assign pid = p[0] -%}
-                    {% include bibere/paper.html pid=pid mainAuthor=include.mainAuthor %}
-                {% endfor %}
-            {% endfor %}
-        {% endfor %}
-        </ul>
-    {% endfor %}
-</div>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks and presentations
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Schools
-======
-
-* 3-8 September 2023: Partecipating at the [Categorical symmetries in Quantum Field Theory](https://indico.cern.ch/event/1131193/) school.
-* 24-29 July 2023: Partecipating at the [Strings 2023](https://events.perimeterinstitute.ca/event/29/) conference.
-* 12-15 June 2023: Participating at the [New Pathways in Exploration of Quantum Field Theory and Quantum Gravity beyond Supersymmetry III](https://indico.ictp.it/event/10193) seminar school.
-* 1 May-16 June 2023: Visiting at SISSA, Trieste.
-* 11-13 January 2023: Participating at the [Iberian Strings 2023](https://indico.cern.ch/event/1186409/) seminar school.
-* 20-22 December 2022: Participating at the [XVIII Avogadro meeting on Strings, Supergravity and Gauge Theories](https://agenda.infn.it/event/32934/).
-* 16 Novembre - 26 December 2022: Participating at the [LACES 2022 doctoral school](https://www.ggi.infn.it/laces/LACES22/index22.html).
-* 21-27 August 2022: Participating at the [CERN School on Supergravity, Strings and Gauge Theory 2022](https://indico.cern.ch/event/1092089/).
-* 23-25 March 2022: Participating at the [Iberian Strings 2022](https://www.unioviedo.es/hepth/activities/Iberian22/home.html) seminar school.
-* 9-13 May 2022: Participating at the [ICTP Spring School on Superstring Theory and Related Topics](https://indico.ictp.it/event/9784/overview).
-* 12-15 June 2022: Participating at the [Theories of Fundamental Interactions 2022](https://agenda.infn.it/event/29115/timetable/#20220614) INFN meeting
-
-Service
-======
 * I am a bone marrow donor. I strongly advise to everybody to do the same. You can find all the information you need in [ADMO site](https://admo.it/).
 * I am a blood donor. Same as before: I strongly advise everybody to do it. Do not fear the needle, it does not hurt; the donation lasts five minutes. You can find all the information in one of the many blood donor associations like [AVIS](https://www.avis.it/it).
