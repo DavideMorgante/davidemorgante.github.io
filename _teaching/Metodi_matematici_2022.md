@@ -1,10 +1,11 @@
 ---
-title: "Tutorato Metodi Matematici della Fisica A.A. 2021/22"
+title: "Tutorato Metodi Matematici della Fisica"
 collection: teaching
 type: "Laurea Triennale"
 permalink: /teaching/MM22
 venue: "Unimi, Fisica"
 date: 2022-04-01
+year: 2021/2022
 location: "Milano, Italia"
 ---
 

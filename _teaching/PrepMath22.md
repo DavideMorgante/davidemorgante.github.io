@@ -1,10 +1,11 @@
 ---
-title: "Precorso Matricole 2022/2023"
+title: "Precorso Matricole"
 collection: teaching
 type: "Laurea Triennale"
 permalink: /teaching/PrepMath22
 venue: "Unimi, Fisica"
 date: 2022-09-19
+year: 2022/2023
 location: "Milano, Italia"
 ---
 
