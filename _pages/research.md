@@ -11,10 +11,16 @@ header-includes:
 
 {% include base_path %}
 {% include toc %}
+<style>
+  div {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+</style>
 
 Here I would like to give some details of the research I've been pursuing with some buzz-words to the relevant literature and some basics about each topic. 
 
-# Supersymmetric dualities in various dimensions
+# Supersymmetric dualities in various dimensions 
 <div class="image-wrapper-opt" style="--width: 40%;--float: right;">
   <a class="image">
     <img src="../images/duality.png" hspace="20" vspace="20" />
@@ -73,3 +79,4 @@ Then, I've worked on giving a field theory interpretation to another $3d$ theory
 # M-theory and two-dimensional gauge theories
 
 # Black Hole microstate counting and Surface operators
+
