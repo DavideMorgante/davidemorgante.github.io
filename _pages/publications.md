@@ -15,7 +15,15 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+ 
 -->
 
-{% include bibere/byyear.html mainAuthor="morgante"%}
+{% include bibere/byyear.html mainAuthor='morgante' %}
+
+<style type="text/css">
+  div.arxivfeed {margin-bottom: 5px; width:700px;}
+</style>
+
+<div id="arxivfeed"></div>
+
 

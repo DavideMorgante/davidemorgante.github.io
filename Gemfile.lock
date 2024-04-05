@@ -23,6 +23,7 @@ GEM
     commonmarker (0.23.10)
     concurrent-ruby (1.2.2)
     connection_pool (2.4.1)
+    deep_merge (1.2.2)
     dnsruby (1.70.0)
       simpleidn (~> 0.2.1)
     drb (2.2.0)
@@ -131,6 +132,9 @@ GEM
       jekyll (~> 3.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
+    jekyll-get-json (1.0.0)
+      deep_merge (~> 1.2)
+      jekyll (>= 3.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
     jekyll-github-metadata (2.13.0)
@@ -271,6 +275,7 @@ DEPENDENCIES
   github-pages
   hawkins
   jekyll-feed
+  jekyll-get-json (~> 1.0)
   jekyll-sitemap
   webrick (~> 1.8)
 

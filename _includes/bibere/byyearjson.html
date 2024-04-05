@@ -1,0 +1,53 @@
+{% include base_path %}
+
+{% assign minYear = include.minYear |  to_integer %}
+
+<!-- Create a list of papers filtered by flags -->
+{% assign filtered = '' | split: '' %}
+{% assign y = '' | split: '' %}
+{%- for p in site.data.arxiv.entries -%}
+    {%- assign numyear = p.published | slice: 0, 4 | to_integer -%}
+    {%- if numyear >= minYear -%}
+        {%- if p.authors contains include.filterAuthor -%}
+            {%- unless y contains numyear -%}
+                {% assign y = y | push: numyear %}
+            {% endunless %}
+            {% assign filtered = filtered | push: p %}
+            {{ filtered }}
+        {%- endif -%}
+        {%- else -%}
+            {% assign filtered = filtered | push: p %}
+    {%- endif -%}
+{%- endfor -%}
+
+<p>
+<div>
+    <h3 style="display: inline-block">Publication year:</h3> 
+    {%- for year in y -%}
+        {%- if forloop.first == false -%}
+        , 
+        {% endif %}
+        <a href="#{{ year.name }}">{{ year }}</a>
+    {%- endfor -%}
+    .
+    <hr>
+</div>
+
+<div>
+    <!-- For each year, sorted by type (alphabetical), then sort_weight -->
+    {% for year in y %}
+        <span id="{{ year.name }}" class="yearGroup">{{ year.name }}</span>
+        <ul class="papers">
+        {% assign types = year.items | group_by_exp: "p", "p[1].type" | sort: "name" %}
+        {% for type in types %}
+            {% assign weights = type.items | group_by_exp: "p", "p[1].sort_weight" | sort: "name" | reverse %}
+            {% for weight in weights %}
+                {% for p in weight.items %}
+                    {%- assign pid = p[0] -%}
+                    {% include bibere/paper.html pid=pid mainAuthor=include.mainAuthor %}
+                {% endfor %}
+            {% endfor %}
+        {% endfor %}
+        </ul>
+    {% endfor %}
+</div>

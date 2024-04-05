@@ -294,6 +294,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-get-json
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -301,6 +302,11 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-get-json
+
+jekyll_get_json:
+  - data: arxiv
+    json: 'https://arxiv.org/a/0000-0002-9916-8297.json'
 
 
 # Archives
