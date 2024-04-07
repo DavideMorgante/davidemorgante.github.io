@@ -70,6 +70,6 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 
 Andrea did the same exercises of the previous link plus the first one that you can find from [this link](http://DavideMorgante.github.io/files/Metodi23/5-04-23_Frigerio.pdf). Here you can find a couple more exercises from last year.
 
-## Lecture 5:Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (25/03/24)
+## Lecture 5: Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (25/03/24)
 
 In the following weeks we are going to study in great details the properties of power expansions for holomorphic and meromorphic functions. This is a very relevant topic of this course, so I recommend coming to the tutoring classes. 
