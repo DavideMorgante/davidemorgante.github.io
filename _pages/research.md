@@ -10,12 +10,6 @@ header-includes:
 
 {% include base_path %}
 {% include toc %}
-<style>
-  div {
-    text-align: justify;
-    text-justify: inter-word;
-  }
-</style>
 
 Here I would like to give some details of the research I've been pursuing with some buzz-words to the relevant literature and some basics about each topic. 
 
