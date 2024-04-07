@@ -33,7 +33,7 @@ Before coming to the office hours, please send us an e-mail to know. If you need
 
 My office, DC/T/37, is located at the ground floor, at the end of the central corridor to the left, near the bathrooms (the office is two doors from prof. Molinari's office).
 
-Andrea's office, BO.DO 06, is located at the 2th floor of the LITA building same corridor of Aula Polvani.
+Andrea's office, BO.DO 06, is located at the 2nd floor of the LITA building same corridor of Aula Polvani.
 
 <span style="color:red">First lecture is going to be on the 18th of March</span> 
 
