@@ -1,0 +1,48 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="list__item">
+    <h2 class="archive__item-title" itemprop="headline">
+      {{ title }}
+    </h2>
+</div>
+<div class="rx">
+  <ul class="fa-ul">
+    {% if post.date %}
+      <li><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i><b>Date: </b> {{ post.date | date: '%B %d, %Y' }}</li>
+    {% endif %}
+    {% if post.venue %}
+      <li><i class="fa fa-university fa-fw" aria-hidden="true"></i><b>Venue: </b>{{ post.venue }}</li>
+    {% endif %}
+    {% if post.location %}
+      <li><i class="fa fa-map-marker fa-fw" aria-hidden="true"></i><b>Location: </b>{{post.location}}</li>
+    {% endif %}
+    {% if post.slides %}
+      <li><i class="fa fa-book fa-fw" aria-hidden="true"></i><b>Slides: </b> <a href="{{ post.slides }}">Link</a></li>
+    {% endif %}
+    {% if post.excerpt %}
+      <li><i class="fa fa-comment fa-fw" aria-hidden="true"></i><b>Abstract: </b>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>'}}</li>
+    {% endif %}
+  </ul>
+</div>
+
+<style>
+  div.rx {
+    margin: 0;
+    vertical-align: top;
+    display:inline-block;
+  }
+  ul {
+  /* Remove the ul default styling */
+    list-style: none;
+  }
+
+  li i {
+    margin-right: 1%;
+  }
+</style>
