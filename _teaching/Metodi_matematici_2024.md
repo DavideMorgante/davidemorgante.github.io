@@ -73,3 +73,9 @@ Andrea did the same exercises of the previous link plus the first one that you c
 ## Lecture 5: Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (25/03/24)
 
 In the following weeks we are going to study in great details the properties of power expansions for holomorphic and meromorphic functions. This is a very relevant topic of this course, so I recommend coming to the tutoring classes. 
+
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione2.pdf). **Please Note:** There is an error in the solution of the Cayley-Hamilton exercise. You can find the right solution from [this link](http://DavideMorgante.github.io/files/CH_corretto.pdf).
+
+Here you can find some [notes on Cayley-Hamilton theorem](https://web.mit.edu/2.151/www/Handouts/CayleyHamilton.pdf).
+
+
