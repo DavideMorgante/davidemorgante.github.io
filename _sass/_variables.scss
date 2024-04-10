@@ -69,10 +69,10 @@ html {
   		--main-background-color: rgb(28, 28, 30);
   		--main-text-color: rgb(229, 229, 234);
       --border-color: rgba(156, 142, 142, 0.2);
-      .invertImg img {
-         filter: invert(1);
-       }
 	}
+   .invertImg img {
+      filter: invert(1);
+    }
 }
 
 $body-color                 : #fff;
