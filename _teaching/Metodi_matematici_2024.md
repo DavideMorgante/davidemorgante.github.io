@@ -35,7 +35,7 @@ My office, DC/T/37, is located at the ground floor, at the end of the central co
 
 Andrea's office, BO.DO 06, is located at the 2nd floor of the LITA building same corridor of Aula Polvani.
 
-<span style="color:red">First lecture is going to be on the 18th of March</span> 
+<span style="color:red">No lecture on Monday 15/04/24</span> 
 
 
 Here is a list of my favorite books, the more mathematical one are highlighted in red  
@@ -59,18 +59,18 @@ Here is a list of my favorite books, the more mathematical one are highlighted i
     * [Rudimenti di Analisi Infinito Dimensionale](https://www.roma1.infn.it/~cesi/rudimenti/RAID-s-v03.pdf) - Cesi
     * <span style="color:red">Distributions and Operators</span> - Grubb
 
-## Lecture 1 & 2: Complex differentiability, Holomorphic functions, Harmonic functions (18-21/03/24)
+## Lectures 1 & 2: Complex differentiability, Holomorphic functions, Harmonic functions (18-21/03/24)
 You can find the pdf of the lesson by Andrea from [this link](http://DavideMorgante.github.io/files/Lezione1.pdf).
 Next lecture we are going to do similar exercises for the students that couldn't follow this lesson due to the laboratory course.
 
 You can find the pdf of my lesson at [this link](http://DavideMorgante.github.io/files/Lezione1_3.pdf). The exercise of the differential equation can be found [here](http://DavideMorgante.github.io/files/Lezione1_2.pdf).
 
-## Lecture 3 & 4: Line integrals in the complex plane (25/03/24 & 04/04/24)
+## Lectures 3 & 4: Line integrals in the complex plane (25/03/24 & 04/04/24)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Integrali_1.pdf). The last exercise we didn't do in class.
 
 Andrea did the same exercises of the previous link plus the first one that you can find from [this link](http://DavideMorgante.github.io/files/Metodi23/5-04-23_Frigerio.pdf). Here you can find a couple more exercises from last year.
 
-## Lecture 5: Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (25/03/24)
+## Lectures 5 & 6: Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (25/03/24)
 
 In the following weeks we are going to study in great details the properties of power expansions for holomorphic and meromorphic functions. This is a very relevant topic of this course, so I recommend coming to the tutoring classes. 
 
