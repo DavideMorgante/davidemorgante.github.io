@@ -17,8 +17,6 @@ author_profile: true
 {% endfor %}
  -->
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
 
 <div class="container">
   <div class="main_wrapper">
