@@ -92,11 +92,11 @@ var myChart = new Chart(ctx, {
         datasets: [{
             label: 'Unpublished Papers',
             backgroundColor: 'rgb(54, 162, 235)',
-            data: citableCounts // You can fill this with actual data if needed
+            data: citableCounts 
         }, {
             label: 'Published Papers',
             backgroundColor: 'rgb(255, 99, 132)',
-            data: publishedCounts // You can fill this with actual data if needed
+            data: publishedCounts 
         }]
     },
     options: {
