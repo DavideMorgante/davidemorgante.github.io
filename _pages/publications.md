@@ -28,7 +28,7 @@ author_profile: true
 {% include bibere/byyear.html mainAuthor='morgante' %}
 
 <script>
-  // Sample data (replace with your actual data)
+    
   const mainTextColor = getComputedStyle(document.documentElement).getPropertyValue('--main-text-color');
   const papers = [
       { title: "Paper 1", citations: 3, published: true },
@@ -37,14 +37,11 @@ author_profile: true
       { title: "Paper 4", citations: 2, published: false },
       { title: "Paper 5", citations: 6, published: false },
       { title: "Paper 6", citations: 0, published: false },
-      // Add more papers here...
   ];
 
-  // Initialize arrays to hold citation counts for citable and published papers
-  const citableCounts = [0, 0, 0, 0, 0]; // Initialize with zeros for each citation range
-  const publishedCounts = [0, 0, 0, 0, 0]; // Initialize with zeros for each citation range
+  const citableCounts = [0, 0, 0, 0, 0]; 
+  const publishedCounts = [0, 0, 0, 0, 0]; 
 
-  // Count the number of papers falling into each citation range for citable and published papers
   papers.forEach(paper => {
       const citations = paper.citations;
       if (paper.published) {
@@ -74,7 +71,6 @@ author_profile: true
       }
   });
 
-  // Draw the histogram
   var ctx = document.getElementById('citationHistogram').getContext('2d');
   var myChart = new Chart(ctx, {
   type: 'bar',
@@ -83,11 +79,11 @@ author_profile: true
   datasets: [{
       label: 'Citable Papers',
       backgroundColor: 'rgb(54, 162, 235)',
-      data: citableCounts // Sample data for citable papers
+      data: citableCounts 
   }, {
       label: 'Published Papers',
       backgroundColor: 'rgb(255, 99, 132)',
-      data: publishedCounts // Sample data for published papers
+      data: publishedCounts 
   }]
   },
   options: {
@@ -95,29 +91,29 @@ author_profile: true
       yAxes: [{
         ticks: {
             beginAtZero: true,
-            fontColor: mainTextColor // Set the color of the ticks on the y-axis to the value of --main-text-color
+            fontColor: mainTextColor
         },
         gridLines: {
-            color: mainTextColor // Set the color of the grid lines on the y-axis to the value of --main-text-color
+            color: mainTextColor
         }
     }],
     xAxes: [{
         ticks: {
-            fontColor: mainTextColor // Set the color of the ticks on the x-axis to the value of --main-text-color
+            fontColor: mainTextColor
         },
         gridLines: {
-            color: mainTextColor // Set the color of the grid lines on the x-axis to the value of --main-text-color
+            color: mainTextColor
         }
       }]
     },
     legend: {
             labels: {
-                fontColor: mainTextColor // Set the color of the legend labels to the value of --main-text-color
+                fontColor: mainTextColor 
             }
     }
   }
   });
-   // Draw the doughnut chart for paper count
+
         var ctxDoughnut = document.getElementById('paperCountDoughnut').getContext('2d');
         var myChartDoughnut = new Chart(ctxDoughnut, {
             type: 'doughnut',
