@@ -2,6 +2,7 @@ chiraldual:22:
   title: "Chiral dualities for SQCD$_3$ with D-type superpotential"
   type: Paper
   venue: JHEP
+  citations: 3
   doi: 10.1007/JHEP02(2023)032
   year: 2022
   authors:
@@ -18,6 +19,7 @@ UTfit:22:
   title: "New UTfit Analysis of the Unitarity Triangle in the Cabibbo-Kobayashi-Maskawa scheme"
   type: Paper
   venue: Rend.Lincei Sci.Fis.Nat. 34 (2023) 37-57
+  citations: 59
   doi: 10.1007/s12210-023-01137-5
   year: 2022
   authors:
@@ -33,6 +35,7 @@ BBBWSpindle:23:
   title: BBBW on the spindle
   type: Paper
   venue: preprint
+  citations: 6
   year: 2023
   authors: 
     - amariti
@@ -50,6 +53,7 @@ sporadic:23:
   title: Sporadic dualities from tensor deconfinement
   type: Paper
   venue: preprint
+  citations: 2
   year: 2023
   authors: 
     - amariti
@@ -68,6 +72,7 @@ sporadic:23:
 N3oneform:23:
   title: One-form symmetries in &#x1D4A9;$\,=3$ $S$-folds
   type: Paper
+  citations: 12
   venue: SciPost Phys.
   doi: 10.21468/SciPostPhys.15.4.132
   year: 2023
@@ -86,6 +91,7 @@ N3oneform:23:
 BHGW:
   title: "Cardy matches Bethe on the Surface: a Tale of a Brane and a Black Hole"
   type: Paper
+  citations: 0
   venue: preprint
   year: 2024
   authors: 
