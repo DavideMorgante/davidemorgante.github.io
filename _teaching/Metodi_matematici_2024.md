@@ -70,7 +70,7 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 
 Andrea did the same exercises of the previous link plus the first one that you can find from [this link](http://DavideMorgante.github.io/files/Metodi23/5-04-23_Frigerio.pdf). Here you can find a couple more exercises from last year.
 
-## Lectures 5 & 6: Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (25/03/24)
+## Lectures 5 & 6: Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (8-11/04/24)
 
 In the following weeks we are going to study in great details the properties of power expansions for holomorphic and meromorphic functions. This is a very relevant topic of this course, so I recommend coming to the tutoring classes. 
 
@@ -78,4 +78,8 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 
 Here you can find some [notes on Cayley-Hamilton theorem](https://web.mit.edu/2.151/www/Handouts/CayleyHamilton.pdf).
 
+## Lectures 7 & 6: Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (18/04/24)
 
+You can find the pdf of this lecture from [this link](../files/Laurent_18.pdf). We also solved the exercise I left for homework of the laurent expansion of $\mathrm{log}(-z)/(z^2-1)^2$. Next Monday Andrea will do the same exercises. 
+
+For the ones of you that never saw the Riemann surface of multi-valued functions, I really advise you to watch this [short video series](https://www.youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF) on complex functions which I find really instructive. 
