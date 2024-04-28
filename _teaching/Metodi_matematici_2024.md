@@ -78,7 +78,7 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 
 Here you can find some [notes on Cayley-Hamilton theorem](https://web.mit.edu/2.151/www/Handouts/CayleyHamilton.pdf).
 
-## Lectures 7 & 6: Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (18/04/24)
+## Lectures 7 & 8: Taylor and Laurent series, Radius of convergence, Cayley-Hamilton theorem for the power of a matrix (18-22/04/24)
 
 You can find the pdf of this lecture from [this link](../files/Laurent_18.pdf). We also solved the exercise I left for homework of the laurent expansion of $\mathrm{log}(-z)/(z^2-1)^2$. Next Monday Andrea will do the same exercises. 
 
