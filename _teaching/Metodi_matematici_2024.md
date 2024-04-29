@@ -35,7 +35,7 @@ My office, DC/T/37, is located at the ground floor, at the end of the central co
 
 Andrea's office, BO.DO 06, is located at the 2nd floor of the LITA building same corridor of Aula Polvani.
 
-<span style="color:red">No lecture on Monday 15/04/24</span> 
+<span style="color:red">No lecture on Thursday 02/05/24</span> 
 
 
 Here is a list of my favorite books, the more mathematical one are highlighted in red  
