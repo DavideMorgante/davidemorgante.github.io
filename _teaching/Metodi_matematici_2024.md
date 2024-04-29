@@ -83,3 +83,5 @@ Here you can find some [notes on Cayley-Hamilton theorem](https://web.mit.edu/2.
 You can find the pdf of this lecture from [this link](../files/Laurent_18.pdf). We also solved the exercise I left for homework of the laurent expansion of $\mathrm{log}(-z)/(z^2-1)^2$. Next Monday Andrea will do the same exercises. 
 
 For the ones of you that never saw the Riemann surface of multi-valued functions, I really advise you to watch this [short video series](https://www.youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF) on complex functions which I find really instructive. 
+
+## Lectures 9 & 10: Residue Theorem, Cauchy Principal Value, Order k poles and their residues, Integrals with branch cuts (29-?/04/24)
