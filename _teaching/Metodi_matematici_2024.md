@@ -8,15 +8,16 @@ date: 2024-03-06
 year: 2023/2024
 location: "Milano, Italia"
 ---
+{% include text-expand.html %}
 
 Here you can find the various notes of the lectures with the exercises presented during the lessons plus some other exercises that I didn't have time to do in class. Most of the notes come with some basic theory behind the exercises themselves.
 
 The lectures are held in presence in the following days
 
-| Day       | Time            | Classroom                             |
-| --------  | --------------- | ------------------------------------- |
-| Monday    |  16.30-18       | Aula D                                |
-| Thursday  |  16.30-18       | Aula I                                |
+| Day      | Time     | Classroom |
+| -------- | -------- | --------- |
+| Monday   | 16.30-18 | Aula D    |
+| Thursday | 16.30-18 | Aula I    |
 
 I strongly recommend to follow the lectures in class so that you can ask me any question directly. For any other questions related to exercises, done and not done during the lecture, you can contact Me or Andrea Barontini at the following e-mail addresses
 
@@ -25,9 +26,9 @@ I strongly recommend to follow the lectures in class so that you can ask me any 
 
 We organized also the following *office hours*, where the students can come and ask us questions
 
-| Day       | Time            | Office                                |
-| --------  | --------------- | ------------------------------------- |
-| Wednesday |  10.30-11.30    | LITA - BO.DO 06                       |      
+| Day       | Time        | Office          |
+| --------- | ----------- | --------------- |
+| Wednesday | 10.30-11.30 | LITA - BO.DO 06 |
 
 Before coming to the office hours, please send us an e-mail to know. If you need to come outside office hours, send me (Davide) and e-mail and we can organize something 
 
@@ -37,27 +38,39 @@ Andrea's office, BO.DO 06, is located at the 2nd floor of the LITA building same
 
 <span style="color:red">No lecture on Thursday 02/05/24</span> 
 
-
-Here is a list of my favorite books, the more mathematical one are highlighted in red  
-
-  * Complex Analysis:
-    * <span style="color:red">Functional Theory of One Complex Variable</span> - Greene, Krantz
-    * <span style="color:red">Complex Analysis</span> - Ahlfors
-    * Elementi di Analisi Complessa - Presilla (Con moltissimi esercizi svolti)
-    * <span style="color:red">Algebraic Curves and Riemann Surfaces</span> - Miranda
-  * General Mathematical Methods:
-    * Mathematics of Classical and Quantum Physics - Byron, Fuller
-    * Mathematical Methods for Students of Physics and Related Fields - Hassani
-    * Mathematical Methods for Physics and Engineering - Riley, Hobson, Bence
-    * [Appunti di Metodi Matematici della Fisica](https://www.ge.infn.it/~zanghi/metodi/ZUL.pdf) - Zanghì
-    * Metodi Matematici della Fisica - Cicogna
-    * A Guide to Mathematical Methods for Physicists - Petrini, Pradisi, Zaffaroni
-  * Differential Equations
-    * Ordinary Differential Equations - Arnol'd
-    * Differential Equations, Dynamical Systems, and an Introduction to Chaos - Hirsch, Smale, Devaney
-  * Operators, Distributions and Functional Analysis:
-    * [Rudimenti di Analisi Infinito Dimensionale](https://www.roma1.infn.it/~cesi/rudimenti/RAID-s-v03.pdf) - Cesi
-    * <span style="color:red">Distributions and Operators</span> - Grubb
+<details>
+  <summary> Click here for a list of my favorite books, the more mathematical one are highlighted in red  </summary>
+  <par style="text-align: left">
+  <ol>
+    <li> Complex Analysis: </li>
+    <ul>
+      <li> <span style="color:red">Functional Theory of One Complex Variable</span> - Greene, Krantz </li>
+      <li> <span style="color:red">Complex Analysis</span> - Ahlfors </li>
+      <li> Elementi di Analisi Complessa - Presilla (Con moltissimi esercizi svolti) </li>
+      <li> <span style="color:red">Algebraic Curves and Riemann Surfaces</span> - Miranda </li>
+    </ul>
+    <li> General Mathematical Methods: </li>
+    <ul>
+      <li> Mathematics of Classical and Quantum Physics - Byron, Fuller </li>
+      <li> Mathematical Methods for Students of Physics and Related Fields - Hassani </li>
+      <li> Mathematical Methods for Physics and Engineering - Riley, Hobson, Bence </li>
+      <li> <a href="https://www.ge.infn.it/~zanghi/metodi/ZUL.pdf"> Appunti di Metodi Matematici della Fisica </a> - Zanghì </li>
+      <li> Metodi Matematici della Fisica - Cicogna </li>
+      <li> A Guide to Mathematical Methods for Physicists - Petrini, Pradisi, Zaffaroni </li>
+    </ul>
+    <li> Differential Equations: </li>
+    <ul>
+      <li> Ordinary Differential Equations - Arnol'd </li>
+      <li> Differential Equations, Dynamical Systems, and an Introduction to Chaos - Hirsch, Smale, Devaney </li>
+    </ul>
+    <li> Operators, Distributions and Functional Analysis: </li>
+    <ul>
+      <li> <a href="https://www.roma1.infn.it/~cesi/rudimenti/RAID-s-v03.pdf"> Rudimenti di Analisi Infinito Dimensionale </a> - Cesi </li>
+      <li> <span style="color:red">Distributions and Operators</span> - Grubb </li>
+    </ul>
+  </ol>
+  </par>
+</details>
 
 ## Lectures 1 & 2: Complex differentiability, Holomorphic functions, Harmonic functions (18-21/03/24)
 You can find the pdf of the lesson by Andrea from [this link](http://DavideMorgante.github.io/files/Lezione1.pdf).

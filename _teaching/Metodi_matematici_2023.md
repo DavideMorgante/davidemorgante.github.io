@@ -40,26 +40,40 @@ Massimo's office, BO.DO 06, is located at the 5th floor of the LITA building.
 <span style="color:red">N.B. I'm not going to be in Unimi untill the 15th June, so if you need to meet me or ask me question, you can send me an e-mail and we can orginese a zoom meeting. The rest of the lessons are going to be given by Massimo! If needed, we'll organise more tutoring classes when I'm back.</span>
 
 
-Here is a list of my favorite books, the more mathematical one are highlighted in red  
+<details>
+  <summary> Click here for a list of my favorite books, the more mathematical one are highlighted in red  </summary>
+  <par style="text-align: left">
+  <ol>
+    <li> Complex Analysis: </li>
+    <ul>
+      <li> <span style="color:red">Functional Theory of One Complex Variable</span> - Greene, Krantz </li>
+      <li> <span style="color:red">Complex Analysis</span> - Ahlfors </li>
+      <li> Elementi di Analisi Complessa - Presilla (Con moltissimi esercizi svolti) </li>
+      <li> <span style="color:red">Algebraic Curves and Riemann Surfaces</span> - Miranda </li>
+    </ul>
+    <li> General Mathematical Methods: </li>
+    <ul>
+      <li> Mathematics of Classical and Quantum Physics - Byron, Fuller </li>
+      <li> Mathematical Methods for Students of Physics and Related Fields - Hassani </li>
+      <li> Mathematical Methods for Physics and Engineering - Riley, Hobson, Bence </li>
+      <li> <a href="https://www.ge.infn.it/~zanghi/metodi/ZUL.pdf"> Appunti di Metodi Matematici della Fisica </a> - Zanghì </li>
+      <li> Metodi Matematici della Fisica - Cicogna </li>
+      <li> A Guide to Mathematical Methods for Physicists - Petrini, Pradisi, Zaffaroni </li>
+    </ul>
+    <li> Differential Equations: </li>
+    <ul>
+      <li> Ordinary Differential Equations - Arnol'd </li>
+      <li> Differential Equations, Dynamical Systems, and an Introduction to Chaos - Hirsch, Smale, Devaney </li>
+    </ul>
+    <li> Operators, Distributions and Functional Analysis: </li>
+    <ul>
+      <li> <a href="https://www.roma1.infn.it/~cesi/rudimenti/RAID-s-v03.pdf"> Rudimenti di Analisi Infinito Dimensionale </a> - Cesi </li>
+      <li> <span style="color:red">Distributions and Operators</span> - Grubb </li>
+    </ul>
+  </ol>
+  </par>
+</details>
 
-  * Complex Analysis:
-    * <span style="color:red">Functional Theory of One Complex Variable</span> - Greene, Krantz
-    * <span style="color:red">Complex Analysis</span> - Ahlfors
-    * Elementi di Analisi Complessa - Presilla (Con moltissimi esercizi svolti)
-    * <span style="color:red">Algebraic Curves and Riemann Surfaces</span> - Miranda
-  * General Mathematical Methods:
-    * Mathematics of Classical and Quantum Physics - Byron, Fuller
-    * Mathematical Methods for Students of Physics and Related Fields - Hassani
-    * Mathematical Methods for Physics and Engineering - Riley, Hobson, Bence
-    * [Appunti di Metodi Matematici della Fisica](https://www.ge.infn.it/~zanghi/metodi/ZUL.pdf) - Zanghì
-    * Metodi Matematici della Fisica - Cicogna
-    * A Guide to Mathematical Methods for Physicists - Petrini, Pradisi, Zaffaroni
-  * Differential Equations
-    * Ordinary Differential Equations - Arnol'd
-    * Differential Equations, Dynamical Systems, and an Introduction to Chaos - Hirsch, Smale, Devaney
-  * Operators, Distributions and Functional Analysis:
-    * [Rudimenti di Analisi Infinito Dimensionale](https://www.roma1.infn.it/~cesi/rudimenti/RAID-s-v03.pdf) - Cesi
-    * <span style="color:red">Distributions and Operators</span> - Grubb
 
 ## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions pt. 1 (27/03/23)
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione1.pdf).
