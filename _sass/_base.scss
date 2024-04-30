@@ -13,7 +13,9 @@ body {
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
+  letter-spacing: -0.4px;
   line-height: 1.5;
+  font-weight: $global-body-weight;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -313,3 +315,74 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* 
+  Collapsible list
+  ==========================================================================
+*/
+
+.accordion > input[type="checkbox"] {
+  position: absolute;
+  left: -100vw;
+}
+
+.accordion .content {
+  overflow-y: hidden;
+  height: 0;
+  transition: height 0.3s ease;
+}
+
+.accordion > input[type="checkbox"]:checked ~ .content {
+  height: auto;
+  overflow: visible;
+}
+
+.accordion label {
+  display: block;
+}
+
+/*
+Styling
+*/
+.accordion {
+  margin-bottom: 1em;
+}
+
+.accordion > input[type="checkbox"]:checked ~ .content {
+  padding: 15px;
+  border-top: 0;
+}
+
+.accordion .handle {
+  margin: 0;
+}
+
+.accordion label {
+  cursor: pointer;
+  font-weight: normal;
+  padding: 15px;
+  background-color: var(--border-color);
+  border: 1px solid var(--border-color);
+  color: var(--main-text-color);
+}
+
+.accordion label:hover,
+.accordion label:focus {
+  background-color: hsl(var(--border-color),50%);
+}
+
+.accordion .handle label:before {
+  font-family: 'fontawesome';
+  content: "\f054";
+  display: inline-block;
+  margin-right: 10px;
+  font-size: .58em;
+  line-height: 1.556em;
+  vertical-align: middle;
+  color: var(--main-text-color);
+}
+
+.accordion > input[type="checkbox"]:checked ~ .handle label:before {
+  content: "\f078";
+}
+

@@ -27,9 +27,12 @@ The number of my office is DC/T/37 and is located at the ground floor, at the en
 
 <span style="color:red">Important announcement: last lesson was on 16/06/2022. If you need help before the exam just come to our offices. I recommend to write an e-mail some days before to know if we are available. In any case, you can knock on our doors, maybe you'll find us in the office!</span>
 
-<details>
-  <summary> Click here for a list of my favorite books, the more mathematical one are highlighted in red  </summary>
-  <par style="text-align: left">
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+    <par class="handle">
+      <label for="handle1"> Here is a list of my favorite books, the more mathematical one are highlighted in red  </label>
+    </par>
+  <div class="content">
   <ol>
     <li> Complex Analysis: </li>
     <ul>
@@ -58,8 +61,8 @@ The number of my office is DC/T/37 and is located at the ground floor, at the en
       <li> <span style="color:red">Distributions and Operators</span> - Grubb </li>
     </ul>
   </ol>
-  </par>
-</details>
+  </div>
+</section>
 
 
 ## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions, Möebius Transformaion (04/04/22)

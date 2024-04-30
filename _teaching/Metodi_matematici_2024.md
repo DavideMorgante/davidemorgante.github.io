@@ -38,9 +38,12 @@ Andrea's office, BO.DO 06, is located at the 2nd floor of the LITA building same
 
 <span style="color:red">No lecture on Thursday 02/05/24</span> 
 
-<details>
-  <summary> Click here for a list of my favorite books, the more mathematical one are highlighted in red  </summary>
-  <par style="text-align: left">
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+    <par class="handle">
+      <label for="handle1"> Here is a list of my favorite books, the more mathematical one are highlighted in red  </label>
+    </par>
+  <div class="content">
   <ol>
     <li> Complex Analysis: </li>
     <ul>
@@ -69,8 +72,8 @@ Andrea's office, BO.DO 06, is located at the 2nd floor of the LITA building same
       <li> <span style="color:red">Distributions and Operators</span> - Grubb </li>
     </ul>
   </ol>
-  </par>
-</details>
+  </div>
+</section>
 
 ## Lectures 1 & 2: Complex differentiability, Holomorphic functions, Harmonic functions (18-21/03/24)
 You can find the pdf of the lesson by Andrea from [this link](http://DavideMorgante.github.io/files/Lezione1.pdf).
@@ -100,3 +103,4 @@ For the ones of you that never saw the Riemann surface of multi-valued functions
 ## Lectures 9 & 10: Residue Theorem, Cauchy Principal Value, Order k poles and their residues, Integrals with branch cuts (29-?/04/24)
 
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione4.pdf). Also, if you want you can check out this very interesting [youtube video](https://youtu.be/5RHSS-zMaAQ?si=QXOZS3OBUWbR5zsT) which explains in a very simple fashion the very deep connection between complex analysis and algebraic geometry. This topic is a very relevant one in theoretical physics, in particular for the analysis of [certain theories of particles](https://en.wikipedia.org/wiki/Supersymmetry) where exact solutions are known thanks to [Seiber-Witten theory](https://en.wikipedia.org/wiki/Seiberg%E2%80%93Witten_theory). Their work paved the ground to a deeper understanding of [electro-magnetic duality](https://en.wikipedia.org/wiki/Montonen%E2%80%93Olive_duality).
+

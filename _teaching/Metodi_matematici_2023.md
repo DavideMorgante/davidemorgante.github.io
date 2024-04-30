@@ -40,9 +40,12 @@ Massimo's office, BO.DO 06, is located at the 5th floor of the LITA building.
 <span style="color:red">N.B. I'm not going to be in Unimi untill the 15th June, so if you need to meet me or ask me question, you can send me an e-mail and we can orginese a zoom meeting. The rest of the lessons are going to be given by Massimo! If needed, we'll organise more tutoring classes when I'm back.</span>
 
 
-<details>
-  <summary> Click here for a list of my favorite books, the more mathematical one are highlighted in red  </summary>
-  <par style="text-align: left">
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+    <par class="handle">
+      <label for="handle1"> Here is a list of my favorite books, the more mathematical one are highlighted in red  </label>
+    </par>
+  <div class="content">
   <ol>
     <li> Complex Analysis: </li>
     <ul>
@@ -71,8 +74,8 @@ Massimo's office, BO.DO 06, is located at the 5th floor of the LITA building.
       <li> <span style="color:red">Distributions and Operators</span> - Grubb </li>
     </ul>
   </ol>
-  </par>
-</details>
+  </div>
+</section>
 
 
 ## Lecture 1: Complex differentiability, Holomorphic functions, Harmonic functions pt. 1 (27/03/23)
