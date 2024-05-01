@@ -7,7 +7,7 @@
    ========================================================================== */
 
 $doc-font-size              : 11;
-$global-body-weight         : 300;
+$global-body-weight         : 330;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -24,6 +24,7 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 $helvetica2                 : "Overpass", "Open Sans", Helvetica, sans-serif;
 $bebas                      : "Bebas Neue", sans-serif;
 $inter                      : "Inter", sans-serif;
+$rubrik                     : "Rubik", sans-serif;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
@@ -33,7 +34,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $inter;
-$header-font-family         : $inter;
+$header-font-family         : $rubrik;
 $caption-font-family        : $serif;
 
 /* type scale */
