@@ -36,8 +36,6 @@ My office, DC/T/37, is located at the ground floor, at the end of the central co
 
 Andrea's office, BO.DO 06, is located at the 2nd floor of the LITA building same corridor of Aula Polvani.
 
-<span style="color:red">No lecture on Thursday 02/05/24</span> 
-
 <section class="accordion">
   <input type="checkbox" name="collapse" id="handle1">
     <par class="handle">
@@ -100,7 +98,10 @@ You can find the pdf of this lecture from [this link](../files/Laurent_18.pdf). 
 
 For the ones of you that never saw the Riemann surface of multi-valued functions, I really advise you to watch this [short video series](https://www.youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF) on complex functions which I find really instructive. 
 
-## Lectures 9 & 10: Residue Theorem, Cauchy Principal Value, Order k poles and their residues, Integrals with branch cuts (29-?/04/24)
+## Lectures 9: Residue Theorem, Cauchy Principal Value, Order k poles and their residues, Integrals with branch cuts (29-?/04/24)
 
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione4.pdf). Also, if you want you can check out this very interesting [youtube video](https://youtu.be/5RHSS-zMaAQ?si=QXOZS3OBUWbR5zsT) which explains in a very simple fashion the very deep connection between complex analysis and algebraic geometry. This topic is a very relevant one in theoretical physics, in particular for the analysis of [certain theories of particles](https://en.wikipedia.org/wiki/Supersymmetry) where exact solutions are known thanks to [Seiber-Witten theory](https://en.wikipedia.org/wiki/Seiberg%E2%80%93Witten_theory). Their work paved the ground to a deeper understanding of [electro-magnetic duality](https://en.wikipedia.org/wiki/Montonen%E2%80%93Olive_duality).
 
+## Lectures 10: Residue Theorem, Cauchy Principal Value, Order k poles and their residues, Integrals with branch cuts (Andrea - 06/05/24)
+
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione6.pdf). Andrea is going to do these exercises on next monday. 
