@@ -7,6 +7,12 @@ venue: "Unimi, Fisica"
 date: 2024-03-06
 year: 2023/2024
 location: "Milano, Italia"
+header-includes: 
+  - \usepackage{tikz}
+  - \usepackage{pgfplots}
+  - \usetikzlibrary{calc}
+output:
+    pdf_document
 ---
 {% include text-expand.html %}
 
@@ -98,10 +104,20 @@ You can find the pdf of this lecture from [this link](../files/Laurent_18.pdf). 
 
 For the ones of you that never saw the Riemann surface of multi-valued functions, I really advise you to watch this [short video series](https://www.youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF) on complex functions which I find really instructive. 
 
-## Lectures 9: Residue Theorem, Cauchy Principal Value, Order k poles and their residues, Integrals with branch cuts (29-?/04/24)
+## Lectures 9-11: Residue Theorem, Cauchy Principal Value, Order k poles and their residues, Integrals with branch cuts 
+
+### 29/04/24
 
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione4.pdf). Also, if you want you can check out this very interesting [youtube video](https://youtu.be/5RHSS-zMaAQ?si=QXOZS3OBUWbR5zsT) which explains in a very simple fashion the very deep connection between complex analysis and algebraic geometry. This topic is a very relevant one in theoretical physics, in particular for the analysis of [certain theories of particles](https://en.wikipedia.org/wiki/Supersymmetry) where exact solutions are known thanks to [Seiber-Witten theory](https://en.wikipedia.org/wiki/Seiberg%E2%80%93Witten_theory). Their work paved the ground to a deeper understanding of [electro-magnetic duality](https://en.wikipedia.org/wiki/Montonen%E2%80%93Olive_duality).
 
-## Lectures 10: Residue Theorem, Cauchy Principal Value, Order k poles and their residues, Integrals with branch cuts (Andrea - 06/05/24)
+### Andrea - 06/05/24
 
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione6.pdf). Andrea is going to do these exercises on next monday. 
+
+### 09/05/24
+
+You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione4.pdf). Some of you had problems with the contribution from the poles in the first exercise. The function we needed to compute was 
+
+$$ \int_0^\infty \frac{\sqrt{x}}{x^2-16}\mathrm{d}x $$
+
+The contour integral we choose had two semicircular paths around the pole at $z=4$ and we found the value of the integral, in the limit of $r\rightarrow 0$ with the residue at the pole. This might seem confusing since the residue theorem is valid for closed paths containing some poles, while these two were not closed. The result in fact is a consequence of the [*small circle* lemma](https://it.wikipedia.org/wiki/Lemma_del_cerchio_piccolo) (The second lemma in the Wikipedia page), i.e. is a consequence of the behaviour of the function near the pole when we take the contour to be small. I'm sorry if I wasn't clear that it has "nothing" (sort of) to do with the residue theorem. 
