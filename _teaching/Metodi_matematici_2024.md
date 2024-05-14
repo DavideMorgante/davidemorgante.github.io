@@ -131,5 +131,4 @@ The contour integral we choose had two semicircular paths around the pole at $z=
 ## Lecture 5: Finite dimensional Hilbert Spaces and Operators acting on such Hilbert spaces 
 
 ### 13/05/24
-
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione9.pdf). We had time to do only the first exercise.
