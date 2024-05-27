@@ -128,7 +128,13 @@ $$ \int_0^\infty \frac{\sqrt{x}}{x^2-16}\mathrm{d}x $$
 
 The contour integral we choose had two semicircular paths around the pole at $z=4$ and we found the value of the integral, in the limit of $r\rightarrow 0$ with the residue at the pole. This might seem confusing since the residue theorem is valid for closed paths containing some poles, while these two were not closed. The result in fact is a consequence of the [*small circle* lemma](https://it.wikipedia.org/wiki/Lemma_del_cerchio_piccolo) (The second lemma in the Wikipedia page), i.e. is a consequence of the behaviour of the function near the pole when we take the contour to be small. I'm sorry if I wasn't clear that it has "nothing" (sort of) to do with the residue theorem. 
 
+### Andrea - 23/05/2024
+The exercises done by Andrea can be found in the last link.
+
 ## Lecture 5: Finite dimensional Hilbert Spaces and Operators acting on such Hilbert spaces 
 
 ### 13/05/24
 You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione9.pdf). We had time to do only the first exercise.
+
+### Andrea - 20/05/24
+The exercises done by Andrea can be found in the last link.
