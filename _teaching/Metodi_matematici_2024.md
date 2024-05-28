@@ -16,6 +16,8 @@ output:
 ---
 {% include text-expand.html %}
 
+<span style="color:red">Important announcement: there WON'T be lecture on the 3rd and 6th of June</span>
+
 Here you can find the various notes of the lectures with the exercises presented during the lessons plus some other exercises that I didn't have time to do in class. Most of the notes come with some basic theory behind the exercises themselves.
 
 The lectures are held in presence in the following days
@@ -138,3 +140,12 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 
 ### Andrea - 20/05/24
 The exercises done by Andrea can be found in the last link.
+
+## Lecture 6: Operators on finite dimensional Hilbert spaces, Group theory and Lie Groups
+
+### 27/05/2024
+You can find the pdf with the exercises [here](http://DavideMorgante.github.io/files/Lezione10.pdf). There is a lot to say about groups, algebras and their representation. In the lecture I've tried to give you some basics about it but they are not really needed to do the exercises. For the curious amongts you, I leve here some links
+
+  - [Definition of groups](https://en.wikipedia.org/wiki/Group_(mathematics)): we mainly talked about continuous groups, in particular we looked at $\mathrm{SO}(n)$, the special [orthogonal group])https://en.wikipedia.org/wiki/Orthogonal_group), which describes rotations in $\mathbb{R}^n$ and $\mathrm{U}(n)$, the [unitary group](https://en.wikipedia.org/wiki/Unitary_group), which describes rotations in $\mathbb{C}^n$. The group $\mathrm{SU}(2)$ is of particular interes in physics since it describes the behaviour of spin. These are also cases of [Lie groups](https://en.wikipedia.org/wiki/Lie_group), special groups which are also finite-dimensional smooth manifolds. 
+  - [Group representations](https://en.wikipedia.org/wiki/Group_representation): this tell us how to describe elements of groups by matrices. 
+  - [Lie algebras and generators](https://en.wikipedia.org/wiki/Lie_algebra#Generators_and_dimension): Lie groups are so special that all we need to know to describe them is their behaviour near the identity element, which is described by the tangent space at the identity. This space is the Lie algebra and the basis elements for this vector space are called generators. Lie algebras and Lie groups are connected by the [exponential map](https://en.wikipedia.org/wiki/Exponential_map_(Lie_theory)).
