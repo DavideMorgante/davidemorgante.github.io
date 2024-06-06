@@ -16,7 +16,7 @@ output:
 ---
 {% include text-expand.html %}
 
-<span style="color:red">Important announcement: there WON'T be lecture on the 3rd and 6th of June</span>
+<span style="color:red">Important announcement: there WON'T be lecture on the 3rd, 6th and 10th of June</span>
 
 Here you can find the various notes of the lectures with the exercises presented during the lessons plus some other exercises that I didn't have time to do in class. Most of the notes come with some basic theory behind the exercises themselves.
 
