@@ -16,7 +16,7 @@ output:
 ---
 {% include text-expand.html %}
 
-<span style="color:red">Important announcement: there WON'T be lecture on the 20th of June due to the exam</span>
+<span style="color:red">Important announcement: On Monday 24th we are going to give the solutions to the exam of 20/06/2024</span>
 
 Here you can find the various notes of the lectures with the exercises presented during the lessons plus some other exercises that I didn't have time to do in class. Most of the notes come with some basic theory behind the exercises themselves.
 
@@ -160,3 +160,5 @@ You can find the pdf of the lesson from [this link](http://DavideMorgante.github
 
 ### 17/06/24
 Upon request of the students we did some exercises on distributions. You can find the pdf of the lesson from [this link](http://DavideMorgante.github.io/files/Lezione15.pdf).
+
+## Last lecture: Exam 20/06/2024 (24/06/2024)
