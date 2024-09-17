@@ -90,3 +90,19 @@ Riporto qui alcuni esempi di classi di funzione con cui avrete più spesso a che
 Le ultime due classi di funzioni sono in realtà relazionate tra loro nel campo dei complessi tramite la [formula di Eulero](https://en.wikipedia.org/wiki/Euler%27s_formula).
 
 Per chi ne avesse bisogno, riporto qui degli [appunti](http://DavideMorgante.github.io/files/PrepMath/Lezione1.pdf) dell'ex tutor del corso Vittorio Erba riguardanti questa lezione.
+
+## Lezione 2: Derivate di Funzioni
+
+Abbiamo discusso l'interpretazione fisica della derivata con un esempio di meccanica classica dove la funzione $x(t)$ rapresenta la traiettoria di una particella puntiforme, e la sua derivata punto per punto $\dot{x}(t)$ rappresenta la velocità instantanea della suddetta particella.
+
+Si è introdotta poi la definizione formale di derivata come limite del rapporto incrementale e abbiamo discusso le derivate delle funzioni di base $x^\alpha, \sin x, \cos x, \tan x, \log_a x, a^x$ con annessa dimostrazione della derivata di $x^n$ con $n\in \mathbb{N}$.
+
+Abbiamo mostrato come la derivata agisce sulle operazioni binarie di base, in particolare come nel caso di somma tra due funzioni $f(x)+g(x)$ e prodotto per uno scalare $c f(x)$ questa agisca come un [operatore lineare](https://en.wikipedia.org/wiki/Linear_map) sullo [spazio vettoriale](https://en.wikipedia.org/wiki/Vector_space) delle funzioni. Abbiamo visto anche la regola di derivazione per le funzioni composte.
+
+Si è poi mostrato come caratterizzare, tramite la derivata, i punti stazionari di una funzione e come la derivata seconda ci permetta di discernere tra max, min e punto di flesso. Inoltre abbiamo visto come la derivata seconda descriva la concavità di una funzione.
+
+Per finire, abbiamo svolto qualche esercizio di ottimizzazione. In particolare vi invito a provare l'esercizio seguente
+
+> Fra tutti i triangoli rettangoli di perimetro fissato $2p$, trovare quello con area maggiore
+
+Le note di questa lezione potete trovarle [qui](http://DavideMorgante.github.io/files/PrepMath/Lezione2.pdf).
