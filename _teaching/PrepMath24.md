@@ -129,3 +129,56 @@ Se volete, potete provare a svolgere il seguente esercizio
 Altri esercizi potete trovarli nel libro "Dal problema al modello matematico vol. 3" che trovate al link sopra.
 
 Gli appunti della lezione sono [qui](http://DavideMorgante.github.io/files/PrepMath/Lezione3.pdf).
+
+## Lezione 4: Integrali Definiti e Indefiniti
+In questa lezione abbiamo visto come il concetto di integrale fuoriesca naturalmente in fisica quando vogliamo calcolare il lavoro di una forza variabile. Abbiamo così introdotto l'integrale definito tramite il limite delle somme parziali e abbiamo visto che l'integrabilità di una funzione è legata all'esistenza del suddetto limite delle aree superiori ed inferiori (questa definizione è dovuta a [Bernhard Riemann](https://it.wikipedia.org/wiki/Bernhard_Riemann); chiamiamo infatti questo integrale come [integrale di Riemann](https://en.wikipedia.org/wiki/Riemann_integral). Vedrete poi in corsi più avanzati come questa definizione possa essere migliorata, in some sense, con il concetto di [integrazione di Lebesgue](https://en.wikipedia.org/wiki/Lebesgue_integration)).
+
+Successivamente, si è introdotto il concetto di integrale indefinito come "applicazione inversa" (in realtà l'integrale definisce delle [classi di equivalenza](https://en.wikipedia.org/wiki/Equivalence_class) sullo spazio delle funzioni) alla derivata e ne abbiamo studiate le proprietà. Alcune derivano dal fatto che l'integrale indefinito è un operatore lineare
+
+$$\int (f+g)(x)\,\mathrm{d}x = \int f \,\mathrm{d}x+\int g\,\mathrm{d}x,\qquad \int cf(x)\,\mathrm{d}x=c\int f(x)\,\mathrm{d}x$$
+
+Si sono poi relazionati l'integrale indefinito con quello definito tramite il [teorema fondamentale del calcolo integrale](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus#Second_part).
+
+Dopo aver introdotto gli integrali indefiniti delle funzioni fondamentali, abbiamo poi svolto alcuni esercizi a riguardo.
+
+Vi lascio i seguenti esercizi da svolgere per allenarvi, ma potete trovarne moltissimi altri nel vol.3 del libro riportato a inizio pagina
+
+$$\int \left(\sqrt[3]{x^5}-\frac{7}{x^2}+\frac{9}{\sqrt[5]{2x^3}}\right),\,\mathrm{d}x\quad \int \left(x^e-e^x+\frac{\pi}{\sqrt[3]{4x}}\right)\,\mathrm{d}x,\quad \int (x+1)^2\,\mathrm{d}x$$
+
+$$\int\frac{1}{x^2-3x+2}\,\mathrm{d}x$$
+
+Gli appunti di questa lezione li trovate [qui](http://DavideMorgante.github.io/files/PrepMath/Lezione4.pdf)
+
+## Lezione 5: Algebra Lineare e Vettori
+In questa lezione abbiamo visto le basi dell'algebra dei vettori. Partendo dalla costruzione geometrica di vettore, con la definizione naïve di vettore come freccia, abbiamo poi studiato le operazioni sui vettori tramite la loro rappresentazione cartesiana e polare.
+
+Abbiamo introdotto poi le operazioni naturali sui vettori quali prodotto per scalare e somma tra vettori e come queste definiscano il concetto di [spazio vettoriale](https://en.wikipedia.org/wiki/Vector_space), dove le due operazioni sono così definite: presi due elementi dell'insieme $V$ che chiamiamo vettori, la somma $+$ agisce comme
+
+$$+:V\times V\rightarrow V$$
+
+mentre il prodotto per uno scalare $c\in\mathbb{K}$ dove $\mathbb{K}$ è il campo su cui stiamo lavorando (nel nostro caso i reali $\mathbb{R}$), agisce come
+
+$$\cdot: \mathbb{K}\times V \rightarrow V.$$
+
+Nel dettaglio abbiamo studiato le proprietà dei vettori in $\mathbb{R}^2$ e come su questi si possa definire anche un prodotto aggiuntivo detto [prodotto scalare](https://en.wikipedia.org/wiki/Dot_product), ossia un'operazione
+
+$$(\cdot,\cdot):V\times V\rightarrow\mathbb{R}$$
+
+Questa operazione ci permette di capire quando due vettori sono perpendicolari, i.e.
+
+$$v,w\in V\quad v\perp w \iff (v,w)=0$$
+
+Siamo passati poi in $\mathbb{R}^3$ dove tutte le strutture menzionate per $\mathbb{R}^2$ sono ancora valide ma abbiamo un'ulteriore prodotto, detto [prodotto vettoriale](https://en.wikipedia.org/wiki/Cross_product) ossia un prodotto
+
+$$\times: V\times V\rightarrow V$$
+
+Questa operazione ci permette di capire quando due vettori sono paralleli, i.e.
+
+$$v,w\in V\quad v\times w=0\iff v//w$$
+
+Gli appunti della lezione sono [qui](http://DavideMorgante.github.io/files/PrepMath/Lezione5.pdf)
+
+## Valutazione del Precorso
+Per chi volesse, [potete riempire questo form](https://forms.gle/aicvJCNdNNtzHekb9) e valutare il corso. Le risposte sono completamente anonime e la compilazione è libera!
+
+Grazie mille e in bocca al lupo per la vostra carriera universitaria!
