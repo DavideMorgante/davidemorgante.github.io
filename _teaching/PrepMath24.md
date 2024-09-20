@@ -9,6 +9,8 @@ year: 2024/2025
 location: "Milano, Italia"
 ---
 
+**Valutazione corso:** per chi volesse, potete compilare questo [form di valutazione del corso](https://forms.gle/aicvJCNdNNtzHekb9). La compilazione è completamente anonima e non è obbligatoria. Grazie mille a tutti coloro che lo compileranno. In bocca al lupo per la vostra carriera universitaria!
+
 Il corso consiste in cinque lezioni nelle quali verranno richiamate le basi della teoria degli insiemi, dell'analisi matematica e dell'algebra lineare. Il corso s'intende come un'introduzione a quegli argomenti che saranno trattati successivamente nei primi corsi di matematica della laurea in fisica.
 
 L'obiettivo del corso sarà quello di trattare i suddetti argomenti in maniera prettamente formale, introducendo gli studenti alle nozioni fondamentali.
