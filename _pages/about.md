@@ -18,44 +18,42 @@ I started my research career in high energy physics, in particular working on St
 CV in Short
 =========
 
-| 2021 -    | Ph.D in Theoretical Physics @ Unimi     |
+| 2021 - 2024   | Ph.D in Theoretical Physics @ Unimi     |
 | --------  | ------ | -------------------------------|
 | 2019 - 2021 | M.Sc. in Theoretical Physics @ Sapienza |
 | --------  | ------ | -------------------------------|
 | 2016 - 2019 | B.Sc. in Physics @ Sapienza           |
 
-News
+Publication 
 =========
 
 |------------------|--------|-----------------------------------------------------------------------|
-| 26 March         | 2024   | Preprint *"Cardy matches Bethe on the Surface: a Tale of a Brane and a Black Hole"*  |
+| Date             | ArXiv identifier |  Title and Authors                                          |
 |------------------|--------|-----------------------------------------------------------------------|
-| 20-22 December   | 2023   | Partecipating at the [XIX Avogadro meeting on Strings, Supergravity and Gauge Theories](https://agenda.infn.it/event/37447/) conference |
 |------------------|--------|-----------------------------------------------------------------------|
-| 3-8 September    | 2023   | Partecipating at the [Categorical symmetries in Quantum Field Theory](https://indico.cern.ch/event/1131193/) school |
+| 15 November 2024 | hep-th |  *"Modern Topics in Supersymmetry"*  my Ph.D Thesis                    |
 |------------------|--------|-----------------------------------------------------------------------|
-| 24-29 July       | 2023   | Partecipating at the [Strings 2023](https://events.perimeterinstitute.ca/event/29/) conference |
 |------------------|--------|-----------------------------------------------------------------------|
-| 1 May-16 June    | 2023   | Visiting at SISSA, Trieste |
+| 13 November 2024 | math-ph|  *"Simons Lectures on Categorical Symmetries"*  contribution to the review with M. Del Zotto|
 |------------------|--------|-----------------------------------------------------------------------|
-| 12-15 June       | 2023   | Participating at the [New Pathways in Exploration of Quantum Field Theory and Quantum Gravity beyond Supersymmetry III](https://indico.ictp.it/event/10193) seminar school. |
 |------------------|--------|-----------------------------------------------------------------------|
-| 10-13 January    | 2023   | Participating at the [Iberian Strings 2023](https://indico.cern.ch/event/1186409/) seminar school. |
+| 16 October 2024  | hep-th |  *"Dualities from dualities in 2d $\mathcal{N}=(2,0)$"*  with A. Amariti, P. Glorioso, F. Mantegazza and A. Zanetti|
 |------------------|--------|-----------------------------------------------------------------------|
-| 13 March         | 2023   | Preprint *"One-form symmetries in $\mathcal{N}=3$ $S$-folds"*  |
 |------------------|--------|-----------------------------------------------------------------------|
-| 20-22 December   | 2022   | Participating at the [XVIII Avogadro meeting on Strings, Supergravity and Gauge Theories](https://agenda.infn.it/event/32934/) |
+| 25 March 2024    | hep-th |  *"Cardy matches Bethe on the Surface: a Tale of a Brane and a Black Hole"*  with A. Amariti, P. Glorioso and A. Zanetti|
 |------------------|--------|-----------------------------------------------------------------------|
-| 7 December       | 2022   | Preprint *"New UTfit Analysis of the Unitarity Triangle in the Cabibbo-Kobayashi-Maskawa scheme"* |
 |------------------|--------|-----------------------------------------------------------------------|
-| 16 Nov - 26 Dec  | 2022   | Participating at the [LACES 2022 doctoral school](https://www.ggi.infn.it/laces/LACES22/index22.html) |
+| 20 September 2023| hep-th |  *"BBBW on the spindle"*  with A. Amariti, S. Mancani, N. Petri and A. Segati|
 |------------------|--------|-----------------------------------------------------------------------|
-| 27 September     | 2022   | Preprint *"Chiral dualities for SQCD$_{3}$ with D-type superpotential"* |
 |------------------|--------|-----------------------------------------------------------------------|
-| 21-27 August     | 2022   | Participating at the [CERN School on Supergravity, Strings and Gauge Theory 2022](https://indico.cern.ch/event/1092089/)                         |
-|------------------| ------ | ------------------------------------------------------------ |
-| 12-15 June       | 2022   | Participating at the [Theories of fundamental Interactions 2022](https://agenda.infn.it/event/29115/timetable/#20220614) INFN meeting                        |
-|------------------| ------ | ------------------------------------------------------------ |
-| 9-13 May         | 2022   | Participating at the [ICTP Spring School on Superstring Theory and Related Topics](https://indico.ictp.it/event/9784/overview)                          |
-|------------------| ------ | ------------------------------------------------------------ |
-| 23-25 March      | 2022   | Participating at the [Iberian Strings 2022](https://www.unioviedo.es/hepth/activities/Iberian22/home.html) seminar school.                         |
+| 26 July 2023     | hep-th |  *"Sporadic dualities from tensor deconfinement"*  with A. Amariti and F. Mantegazza|
+|------------------|--------|-----------------------------------------------------------------------|
+|------------------|--------|-----------------------------------------------------------------------|
+| 13 March 2023    | hep-th | *"One-form symmetries in $\mathcal{N}=3$ $S$-folds"*  with A. Amariti, A. Pasternak, S. Rota and V. Tatitscheff|
+|------------------|--------|-----------------------------------------------------------------------|
+|------------------|--------|-----------------------------------------------------------------------|
+| 7 December 2022  | hep-ph | *"New UTfit Analysis of the Unitarity Triangle in the Cabibbo-Kobayashi-Maskawa scheme"*  with the UT-fit collaboration|
+|------------------|--------|-----------------------------------------------------------------------|
+|------------------|--------|-----------------------------------------------------------------------|
+| 27 September 2022| hep-th | *"Chiral dualities for SQCD$_{3}$ with D-type superpotential"* with A. Amariti|
+|------------------|--------|-----------------------------------------------------------------------|

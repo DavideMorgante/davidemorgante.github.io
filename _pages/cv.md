@@ -18,13 +18,22 @@ redirect_from:
 * B.Sc. in Physics, Sapienza University of Rome, 2019, 110 with Honours
   * Thesis: Semiclassical Transition Amplitudes (original: Ampiezze Semiclassiche di Transizione)
 
-## Here you can find the complete Curriculum Vitae
+## Here you can find the shorter Curriculum Vitae
 
 <iframe id="inlineFrameExample" 
     title="Curriculum Vitae di Davide Morgante" 
     width="100%" 
     height="500" 
-    src="../files/main.pdf"> 
+    src="../files/CV_Job.pdf"> 
+</iframe> 
+
+## Here you can find the complete Academic Curriculum Vitae
+
+<iframe id="inlineFrameExample" 
+    title="Curriculum Vitae di Davide Morgante" 
+    width="100%" 
+    height="500" 
+    src="../files/CV_Acad.pdf"> 
 </iframe> 
 
 ## Service

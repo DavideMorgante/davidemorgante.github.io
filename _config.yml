@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Davide Morgante"
+  name             : "Davide Morgante, PhD"
   avatar           : "profile.jpeg"
-  bio              : "I am a Ph.D. at the University of Milan working on formal aspects of (Supersymmetric-) Quantum Field Theories, Holography and String/M-theory."
-  location         : "Milan"
-  employer         : "INFN Sezione di Milano"
+  bio              : "I am a PhD in Theoretical Phyisics, working on formal aspecs of (Supersymmetric) Quantum Field Theories, Holography and String/M-theory. Beside physics my passions are Data Science, Electronics and programming."
+  location         : "Rome"
+  employer         : 
   pubmed           :
   inspire          : "https://inspirehep.net/authors/2156706?ui-citation-summary=true"
   arxiv            : "https://arxiv.org/search/?searchtype=author&query=Morgante%2C+D"
   googlescholar    : "https://scholar.google.com/citations?user=iX00_VgAAAAJ&hl=en"
-  email            : "davide.morgante@mi.infn.it"
+  email            : "davide.morgante96@gmail.com"
   researchgate     : #"https://www.researchgate.net/profile/Davide-Morgante"
   uri              :
   bitbucket        :
