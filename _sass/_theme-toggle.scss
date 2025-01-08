@@ -1,0 +1,47 @@
+.theme-toggle {
+    --size: 2rem;
+  
+    background: none;
+    border: none;
+    padding: 0;
+  
+    inline-size: var(--size);
+    block-size: var(--size);
+    aspect-ratio: 1;
+    border-radius: 50%;
+
+  
+    cursor: pointer;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+  
+    outline-offset: 5px;
+  
+    transition: transform 0.3s ease, fill 0.3s ease;
+  
+    & > svg {
+      inline-size: 100%;
+      block-size: 100%;
+      stroke-linecap: round;
+      fill: var(--text-color); /* Use theme-based color */
+      transition: transform 0.3s ease, fill 0.3s ease;
+    }
+  
+    &:hover > svg {
+      transform: rotate(20deg);
+    }
+  
+    @media (hover: none) {
+      --size: 48px;
+    }
+  
+    /* Optional spacing when inside masthead menu */
+    .masthead__menu-item & {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 6rem;
+        margin-top: 10px;
+    }
+  }
+  

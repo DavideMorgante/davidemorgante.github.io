@@ -71,30 +71,33 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : var(--border-color)/*mix(#fff, $gray, 90%)*/;
 
-html { 
-	--light-text-color: rgb(72, 72, 74);
-  	--link-color: rgb(0, 112, 201);
-  	--main-background-color: rgb(255, 255, 255);
-  	--main-text-color: rgb(51, 51, 51);
+:root {
+   --light-text-color: rgb(72, 72, 74);
+   --link-color: rgb(0, 112, 201);
+   --main-background-color: rgb(255, 255, 255);
+   --main-text-color: rgb(51, 51, 51);
    --border-color: #a2a8ac2c;
    --blue-bar: rgba(100, 167, 255, 0.785);
    --red-bar: rgba(255, 46, 46, 0.745);
+   --icon-fill: hsl(210 10% 30%);
+   --icon-fill-hover: hsl(210 10% 15%);
+ }
+ 
+ [data-theme="dark"] {
+   --light-text-color: rgb(199, 199, 204);
+   --link-color: rgb(100, 167, 255);
+   --main-background-color: rgb(28, 28, 30);
+   --main-text-color: rgb(229, 229, 234);
+   --border-color: rgba(156, 142, 142, 0.2);
+   --blue-bar: rgba(100, 167, 255, 0.785);
+   --red-bar: rgba(255, 46, 46, 0.745);
+   --icon-fill: hsl(210 10% 70%);
+   --icon-fill-hover: hsl(210 15% 90%);
+ }
+.invertImg img {
+   filter: invert(1);
 }
 
-@media (prefers-color-scheme: dark) {
-	html {
-		--light-text-color: rgb(199, 199, 204);
-  		--link-color: rgb(100, 167, 255);
-  		--main-background-color: rgb(28, 28, 30);
-  		--main-text-color: rgb(229, 229, 234);
-      --border-color: rgba(156, 142, 142, 0.2);
-      --blue-bar: rgba(100, 167, 255, 0.785);
-      --red-bar: rgba(255, 46, 46, 0.745);
-	}
-   .invertImg img {
-      filter: invert(1);
-    }
-}
 
 $body-color                 : #fff;
 $background-color           : var(--main-background-color)/*#fff*/;
