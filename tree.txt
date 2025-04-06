@@ -1,0 +1,129 @@
+.
+├── _data
+│   ├── bibere
+│   ├── comments
+│   │   ├── layout-comments
+│   │   ├── markup-syntax-highlighting
+│   │   └── welcome-to-jekyll
+│   └── galleries
+├── _drafts
+├── _includes
+│   ├── analytics-providers
+│   ├── bibere
+│   ├── comments-providers
+│   ├── footer
+│   └── head
+├── _layouts
+├── _notes
+├── _pages
+├── _photography
+├── _portfolio
+├── _posts
+├── _publications
+├── _sass
+│   └── vendor
+│       ├── breakpoint
+│       │   └── parsers
+│       │       ├── double
+│       │       ├── resolution
+│       │       ├── single
+│       │       └── triple
+│       ├── font-awesome
+│       ├── magnific-popup
+│       └── susy
+│           └── susy
+│               ├── language
+│               │   ├── susy
+│               │   └── susyone
+│               ├── output
+│               │   ├── float
+│               │   ├── shared
+│               │   └── support
+│               └── su
+├── _site
+│   ├── about
+│   ├── archive-layout-with-content
+│   ├── assets
+│   │   ├── audio
+│   │   ├── bibliography
+│   │   ├── css
+│   │   ├── fonts
+│   │   ├── img
+│   │   │   └── publication_preview
+│   │   ├── js
+│   │   │   └── distillpub
+│   │   ├── json
+│   │   ├── jupyter
+│   │   ├── pdf
+│   │   ├── photography
+│   │   │   ├── Analog
+│   │   │   └── Places
+│   │   ├── plotly
+│   │   └── video
+│   ├── categories
+│   ├── collection-archive
+│   ├── cv
+│   ├── files
+│   │   ├── Metodi23
+│   │   ├── PrepMath
+│   │   └── seminars
+│   ├── images
+│   │   ├── dark
+│   │   └── light
+│   ├── markdown
+│   ├── markdown_generator
+│   ├── md
+│   ├── nmp
+│   ├── non-menu-page
+│   ├── notes
+│   ├── page-archive
+│   ├── photography
+│   ├── portfolio
+│   ├── publications
+│   ├── research
+│   ├── scripts
+│   ├── sitemap
+│   ├── tags
+│   ├── talkmap
+│   │   └── leaflet_dist
+│   ├── talks
+│   ├── teaching
+│   ├── terms
+│   ├── wordpress
+│   │   └── blog-posts
+│   └── year-archive
+├── _talks
+├── _teaching
+├── assets
+│   ├── audio
+│   ├── bibliography
+│   ├── css
+│   ├── fonts
+│   ├── img
+│   │   └── publication_preview
+│   ├── js
+│   │   ├── distillpub
+│   │   ├── plugins
+│   │   └── vendor
+│   │       └── jquery
+│   ├── json
+│   ├── jupyter
+│   ├── pdf
+│   ├── photography
+│   │   ├── Analog
+│   │   └── Places
+│   ├── plotly
+│   └── video
+├── files
+│   ├── Metodi23
+│   ├── PrepMath
+│   └── seminars
+├── images
+│   ├── dark
+│   └── light
+├── markdown_generator
+├── scripts
+└── talkmap
+    └── leaflet_dist
+
+127 directories
